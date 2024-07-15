@@ -1,4 +1,4 @@
-<!--
+s<!--
 
 author:   
 email:    
@@ -35,42 +35,42 @@ comment:  WissKi SODA OERs
 
 {{2-3}}
 ******************
-![Bild2](Bild2.png)
+![Bild2](assets/Bild2.png)
 ******************
 
 {{3-4}}
 ******************
-![Bild3](Bild3.png)
+![Bild3](assets/Bild3.png)
 ******************
 
 {{4-5}}
 ******************
-![Bild4](Bild4.png)
+![Bild4](assets/Bild4.png)
 ******************
 
 {{5-6}}
 ******************
-![Bild5](Bild5.png)
+![Bild5](assets/Bild5.png)
 ******************
 
 {{6-7}}
 ******************
-![Bild6](Bild6.png)
+![Bild6](assets/Bild6.png)
 ******************
 
 {{7-8}}
 ******************
-![Bild7](Bild7.png)
+![Bild7](assets/Bild7.png)
 ******************
 
 {{8-9}}
 ******************
-![Bild8](Bild8.png)
+![Bild8](assets/Bild8.png)
 ******************
 
 {{9}}
 ******************
-![Bild9](Bild9.png)
+![Bild9](assets/Bild9.png)
 ******************
 
 
