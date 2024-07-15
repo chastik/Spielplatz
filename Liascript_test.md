@@ -30,7 +30,7 @@ comment:  WissKi SODA OERs
 
 {{1-2}}
 ******************
-![Bild1](Bild1.png)
+![Bild1](assets/Bild1.png)
 ******************
 
 {{2-3}}
