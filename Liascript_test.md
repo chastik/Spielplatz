@@ -12,8 +12,6 @@ logo:     https://
 
 comment:  WissKi SODA OERs
 
-script:   https://cdn.jsdelivr.net/npm/mermaid@9.1.1/dist/mermaid.min.js
-
 -->
 
 # Willkommen
