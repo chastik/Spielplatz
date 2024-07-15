@@ -6,7 +6,7 @@ version:
 language: 
 narrator: 
 
-icon:     images\
+icon:     assets\
 
 logo:     https://
 
