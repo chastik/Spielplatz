@@ -28,11 +28,11 @@ Das Ziel dieser Einheit x von X ist es, ein standardisiertes und belastbares Aus
 
 Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
 
-Übergeordnetes Lernziel dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
+**Übergeordnetes Lernziel** dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
 
 ## Lernziele
 
-***FDM-Grundlagen
+**FDM-Grundlagen**
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
@@ -43,7 +43,7 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 - Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
 
 
-***OER-spezifische Data-Science-Lernziele
+**OER-spezifische Data-Science-Lernziele**
 
 - Klassen für Klassifikationsaufgabe benennen (neu)
 - Multi-Labels identifizieren und festlegen (neu)
@@ -52,24 +52,16 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 - eigene Daten vorbereiten 
 - konvertieren in benötigtes CSV
 
-***Weiterführende Einheiten
+**Weiterführende Einheiten**
 
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
 
-
-
-
-
-**Vorasusetzung
+**Vorasusetzung**
 
 - eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
 - Methoden zum Datenexport anwenden (LZ-ID_0412)
 - Datenexport erzeugen (anwenden) (LZ-ID_417)
-
-
- 
-## Footer
 
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
