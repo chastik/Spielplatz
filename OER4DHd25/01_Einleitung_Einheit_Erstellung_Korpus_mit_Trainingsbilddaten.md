@@ -63,6 +63,11 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 - Methoden zum Datenexport anwenden (LZ-ID_0412)
 - Datenexport erzeugen (anwenden) (LZ-ID_417)
 
+
+## Didaktisches Konzept
+
+
+ 
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
 
