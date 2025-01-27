@@ -30,16 +30,44 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 
 **Lernziele 
 
+- Konzepte zur automatischen Datenanalyse/klassifikation (neu) entwickeln (LZ-ID_0587)
+
+***FDM-Grundlagen
+
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
-- 
+
+- den Begriff Klassifikation erläutern (LZ-ID_720)
+- Beispiele von Klassifikationen benennen und erläutern (LZ-ID_731, 732)
+- Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
+
+
+***OER-spezifische Data-Science-Lernziele
+
+- Klassen für Klassifikationsaufgabe benennen (neu)
+- Multi-Labels identifizieren und festlegen (neu)
+- Labelspace entwickeln (neu)
+
+- eigene Daten vorbereiten 
+- konvertieren in benötigtes CSV
+
+***Weiterführende Einheiten
+
+- Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
+- Software zur Datananalyse anwenden (LZ-ID_0578)
+
+
+
 
 
 **Vorasusetzung
 
 - eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
-- Datenexport erzeugen (anwenden) (LZ-ID_403)
+- Methoden zum Datenexport anwenden (LZ-ID_0412)
+- Datenexport erzeugen (anwenden) (LZ-ID_417)
+
+
  
 
 
