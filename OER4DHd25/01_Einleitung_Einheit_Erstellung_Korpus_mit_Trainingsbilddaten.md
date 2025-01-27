@@ -30,6 +30,17 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 
 **Lernziele 
 
+- klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
+- die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
+- die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
+- 
+
+
+**Vorasusetzung
+
+- eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
+- Datenexport erzeugen (anwenden) (LZ-ID_403)
+ 
 
 
 > To see this document as an interactive LiaScript rendered version, click on the
