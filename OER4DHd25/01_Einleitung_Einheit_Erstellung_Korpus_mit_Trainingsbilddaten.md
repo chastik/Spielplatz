@@ -16,17 +16,7 @@ comment:  WissKi SODA OERs
 
 # Willkommen zu SODa OERs
 
-**Hallo SODA**
-
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge:
->
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/main/Liascript_test.md)
->
-> ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
-> This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-# Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation
+**Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
 Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, Computerspielen und xxxx vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
@@ -37,5 +27,18 @@ Diese Einheit vermittelt die grundlegenden Schritte und Methoden zur Erstellung 
 Das Ziel dieser Einheit x von X ist es, ein standardisiertes und belastbares Ausgangsdatenformat zu entwickeln, das die automatische Genreklassifikation am Beispiel von Computerspielen und Liebesbriefen ermöglicht.
 
 Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
+
+**Lernziele 
+
+
+
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/main/Liascript_test.md)
+>
+> ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
+> This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 
 
