@@ -1,6 +1,6 @@
 # Content
 
-This repo contains teaching material 
+This repo contains teaching material under construction
 
 ## Authors and acknowledgment
 If not declared diffently within seperate documents: Canan Hastik
