@@ -28,9 +28,9 @@ Das Ziel dieser Einheit x von X ist es, ein standardisiertes und belastbares Aus
 
 Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
 
-**Lernziele 
+Übergeordnetes Lernziel dieser Einheit ist es, ein Konzept zur automatischen Datenanalyse/klassifikation (neu) entwickeln (LZ-ID_0587)
 
-- Konzepte zur automatischen Datenanalyse/klassifikation (neu) entwickeln (LZ-ID_0587)
+## Lernziele
 
 ***FDM-Grundlagen
 
