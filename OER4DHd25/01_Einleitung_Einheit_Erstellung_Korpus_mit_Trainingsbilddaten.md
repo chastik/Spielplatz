@@ -57,7 +57,7 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
 
-**Vorasusetzung**
+**Vorausetzung**
 
 - eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
 - Methoden zum Datenexport anwenden (LZ-ID_0412)
