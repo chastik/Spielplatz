@@ -66,7 +66,15 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 
 ## Didaktisches Konzept
 
+Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen aber auch Verweise auf vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
+Das didaktische Konzept im Sinne des forschenden Lernens für diese OER orientiert sich an fünf Phasen des forschenden Lernens: 
+
+(1) Problemfindung
+(2) Exploration
+(3) Methodenanwendung
+(4) Reflexion
+(5) Präsentation & Transfer.
  
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
