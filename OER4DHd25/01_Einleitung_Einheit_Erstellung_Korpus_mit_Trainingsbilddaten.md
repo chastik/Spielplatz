@@ -18,13 +18,13 @@ comment:  WissKi SODA OERs
 
 **Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
-Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, Computerspielen und xxxx vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
+Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, bis Computerspielen vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
 Nicht nur im Kontext von Computerspielen ist die Genreklassifikation eine komplexe Aufgabe. Viele Objekte lassen sich nicht eindeutig einer Kategorie zuordnen, und die Vielzahl an Genres sowie deren Überschneidungen erfordern Fachkenntnis und gut kuratierte Daten. Ein entscheidender Schritt in diesem Prozess ist die Erstellung eines geeigneten Korpus mit Trainingsbilddaten, das die Grundlage für die Entwicklung und Optimierung eines Klassifikationsmodells bildet.
 
 Diese Einheit vermittelt die grundlegenden Schritte und Methoden zur Erstellung eines Korpus zur Entwicklung eines Ausgangsdatenformats für Klassifikationsarbeiten. Dabei spielen technische als auch kuratorische Aspekte, von der Auswahl und Aufbereitung relevanter Bilddaten über die Annotation mit Metadaten bis hin zur Sicherstellung der Datenqualität aber auch der Berücksichtigung ethischer und rechtlicher Rahmenbedingungen eine Rolle. 
 
-Das Ziel dieser Einheit x von X ist es, ein standardisiertes und belastbares Ausgangsdatenformat zu entwickeln, das die automatische Genreklassifikation am Beispiel von Computerspielen und Liebesbriefen ermöglicht.
+Das Ziel dieser Einheit 1 von 5 ist es, ein standardisiertes und belastbares Ausgangsdatenformat zu entwickeln, das die automatische Genreklassifikation am Beispiel von Computerspielen und Liebesbriefen ermöglicht.
 
 Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
 
