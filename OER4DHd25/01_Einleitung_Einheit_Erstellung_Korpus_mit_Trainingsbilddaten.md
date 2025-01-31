@@ -112,7 +112,9 @@ Der Prozess der Korpuserstellung wird in einem kleinen Tutorial zusammengefasst.
 
 In dem synchronen Lernsetting dieser Lerneinheit erfolgt die Taktung der Lernbausteine innerhalb der Einheit nach den Lernzielen und folgt dem Lernmodell nach Klaus Döring (Döring, Klaus W. Handbuch Lehren und Trainieren in der Weiterbildung. Weinheim: Beltz, 2008. S. 57–58).
 
-Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. Erst dann können Lernende das vermittelte Wissen aufnehmen und reflektieren. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. Durch den Diskurs wird das Gelernte vertieft. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele präsentiert, und die Lernenden erweitern ihr Wissen. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen.
+Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. Erst dann können Lernende das vermittelte Wissen aufnehmen und reflektieren. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. Durch den Diskurs wird das Gelernte vertieft. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele präsentiert, und die Lernenden erweitern ihr Wissen. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch erfolgt ein iterativer Wissensaufbau.
+
+
 
  
 To see this document as an interactive LiaScript rendered version, click on the
