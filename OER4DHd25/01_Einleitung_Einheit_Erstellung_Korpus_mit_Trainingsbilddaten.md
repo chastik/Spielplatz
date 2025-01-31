@@ -114,6 +114,8 @@ In dem synchronen Lernsetting dieser Lerneinheit erfolgt die Taktung der Lernbau
 
 Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. Erst dann können Lernende das vermittelte Wissen aufnehmen und reflektieren. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. Durch den Diskurs wird das Gelernte vertieft. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele präsentiert, und die Lernenden erweitern ihr Wissen. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch erfolgt ein iterativer Wissensaufbau.
 
+**Feedback**
+
 
 
  
