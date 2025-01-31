@@ -1,10 +1,9 @@
 <!--
 
-author:   
+author: Mathias Zinnen und Canan Hastik  
 email:    
-version:  
-language: 
-narrator: 
+version:  v1
+language: DE
 
 icon:     assets\
 
@@ -45,7 +44,7 @@ Lernende können
 
 ## Lernziele
 
-**FDM-Grundlagen**
+**FDM-Grundlagen** 
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
@@ -56,14 +55,13 @@ Lernende können
 - Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
 
 
-**OER-spezifische Data-Science-Lernziele**
+**OER-spezifische Data-Science-Aspekte**
 
 - Klassen für Klassifikationsaufgabe benennen (neu)
-- Multi-Labels identifizieren und festlegen (neu)
+- Multi-Labels benennen (neu)
 - Labelspace entwickeln (neu)
-
-- eigene Daten vorbereiten 
-- konvertieren in benötigtes CSV
+- eigene Daten analysieren, bewerten und entwickeln (neu) 
+- benötigtes Ausgangsformat entwickeln (neu)
 
 **Weiterführende Einheiten**
 
