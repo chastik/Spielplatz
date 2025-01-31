@@ -71,10 +71,29 @@ Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorp
 Das didaktische Konzept im Sinne des forschenden Lernens für diese OER orientiert sich an fünf Phasen des forschenden Lernens: 
 
 (1) Problemfindung
+
+Der Einstieg in das Thema findet mit einer realen Problemstellung statt. Die Herausforderungen der Genreklassifikation in Computerspiel-Sammlungen werden erörtert und bestehende Ansätze verglichen. 
+
+Forschungsleitfragen werden formuliert, wie z.B. 
+- Welche Merkmale von Bildern sind für die automatische Genreklassifikation relevant?
+- Welche Datenquellen sind geeignet, um ein repräsentatives Trainingskorpus zu erstellen?
+
 (2) Exploration
+
+Eine bestehende Datenquelle wird erkundet und hinsichtlich Datenqualität kritisch bewertet.
+
+
 (3) Methodenanwendung
+
+Eine Auswahl relevanter Bilddaten wird aufbereitet und mit Genre-Labels annotiert und ein standardisiertes Ausgangsformat für das maschinelle Lernen generiert. 
+
+
 (4) Reflexion
-(5) Präsentation & Transfer.
+
+
+(5) Präsentation & Transfer
+
+Der Prozess der Korpuserstellung wird in einem kleinen Tutorial zusammengefasst.
  
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
