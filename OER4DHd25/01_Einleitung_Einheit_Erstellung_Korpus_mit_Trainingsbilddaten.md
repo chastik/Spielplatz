@@ -79,7 +79,8 @@ Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorp
 
 **Lernform**
 
-Das didaktische Konzept im Sinne des forschenden Lernens für diese OER orientiert sich an fünf Phasen des forschenden Lernens: 
+Das didaktische Konzept im Sinne des forschenden Lernens für diese OER basiert auf fünf Phasen (in Anlehnung an Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
+Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033): 
 
 (1) Problemfindung
 
@@ -92,7 +93,7 @@ Forschungsleitfragen werden formuliert, wie z.B.
 
 (2) Exploration
 
-Eine bestehende Datenquelle wird erkundet und hinsichtlich Datenqualität kritisch bewertet.
+Eine bestehende Datenquelle wird erkundet und hinsichtlich des Erschließungsumfangs und der Datenqualität kritisch bewertet.
 
 
 (3) Methodenanwendung
@@ -116,7 +117,7 @@ Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags
 
 **Materialien**
 
-Benötigt werden ein eigenes Laptop.
+Benötigt wird ein eigenes Laptop.
 
 **Feedback**
 
