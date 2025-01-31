@@ -30,6 +30,17 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 
 **Übergeordnetes Lernziel** dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
 
+## Zielgruppe
+
+Diese Lerneinheit richtet sich an ... siehe SODa Personas
+
+**Vorausetzung**
+
+- eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
+- Methoden zum Datenexport anwenden (LZ-ID_0412)
+- Datenexport erzeugen (anwenden) (LZ-ID_417)
+
+
 ## Lernziele
 
 **FDM-Grundlagen**
@@ -56,12 +67,6 @@ Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der dig
 
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
-
-**Vorausetzung**
-
-- eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
-- Methoden zum Datenexport anwenden (LZ-ID_0412)
-- Datenexport erzeugen (anwenden) (LZ-ID_417)
 
 
 ## Didaktisches Konzept
