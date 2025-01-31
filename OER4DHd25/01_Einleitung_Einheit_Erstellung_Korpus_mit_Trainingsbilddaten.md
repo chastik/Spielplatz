@@ -12,7 +12,7 @@ comment:  WissKi SODA OERs
 
 -->
 
-# Willkommen zu SODa OERs
+# Willkommen zu SODa OERs (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen
 
 **Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
