@@ -90,6 +90,7 @@ Eine Auswahl relevanter Bilddaten wird aufbereitet und mit Genre-Labels annotier
 
 (4) Reflexion
 
+Das Korpus wird hinsichtlich der Repräsentativität, Herausvorderungen, Grenzen und Optimierungsmöglichkeiten erörtert.
 
 (5) Präsentation & Transfer
 
