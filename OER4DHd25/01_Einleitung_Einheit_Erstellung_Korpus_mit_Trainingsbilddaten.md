@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # Willkommen zu SODa OERs 
 
-**Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen**
+*Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen*
 
 **Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
