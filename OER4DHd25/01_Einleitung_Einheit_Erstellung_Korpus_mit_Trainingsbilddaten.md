@@ -12,9 +12,11 @@ comment:  WissKi SODA OERs
 
 -->
 
-# Willkommen zu SODa OERs (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen
+# Willkommen zu SODa OERs 
 
-**Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
+**Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen**
+
+**Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
 Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, bis Computerspielen vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
