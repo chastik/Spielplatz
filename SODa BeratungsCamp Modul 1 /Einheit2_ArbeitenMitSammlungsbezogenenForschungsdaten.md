@@ -90,8 +90,7 @@ und zum Thema „Grundbegriffe“
 
 **Methoden**
 
-- zu 2.1 Beispiele für Forschungsdaten: Steckbrief
-- zu 1.4 Handlungsfelder im FDM: Stempel
-- zu 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
-- zu 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
-- zu 1.7 Beratungsbedarfe: Erwartungsabfrage
+- zu 2.1 Beispiele für Forschungsdaten: Zuruf
+- zu 2.2 Datentypen: Kurzvortrag und Zwischenbilanz zu zweit
+- zu 2.3 Dateitypen: Kurzvortrag und Zuruf
+- zu 2.4-5 Datenformate: Kurzvortrag und Mini-Übung
