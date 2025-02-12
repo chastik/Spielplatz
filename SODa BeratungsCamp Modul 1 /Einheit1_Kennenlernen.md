@@ -50,23 +50,23 @@ benennen.[1]
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)“
 
-1.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0038)
+1.1. Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0038)
 
-1.2 Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZ-ID 0032a)
+1.2. Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZ-ID 0032a)
 
-1.3 Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZ-ID 0033a)
+1.3. Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZ-ID 0033a)
 
 zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
 
-1.4 Handlungsfelder im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0010)
+1.4. Handlungsfelder im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0010)
 Thema „Forschungsdatenlebenszyklus“ 
 
-1.5 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 0082)
+1.5. Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 0082)
 
-1.6 Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
+1.6. Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
 aus Cluster 6 Querschnittsthemen zum Thema „Beratung“
 
-1.7 Beratungsbedarfe analysieren. (LZ-ID 1117)
+1.7. Beratungsbedarfe analysieren. (LZ-ID 1117)
 
 
 
