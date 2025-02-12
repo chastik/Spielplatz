@@ -46,10 +46,10 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 - Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen
 
 
-**Einheiten im Modul 1**
+**Einheiten und Zeitbedraf im Modul 1**
 
-- Einheit 1 – Kennenlernen
-- Einheit 2 – Arbeiten mit sammlungsbezogenen Forschungsdaten
-- Einheit 3 – Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+- Einheit 1 – Kennenlernen (ca. 30 Min.)
+- Einheit 2 – Arbeiten mit sammlungsbezogenen Forschungsdaten (ca. 30 Min.)
+- Einheit 3 – Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen (ca. 60 Min.)
 
 
