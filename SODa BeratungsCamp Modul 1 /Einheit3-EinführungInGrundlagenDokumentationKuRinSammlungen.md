@@ -18,10 +18,6 @@ comment:  WissKi SODA OERs
 
 **Einheit 3 behandelt Themen…**
 
-*Einheit 3 - Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen*
-
-**Einheit 3 behandelt Themen…**
-
 aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1] angepasst an Bedarfe der Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen
 
 - Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM) in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen
@@ -32,67 +28,64 @@ aus Cluster „Dokumentation und Metadaten“ die Themen der LZM[1] angepasst an
 - Datendokumentation in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen
 
 
+**Für Einheit 3 werden vorausgesetzt…**
+
+aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen und Lernziele der LZM[1] zu Personen und Rollen im Forschungsdatenmanagement (FDM)
+
+- Funktionen und Verantwortlichkeiten von Personen im FDM erläutern. (LZ-ID 0033)
+
+aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der LZM[1] zu Datendokumentation
+
+- Begriff der Datendokumentation erläutern. (LZ-ID 0592)
+- Inhalte einer Datendokumentation benennen. (LZ-ID 0593)
+- Relevanz einer Datendokumentation benennen und erläutern. (LZ-ID 0594-0595)
+- Eigene Datendokumentation analysieren. (LZ-ID 0606)
+
+aus Cluster „Arbeiten mit Daten“ die Themen und Lernziele der LZM[1] zu Datentypen
+
+- Unterschiede zwischen Daten, Informationen und Wissen erläutern. (LZ-ID 0205)
 
 
-**Für Einheit 2 werden vorausgesetzt…**
+**In Einheit 3 können Teilnehmende…**
 
-aus Cluster „Arbeiten mit Daten“ die Themen und Lernziele der LZM[1] zu Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)
-
-- Unterschiede zwischen den Begriffen Datentypen, Datenformate, Dateitypen und Dateiformate benennen. (LZ-ID 0200)
-
-und zu Datenqualität
-
-- Grundlagen von Datenqualität benennen. (LZ-ID 0439)
-
-
-**In Einheit 2 können Teilnehmende…**
-
-- eigene Forschungsdaten…
-- die Art (Datentypen) der eigenen Forschungsdaten…
-- bevorzugte und standardisierte Dateitypen…
-- interoperable und maschinenlesbare Datenformate…
-- Dateiformate zur langfristigen Archivierung und Wiederverwendbarkeit…
-- den Unterschied zwischen proprietären und offenen Dateiformaten…
+- die unterschiedlichen Arten von Konservierungs- und Restaurierungsmaßnahmen erläutern.[1]
+- die KuR-Maßnahmen der eigenen Sammlung illustrieren.
+- den Prozess der Konservierung-Restaurierung…
+- den Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung…
 benennen.[1]
+- die eigene Dokumentation in Hinblick auf Konservierungs- und Restaurierungsdaten analysieren. 
 
-- Unterschied zwischen strukturierten Daten und unstrukturierten Daten…
-- Zusammenhang von Datenstruktur und Datenqualität…
-erläutern.[1]
 
-**Einheit 2 adressiert Lernziele der LZM**[1]
+**Einheit 3 adressiert Lernziele der LZM**[1]
 
-aus Cluster 1 Grundlegende und übergreifende Konzepte des FDM zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
+aus Cluster 1 Grundlegende und übergreifende Konzepte des FDM zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“ [in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen]
 
-2.1. Beispiele für Forschungsdaten benennen. (LZ-ID 0008)
+3.1. Grundsatzpapiere für den Beruf der Konservator*in-Restaurator*in mit Relevanz für das Forschungsdatenmanagement (FDM) benennen. (neu)
 
-aus Cluster 2 Arbeiten mit Daten zum Thema „Datentyp“
+zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)“
 
-2.2. Datentypen benennen, erläutern und analysieren. (LZ-ID 0206, 0207, 0209)
+3.2. Funktionen und Verantwortlichkeiten von Konservator*innen und Restaurator*innen erläutern. (LZ-ID 0033b)
 
-und zum Thema „Dateityp“ 
+aus Cluster 3 Dokumentation und Metadaten zum Thema „Datendokumentation“ [in der Konservierung und Restaurierung in wissenschaftlichen Sammlungen]
 
-2.3. Dateitypen benennen, erläutern und analysieren. (LZ-ID 0255, 0256, 0258)
-Thema „Datenformat“
+3.3. Relevanz der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen benennen und erläutern. (LZ-ID 0594a, 0595a)
 
-2.4. Arten von Datenformaten benennen. (LZ-ID 0233)
+3.4. Allgemeinen Inhalte einer konservierungs- und restaurierungsbezogenen Dokumentation benennen und erläutern. (LZ-ID 0593a, neu)
 
-2.5. Kategorien von Datenformaten benennen. (LZ-ID 0234)
+3.5. Unterschiedlichen Arten von Konservierungs- und Restaurierungsmaßnahmen benennen und erläutern (Maßnahmenpäckchen). (LZ-ID 0593b, neu)
 
-2.6. Anwendungsbereiche von Datenformaten analysieren. (LZ-ID 0238)
+3.6. Maßnahmen in der eigenen Sammlung anhand der unterschiedlichen Arten von Konservierungs- und Restaurierungsmaßnahmen illustrieren. (neu)
 
-und zum Thema „Dateiformat“
+3.7. Prozess der Konservierung-Restaurierung benennen. (LZ-ID 0593c)
 
-2.7. Dateiformate benennen und erläutern. (LZ-ID 0277, 0278)
-2.8. Dateiformate für die Archivierung und Nachnutzung benennen. (LZ-ID 0285)
-2.9. Unterschied zwischen proprietären und offenen Dateiformaten benennen. (neu)
+3.8. Dokumentationsbedarf beim Prozess der Konservierung-Restaurierung erläutern. (LZ-ID 0595b)
 
-und zum Thema „Grundbegriffe“
-
-2.10. Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern. (LZ-ID 0202)
+3.9. Eigene (Daten-)Dokumentation in Hinblick auf Konservierungs- und Restaurierungsdaten analysieren. (LZ-ID 0606a)
 
 **Methoden**
 
-- zu 2.1 Beispiele für Forschungsdaten: Zuruf
-- zu 2.2 Datentypen: Kurzvortrag und Zwischenbilanz zu zweit
-- zu 2.3 Dateitypen: Kurzvortrag und Zuruf
-- zu 2.4-5 Datenformate: Kurzvortrag und Mini-Übung
+- zu 3.1 Grundsatzpapiere: Kurzvortrag/Wissensimpuls
+- zu 3.2-3 Funktionen, Verantwortlichkeiten und Relevanz: Kurzvortrag/Wissensimpuls
+- zu 3.5 Maßnahmenpäckchen: Drehen und Wenden
+- zu 3.6 Maßnahmen in der eigenen Sammlung: Mini-Übung
+
