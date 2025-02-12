@@ -60,9 +60,9 @@ Weiterführende Literatur: Christopher Könitz & Anastasia Baillie-Spegalskaya (
 
 
 Lernansatz | Forschendes Lernen | Flipped Classroom | Projektbasiertes Lernen  | Problemorientiertes Lernen
---- | --- | ---
+--- | --- | --- | --- | ---
 `Zielsetzung`| Entwicklung von Forschungs- und Problem -lösungskompetenzen; eigenständige Wissenskosntruktion | Effiziente Nutzung der Präsenzzeit durch Vorab- Erarbeitung von Grundlagen und deren Anwendung/Vertiefung | Förderung von Praxisbezug, Problemlösungs- kompetenz und Teamarbeit durch die Umsetzung realer Projekte | Lösung komplexer, realer Probleme durch Anwendung theoretischen Wissens
---- | --- | ---
+--- | --- | --- | --- | ---
 `Rolle der Lernenden`| Forschende/r: Entwicklung eigener Fragestellungen, selbstständige Forschung, Reflexion des Prozesses | Lernende: Vorbereitung durch Selbststudium, Anwendung und Vertiefung des Wissens in der Präsenzphase | Projektverantwortliche: Planung, Umsetzung und Präsentation eines Projekts mit realen Praxisbezug | Problemlöser: Identifikation und Lösung von Problemen mit theoretischen und praktischen Mitteln
 --- | --- | ---
 `Struktur` | Flexibler und offener Prozess: Fragestellung → Recherche → Methode → Durchführung → Analyse → Präsentation | Zwei Phasen: 1. Selbststudium der Grundlagen. 2. Präsenzzeit für Anwendung, Diskussion und Vertiefung | Klar strukturierter Projektprozess: Zielsetzung → Planung → Umsetzung → Ergebnispräsentation |  Strukturierter Prozess: Problemdefinition → Recherche → Lösungsansätze → Implementierung → Reflexion und Präsentation
