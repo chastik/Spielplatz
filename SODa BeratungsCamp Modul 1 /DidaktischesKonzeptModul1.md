@@ -35,4 +35,21 @@ Dieses Modul richtet sich an SODa Personae, wie Professor*innen, Sammlungskoordi
 
 Forschendes Lernen fördert Kompetenzen, die in dynamischen und komplexen Arbeitsumgebungen zunehmend erforderlich sind, verbindet theoretisches Wissen mit praxisorientiertem Handeln und unterstützt die Entwicklung von Fähigkeiten, die direkt in der Arbeitswelt anwendbar sind. Forschendes Lernen integriert selbstgesteuertes, problemorientiertes und kooperatives Lernen.
 
+Die Einheiten aus Lehr-In- und Lern-Output
+folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
+
+**Themenbereiche im Modul 1**
+
+- Grundlegende und übergreifende Konzepte des FDM [1]
+- Arbeiten mit Daten [1]
+- Dokumentation und Metadaten [1]
+- Konservierungs- und Restaurierungsdokumentation in wissenschaftlichen Sammlungen
+
+
+**Einheiten im Modul 1**
+
+- Einheit 1 – Kennenlernen
+- Einheit 2 – Arbeiten mit sammlungsbezogenen Forschungsdaten
+- Einheit 3 – Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen
+
 
