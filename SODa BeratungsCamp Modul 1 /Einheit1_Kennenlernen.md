@@ -34,8 +34,39 @@ zu Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)
 - Begriff „Forschungsdaten“ erläutern. (LZ-ID 0007)
 - Handlungsfelder im Forschungsdatenmanagement (FDM) benennen. (LZ-ID 0009)
 
-zu Personen und Rollen im Forschungsdatenmanagement (FDM)
+und zu Personen und Rollen im Forschungsdatenmanagement (FDM)
 
 - Personen im Forschungsdatenmanagement (FDM) benennen. (LZ-ID 0032)
 - Funktionen und Verantwortlichkeiten von Personen im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0033) 
+
+**In Einheit 1 können Teilnehmende…**
+
+- eigene Funktionen und Verantwortlichkeiten im FDM…
+- Handlungsfelder im FDM und eigene Forschungsaktivitäten…
+- Erwartungen und Bedarfe…
+benennen.[1]
+
+**Einheit 1 adressiert Lernziele der LZM**[1]
+
+aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)“
+
+1.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0038)
+
+1.2 Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZ-ID 0032a)
+
+1.3 Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZ-ID 0033a)
+
+zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
+
+1.4 Handlungsfelder im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0010)
+Thema „Forschungsdatenlebenszyklus“ 
+
+1.5 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 0082)
+
+1.6 Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
+aus Cluster 6 Querschnittsthemen zum Thema „Beratung“
+
+1.7 Beratungsbedarfe analysieren. (LZ-ID 1117)
+
+
 
