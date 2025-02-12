@@ -69,4 +69,10 @@ aus Cluster 6 Querschnittsthemen zum Thema „Beratung“
 1.7. Beratungsbedarfe analysieren. (LZ-ID 1117)
 
 
+**Methoden**
 
+- zu 1.1-3 Personen und Rollen: Steckbrief
+- 1.4 Handlungsfelder im FDM: Stempel
+- 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
+- 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
+- 1.7 Beratungsbedarfe: Erwartungsabfrage
