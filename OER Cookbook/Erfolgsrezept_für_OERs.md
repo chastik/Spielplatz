@@ -19,9 +19,9 @@ comment:  WissKi SODA OERs
 
 # Schritte zum Erfolg
 
-[Didaktisches Konzept](../blob/master/LICENSE)
-[Methodisches Konzept](../blob/master/LICENSE)
-[Technisches Konzept](../blob/master/LICENSE)
+1.  [Didaktisches Konzept](../blob/master/LICENSE)
+2.  [Methodisches Konzept](../blob/master/LICENSE)
+3.  [Technisches Konzept](../blob/master/LICENSE)
 
 # 1. Didaktisches Konzept
 
@@ -99,3 +99,19 @@ Beispiele:
 
 Projektbasierte Datennutzung durch Verwendung von offenen Daten, Reproduktion von Studien durch reflektieren der Datenqualität und Nachnutzung, FAIR-Prinzipien lernen und anwenden, Entwicklung von DMPs, Workflows für Datenaufbereitung und -speicherung, überprüfen und validieren der Datenqualität, erstellen von Metadaten-Schemata, anwenden der FAIR-Prinzipien, Integration von Normdaten, LZA von Forschungsdaten, Entwicklung eines eigenen Forschungsrepositoriums, Studien zu Forschungsdatenethik oder Datenlizenzierung.
 
+
+# 2. Ausblick Methodisches Konzept
+
+2.1. Modulare Struktur
+- Dichte der Inhalte
+- Pacing
+- Targeted Learning (Fokus auf Lernziele)
+- Lernpfade adaptiv oder durch Einstiegshilfen und vertiefende Angebote
+2.2. Storyboard
+2.3. Drehbuch
+
+# 3. Ausblick Technisches Konzept
+
+3.1. Vor- und Nachteile technischer Formate, z.B. Liascript
+3.2. Kollaborative Anpassung an Bedarfe und Fortschritt, Pflege und Weiterentwicklung, siehe SODa Github: liascript-oers
+3.3. Feeback
