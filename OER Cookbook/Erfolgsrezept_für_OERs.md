@@ -22,10 +22,20 @@ comment:  WissKi SODA OERs
 2. Methodisches Konzept
 3. Technisches Konzept
 
-**1. Didaktisches Konzept**
+***1. Didaktisches Konzept***
 
 1.1 Zielgruppe (Personae)
 1.2 Lernziele
 1.3 Lernform und Format
 1.4 Vorhandene Ressourcen
 1.5 Konzeption des Inhalts
+
+****1.1 Zielgruppe (Personae)****
+● Was wissen die TN?
+● Welche Motivation und Erfahrungen haben die TN?
+● Welches Lernformat passt zu den TN?
+
+Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design.
+Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
+
+
