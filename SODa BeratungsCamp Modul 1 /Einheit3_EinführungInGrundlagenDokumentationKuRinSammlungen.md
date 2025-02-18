@@ -86,6 +86,7 @@ aus Cluster 3 Dokumentation und Metadaten zum Thema „Datendokumentation“ [in
 
 - zu 3.1 Grundsatzpapiere: Kurzvortrag/Wissensimpuls
 - zu 3.2-3 Funktionen, Verantwortlichkeiten und Relevanz: Kurzvortrag/Wissensimpuls
+- zu 3.4 Inhalte zur KuR-Dokumentation: Kurzvortrag/Wissensimpuls
 - zu 3.5 Maßnahmenpäckchen: Drehen und Wenden
 - zu 3.6 Maßnahmen in der eigenen Sammlung: Mini-Übung
 
