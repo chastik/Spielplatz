@@ -16,7 +16,7 @@ comment:  WissKi SODA OERs
 
 *Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen*
 
-**Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
+## Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation ##
 
 Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, bis Computerspielen vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
@@ -29,17 +29,17 @@ Das Ziel dieser Einheit 1 von 5 ist es, ein standardisiertes und belastbares Aus
 Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
 
 
-**Übergeordnetes Lernziel** dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
+### Übergeordnetes Lernziel ###  dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
 
 Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
 
 
-**Zielgruppe**
+### Zielgruppe ### 
 
 Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen.
 
 
-**Vorausetzung**
+### Vorausetzung ###
 
 Lernende können...
 
@@ -84,7 +84,7 @@ Diese Lernziele fokussieren spezifische Data-Science-Aspekte
 
 Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
-# Lernform
+Lernform
 
 Das didaktische Konzept im Sinne des forschenden Lernens für diese OER basiert auf fünf Phasen (in Anlehnung an Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
 Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033): 
