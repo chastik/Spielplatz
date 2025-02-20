@@ -16,9 +16,11 @@ comment:  WissKi SODA OERs
 
 **Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen**
 
-Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
+*Motivational Design und Nutzen* 
 
-Das Ziel dieser Einheit 1 von 5 ist es, ein standardisiertes und belastbares Ausgangsdatenformat zu entwickeln, das die automatische Genreklassifikation am Beispiel von Computerspielen und Liebesbriefen ermöglicht.
+Die Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
+
+In Einheit 1 entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand. Dabei legen Sie die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
 
 
 ## Kurzbeschreibung der Lerneinheit
@@ -84,7 +86,7 @@ Diese Lernziele fokussieren spezifische Data-Science-Aspekte
 - Software zur Datananalyse anwenden (LZ-ID_0578)
 
 
-### Lernform
+## Lernform
 
 Das didaktische Konzept im Sinne des forschenden Lernens für diese OER basiert auf fünf Phasen (in Anlehnung an Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
 Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033): 
@@ -124,10 +126,7 @@ In dem synchronen Lernsetting dieser Lerneinheit erfolgt die Taktung der Lernbau
 
 Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. Dadurch können Lernende das vermittelte Wissen aufnehmen und reflektieren. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. Durch den Diskurs in der Gruppe wird das Gelernte vertieft. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele vorgestellt und besprochen, so dass Lernende das individulle Wissen Praxisbezogen erweitern können. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch wird ein iterativer Wissensaufbau sichergestellt.
 
-
-**Materialien**
-
-Benötigt wird ein eigenes Laptop.
+## Konzeption der Inhalte
 
 
 
@@ -146,6 +145,11 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 # Technisches Konzept
+
+
+**Materialien**
+
+Benötigt wird ein eigenes Laptop.
 
 
 **Feedback**
