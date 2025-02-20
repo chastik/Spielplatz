@@ -84,35 +84,49 @@ Forschendes Lernen
 Sowohl in synchronen (Online- oder Präsenz-) als auch in asynchronen (Selbstlern-) Einheiten gibt es angemessene Formate für selbstgesteuerte Lernformen zur Förderung der Lernniveaustufen: wissen (benennen), verstehen (erläutern), anwenden und bewerten.
 
 
-Vor- und Nachteile sind unbedingt abzuwägen:
+"Vor- und Nachteile sind unbedingt abzuwägen:
 
 - Am Bildschirm zu lehren unterscheidet sich deutlich von Präsenzlehre.
 - Ein Präsenzkurs lässt sich nicht ohne Anpassungen als Onlinekurs durchführen.
 - Zeitlich entkoppelte asynchrone Lehrstrategien sind nachhaltiger und flexibler.
-- Eine synchrone Veranstaltung lässt sich nicht einfach in eine asynchrone transformieren.
-
-___
+- Eine synchrone Veranstaltung lässt sich nicht einfach in eine asynchrone transformieren".[3]
 
 Beispiele:
 
 Projektbasierte Datennutzung durch Verwendung von offenen Daten, Reproduktion von Studien durch reflektieren der Datenqualität und Nachnutzung, FAIR-Prinzipien lernen und anwenden, Entwicklung von DMPs, Workflows für Datenaufbereitung und -speicherung, überprüfen und validieren der Datenqualität, erstellen von Metadaten-Schemata, anwenden der FAIR-Prinzipien, Integration von Normdaten, LZA von Forschungsdaten, Entwicklung eines eigenen Forschungsrepositoriums, Studien zu Forschungsdatenethik oder Datenlizenzierung.
 
+___
+
+[3] Crash-Kurs: Online-Lehre (2020) (letzte Aktualisierung 2023), HU Bologna.lab, https://moodle.hu-berlin.de
+
 
 # 2. Ausblick Methodisches Konzept
 
-2.1. Modulare Struktur
+2.1 Modulare Struktur
+2.2 Storyboard
+2.3 Drehbuch
+
+## 2.1. Modulare Struktur nach [2]
 - Dichte der Inhalte
 - Pacing
 - Targeted Learning (Fokus auf Lernziele)
 - Lernpfade adaptiv oder durch Einstiegshilfen und vertiefende Angebote
-2.2. Storyboard
-2.3. Drehbuch
+
+## 2.2. Storyboard
+
+## 2.3. Drehbuch
 
 # 3. Ausblick Technisches Konzept
 
 3.1. Vor- und Nachteile technischer Formate, z.B. Liascript
 3.2. Kollaborative Anpassung an Bedarfe und Fortschritt, Pflege und Weiterentwicklung, siehe SODa Github: liascript-oers
-3.3. Feeback
+3.3. Feeback: Was gelingt gut, wie gelingt es besser? 
+
+## 3.1. Vor- und Nachteile technischer Formate, z.B. Liascript
+
+## 3.2. Kollaborative Anpassung an Bedarfe und Fortschritt, Pflege und Weiterentwicklung, siehe SODa Github: liascript-oers
+
+## 3.3. Feeback: Was gelingt gut, wie gelingt es besser? 
 
 
 # Quellen

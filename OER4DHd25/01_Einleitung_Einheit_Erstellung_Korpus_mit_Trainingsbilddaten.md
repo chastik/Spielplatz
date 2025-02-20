@@ -154,10 +154,18 @@ Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags
 
 Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
 
-Zur Verbesserung der Lerneinheit wird von den Teilnehmenden ein anonymes Feedback eingeholt.
+Zur Verbesserung der Lerneinheit wird von den Teilnehmenden ein anonymes direktes Feedback eingeholt. (ToDO)
+
+Ferner können Metriken und Daten von GitHub genutzt werden, um die Aktivitäten und Beteiligungen in einem Repo oder einer Organisation, dem Traffic, den Commits, den Status von Pull Requests und Issues sowie das Community-Engagement nachzuvollziehen. Mit der von GitHub zur Verfügung gestellten API können Repository-Metriken abgerunfen, Beitragsanalysen ermittelt und Entwicklungstrends erkannt werden.
 
 
+# Bibliographie
 
+Döring, Klaus W. Handbuch Lehren und Trainieren in der Weiterbildung. Weinheim: Beltz, 2008. S. 57–58
+LZM
+E-Learning Grundlagen, FHWien der WKW, Christopher Könitz & Anastasia Baillie-Spegalskaya
+Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
+Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033)
 
 
 To see this document as an interactive LiaScript rendered version, click on the
