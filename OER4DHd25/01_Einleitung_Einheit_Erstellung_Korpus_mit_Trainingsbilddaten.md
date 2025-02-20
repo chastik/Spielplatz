@@ -48,7 +48,7 @@ Lernende können...
 - Datenexport erzeugen (anwenden) (LZ-ID_417)
 
 
-## Didaktisches Konzept
+# Didaktisches Konzept
 
 **Lernziele**
 
@@ -84,7 +84,7 @@ Diese Lernziele fokussieren spezifische Data-Science-Aspekte
 
 Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
-### Lernform
+# Lernform
 
 Das didaktische Konzept im Sinne des forschenden Lernens für diese OER basiert auf fünf Phasen (in Anlehnung an Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
 Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033): 
@@ -146,4 +146,9 @@ ollowing link/badge:
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
+# Methodisches Konzept
 
+
+
+
+# Technisches Konzept
