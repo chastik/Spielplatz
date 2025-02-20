@@ -66,20 +66,20 @@ Diese Einheit ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainings
 
 ## Lernziele
 
-Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern.
+Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern. Themen umfassen: Datenerheben, Datentypen, Datenqualität, Taxonomie, Klassifikationsverfahren, Mustererkennung, ...
 
 ### FDM-Grundlagen
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
-- die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
+- die Qualität und Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
 
 ### Grundlagen der Datenaufbereitung
 
 - den Begriff Klassifikation erläutern (LZ-ID_720)
 - Beispiele von Klassifikationen benennen und erläutern (LZ-ID_731, 732)
 - Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
-- eigene Daten analysieren, bewerten und entwickeln (neu) 
+- eigene Datentypen oder Datenqualität analysieren (.... was genau?) 
 
 ### Einführung in die Bildklassifikation
 
@@ -93,6 +93,7 @@ Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Sy
 - eigenständig Maßnahmen zur Implementierung der FAIR-Prinzipien anwenden (LZ-ID-0125)
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
+- Klassifikationsverfahren für die Mustererkennung (...?)
 
 
 ## Lernform
@@ -137,11 +138,16 @@ Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags
 
 ## Konzeption der Inhalte
 
+01_Einheit_FDM_Grundlagen
+02_Einheit_Grundlagen_Datenaufbereitung
+03_Einheit_Einführung_Bildklassifikation
 
 
-# Methodisches Konzept
+# Methodisches Konzept: Modulare Struktur mit Drehbuch
 
-
+01_Einheit_FDM_Grundlagen
+02_Einheit_Grundlagen_Datenaufbereitung
+03_Einheit_Einführung_Bildklassifikation
 
 
 # Technisches Konzept
