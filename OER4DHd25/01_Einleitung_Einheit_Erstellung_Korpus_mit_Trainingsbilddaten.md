@@ -28,22 +28,31 @@ Das Ziel dieser Einheit 1 von 5 ist es, ein standardisiertes und belastbares Aus
 
 Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
 
+
 **Übergeordnetes Lernziel** dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
 
-## Zielgruppe
+Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
+
+
+**Zielgruppe**
 
 Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen.
 
+
 **Vorausetzung**
 
-Lernende können 
-...
+Lernende können...
+
 - eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
 - Methoden zum Datenexport anwenden (LZ-ID_0412)
 - Datenexport erzeugen (anwenden) (LZ-ID_417)
 
 
-## Lernziele
+## Didaktisches Konzept
+
+### Lernziele
+
+Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern.
 
 **FDM-Grundlagen** 
 
@@ -51,32 +60,31 @@ Lernende können
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
 
+**Grundlagen der Bildklassifikation**
+
+Diese Lernziele fokussieren spezifische Data-Science-Aspekte 
+
 - den Begriff Klassifikation erläutern (LZ-ID_720)
 - Beispiele von Klassifikationen benennen und erläutern (LZ-ID_731, 732)
 - Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
-
-
-**OER-spezifische Data-Science-Aspekte**
-
 - Klassen für Klassifikationsaufgabe benennen (neu)
 - Multi-Labels benennen (neu)
 - Labelspace entwickeln (neu)
 - eigene Daten analysieren, bewerten und entwickeln (neu) 
 - benötigtes Ausgangsformat entwickeln (neu)
 
-**Weiterführende Einheiten**
+**Ausblick: Weiterführende vertiefende Einheiten**
 
+- eigenständig Maßnahmen zur Implementierung der FAIR-Prinzipien anwenden (LZ-ID-0125)
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
 
-
-## Didaktisches Konzept
 
 **Inhalte**
 
 Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
-**Lernform**
+### Lernform
 
 Das didaktische Konzept im Sinne des forschenden Lernens für diese OER basiert auf fünf Phasen (in Anlehnung an Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
 Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033): 
@@ -104,9 +112,11 @@ Eine Auswahl relevanter Bilddaten wird aufbereitet, mit Genre-Labels annotiert u
 
 Das Korpus wird hinsichtlich der Repräsentativität, Herausvorderungen, Grenzen und Optimierungsmöglichkeiten erörtert.
 
+
 (5) Präsentation & Transfer
 
 Der Prozess der Korpuserstellung wird in einem kleinen Bericht/ kleine Abschlußpräsentation zusammengefasst.
+
 
 **Lernmethoden und -formate**
 
@@ -114,9 +124,11 @@ In dem synchronen Lernsetting dieser Lerneinheit erfolgt die Taktung der Lernbau
 
 Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. Dadurch können Lernende das vermittelte Wissen aufnehmen und reflektieren. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. Durch den Diskurs in der Gruppe wird das Gelernte vertieft. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele vorgestellt und besprochen, so dass Lernende das individulle Wissen Praxisbezogen erweitern können. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch wird ein iterativer Wissensaufbau sichergestellt.
 
+
 **Materialien**
 
 Benötigt wird ein eigenes Laptop.
+
 
 **Feedback**
 
