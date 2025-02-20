@@ -50,17 +50,17 @@ Lernende können...
 
 ## Didaktisches Konzept
 
-### Lernziele
+**Lernziele**
 
 Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern.
 
-**FDM-Grundlagen** 
+***FDM-Grundlagen***
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
 
-**Grundlagen der Bildklassifikation**
+***Grundlagen der Bildklassifikation***
 
 Diese Lernziele fokussieren spezifische Data-Science-Aspekte 
 
@@ -73,14 +73,14 @@ Diese Lernziele fokussieren spezifische Data-Science-Aspekte
 - eigene Daten analysieren, bewerten und entwickeln (neu) 
 - benötigtes Ausgangsformat entwickeln (neu)
 
-**Ausblick: Weiterführende vertiefende Einheiten**
+***Ausblick: Weiterführende vertiefende Einheiten***
 
 - eigenständig Maßnahmen zur Implementierung der FAIR-Prinzipien anwenden (LZ-ID-0125)
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
 
 
-**Inhalte**
+***Inhalte***
 
 Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
