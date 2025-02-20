@@ -74,17 +74,18 @@ Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Sy
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
 
-### Grundlagen der Bildklassifikation
-
-Diese Lernziele fokussieren spezifische Data-Science-Aspekte 
+### Grundlagen der Datenaufbereitung
 
 - den Begriff Klassifikation erläutern (LZ-ID_720)
 - Beispiele von Klassifikationen benennen und erläutern (LZ-ID_731, 732)
 - Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
+- eigene Daten analysieren, bewerten und entwickeln (neu) 
+
+### Einführung in die Bildklassifikation
+
 - Klassen für Klassifikationsaufgabe benennen (neu)
 - Multi-Labels benennen (neu)
 - Labelspace entwickeln (neu)
-- eigene Daten analysieren, bewerten und entwickeln (neu) 
 - benötigtes Ausgangsformat entwickeln (neu)
 
 ### Ausblick: Weiterführende vertiefende Einheiten
