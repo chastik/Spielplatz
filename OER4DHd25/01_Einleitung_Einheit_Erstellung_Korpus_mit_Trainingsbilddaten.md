@@ -47,7 +47,7 @@ Ob Sie erste Erfahrungen mit Jupyter sammeln oder Ihr Wissen vertiefen möchten 
 
 ### Übergeordnetes Lernziel und Voraussetzungen
 
-*Storytelling:Gaming,GLAM,LOD*
+*Storytelling:Gaming,GLAM,LOD,SemanticWeb*
 
 In dieser Einheit wird ein Korpus für die Genreklassifikation vorbereitet um eine automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
 
