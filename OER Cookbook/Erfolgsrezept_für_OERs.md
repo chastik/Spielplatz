@@ -37,23 +37,21 @@ comment:  WissKi SODA OERs
 - Welche Motivation und Erfahrungen haben die TN?
 - Welches Lernformat passt zu den TN?
 
-Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design.
-Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
-
+"Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design". [2] Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
 ___
 
 Link auf SODa Personae
 
 
-## 1.2 Gute Lernziele…
+## 1.2 "Gute Lernziele…
 
 - geben eine Richtung vor,
 - regeln das Gleichgewicht zwischen Vermittlung und eigenständigem Lernen, den Einsatz von didaktischen Methoden und Formaten
-- und stellen den Lernerfolg sicher aber auch, dass das Gelernte
+- und stellen den Lernerfolg sicher aber auch, dass das Gelernte".[2]
 
 ___
 
-Weiterführende Literatur: Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
+[2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
 
 
 ## 1.3 Lernform und -format
@@ -115,3 +113,11 @@ Projektbasierte Datennutzung durch Verwendung von offenen Daten, Reproduktion vo
 3.1. Vor- und Nachteile technischer Formate, z.B. Liascript
 3.2. Kollaborative Anpassung an Bedarfe und Fortschritt, Pflege und Weiterentwicklung, siehe SODa Github: liascript-oers
 3.3. Feeback
+
+
+# Quellen
+
+[1] Open Educational Resources (OER) in Higher Education (2024), TU9 Unite Netzwerk, https://imoox.at/course/OERinHE
+[2] E-Learning Grundlagen (2024), TU Graz, https://imoox.at/course/e-learning
+[3] Crash-Kurs: Online-Lehre (2020) (letzte Aktualisierung 2023), HU Bologna.lab, https://moodle.hu-berlin.de
+[4] LiaScript

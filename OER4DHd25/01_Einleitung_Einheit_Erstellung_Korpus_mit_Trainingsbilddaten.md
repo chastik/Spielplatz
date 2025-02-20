@@ -16,6 +16,17 @@ comment:  WissKi SODA OERs
 
 **Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen**
 
+<<<<<<< HEAD
+*Motivational Design und Nutzen*
+
+Die Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
+
+In Einheit 1 entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand. Dabei legen Sie die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
+
+
+## Kurzbeschreibung der Lerneinheit
+
+=======
 *Motivational Design und Nutzen* 
 
 Die Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
@@ -25,6 +36,7 @@ In Einheit 1 entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenform
 
 ## Kurzbeschreibung der Lerneinheit
 
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
 **Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
 Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, bis Computerspielen vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
@@ -35,18 +47,51 @@ Diese Einheit vermittelt die grundlegenden Schritte und Methoden zur Erstellung 
 
 ### Zielgruppe
 
+<<<<<<< HEAD
+*Neugier wecken*
+=======
 Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen.
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
 
+<<<<<<< HEAD
+Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen.
+=======
 ### Übergeordnetes Lernziel
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
+
+<<<<<<< HEAD
+Wie lassen sich wissenschaftliche Sammlungen effizienter digital erschließen? Wie können Jupyter Notebooks dabei helfen, Daten zu analysieren und zu strukturieren?
+=======
+In dieser Einheit wird ein Korpus für die Genreklassifikation vorbereitet um eine automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
+
+<<<<<<< HEAD
+Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die neue digitale Methoden entdecken und gezielt für ihre Arbeit nutzen möchten. Sie erhalten die Möglichkeit, Jupyter Notebooks praxisnah kennenzulernen, auszuprobieren und gezielt einzusetzen – sei es für automatisierte Datenverarbeitung, Visualisierung oder die Strukturierung großer Sammlungsbestände.
+=======
+Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
+
+<<<<<<< HEAD
+Ob Sie erste Erfahrungen mit Jupyter sammeln oder Ihr Wissen vertiefen möchten – diese Einheit bietet Ihnen konkrete Lösungen ist skalierbar für typische Herausforderungen in der digitalen Sammlungsarbeit.
+=======
+### Vorausetzung 
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
+
+<<<<<<< HEAD
+### Übergeordnetes Lernziel und Voraussetzungen
+
+*Storytelling:Gaming,GLAM,*
 
 In dieser Einheit wird ein Korpus für die Genreklassifikation vorbereitet um eine automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
 
 Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
 
-### Vorausetzung 
+Lernende können bereits...
 
+=======
 Lernende können...
 
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
 - eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
 - Methoden zum Datenexport anwenden (LZ-ID_0412)
 - Datenexport erzeugen (anwenden) (LZ-ID_417)
@@ -126,10 +171,42 @@ In dem synchronen Lernsetting dieser Lerneinheit erfolgt die Taktung der Lernbau
 
 Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. Dadurch können Lernende das vermittelte Wissen aufnehmen und reflektieren. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. Durch den Diskurs in der Gruppe wird das Gelernte vertieft. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele vorgestellt und besprochen, so dass Lernende das individulle Wissen Praxisbezogen erweitern können. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch wird ein iterativer Wissensaufbau sichergestellt.
 
+<<<<<<< HEAD
 ## Konzeption der Inhalte
 
 
 
+# Methodisches Konzept
+
+
+
+
+# Technisches Konzept
+
+
+**Materialien**
+=======
+## Konzeption der Inhalte
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
+
+
+<<<<<<< HEAD
+
+**Feedback**
+=======
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
+
+<<<<<<< HEAD
+Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
+
+Zur Verbesserung der Lerneinheit wird von den Teilnehmenden ein anonymes Feedback eingeholt.
+
+
+
+
+
+=======
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
 
@@ -137,6 +214,8 @@ ollowing link/badge:
 
 ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<<<<<<< HEAD
+=======
 
 
 # Methodisches Konzept
@@ -157,3 +236,4 @@ Benötigt wird ein eigenes Laptop.
 Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
 
 Zur Verbesserung der Lerneinheit wird von den Teilnehmenden ein anonymes Feedback eingeholt.
+>>>>>>> e7495c11585bbefaa714dcd7c50f5ced8d7f46c0
