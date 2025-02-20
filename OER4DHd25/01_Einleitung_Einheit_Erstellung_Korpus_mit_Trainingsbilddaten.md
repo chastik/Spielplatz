@@ -14,9 +14,16 @@ comment:  WissKi SODA OERs
 
 # Willkommen zu SODa OERs 
 
-*Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen*
+**Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen**
 
-## Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation ##
+Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
+
+Das Ziel dieser Einheit 1 von 5 ist es, ein standardisiertes und belastbares Ausgangsdatenformat zu entwickeln, das die automatische Genreklassifikation am Beispiel von Computerspielen und Liebesbriefen ermöglicht.
+
+
+## Kurzbeschreibung der Lerneinheit
+
+**Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
 Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, bis Computerspielen vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
@@ -24,22 +31,17 @@ Nicht nur im Kontext von Computerspielen ist die Genreklassifikation eine komple
 
 Diese Einheit vermittelt die grundlegenden Schritte und Methoden zur Erstellung eines Korpus zur Entwicklung eines Ausgangsdatenformats für Klassifikationsarbeiten. Dabei spielen technische als auch kuratorische Aspekte, von der Auswahl und Aufbereitung relevanter Bilddaten über die Annotation mit Metadaten bis hin zur Sicherstellung der Datenqualität aber auch der Berücksichtigung ethischer und rechtlicher Rahmenbedingungen eine Rolle. 
 
-Das Ziel dieser Einheit 1 von 5 ist es, ein standardisiertes und belastbares Ausgangsdatenformat zu entwickeln, das die automatische Genreklassifikation am Beispiel von Computerspielen und Liebesbriefen ermöglicht.
-
-Die Einheit ist Teil der Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ und adressiert damit zentrale Herausforderungen in der Archiv- und Sammlungsarbeit. Durch die Anwendung der hier vermittelten Inhalte können Teilnehmende einen wesentlichen Beitrag zum effizienteren und nachhaltigeren Aufbau und der Nachnutzung von digitalen Beständen leisten.
-
-
-### Übergeordnetes Lernziel ###  dieser Einheit ist es, einen Korpus für die Genreklassifikation vorzubereiten um eine automatische klassifikation durchzuführen. (siehe LZ-ID_0587)
-
-Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
-
-
-### Zielgruppe ### 
+### Zielgruppe
 
 Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen.
 
+### Übergeordnetes Lernziel
 
-### Vorausetzung ###
+In dieser Einheit wird ein Korpus für die Genreklassifikation vorbereitet um eine automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
+
+Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
+
+### Vorausetzung 
 
 Lernende können...
 
@@ -50,17 +52,19 @@ Lernende können...
 
 # Didaktisches Konzept
 
-**Lernziele**
+Diese Einheit ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
+
+## Lernziele
 
 Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern.
 
-***FDM-Grundlagen***
+### FDM-Grundlagen
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität udn Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
 
-***Grundlagen der Bildklassifikation***
+### Grundlagen der Bildklassifikation
 
 Diese Lernziele fokussieren spezifische Data-Science-Aspekte 
 
@@ -73,23 +77,19 @@ Diese Lernziele fokussieren spezifische Data-Science-Aspekte
 - eigene Daten analysieren, bewerten und entwickeln (neu) 
 - benötigtes Ausgangsformat entwickeln (neu)
 
-***Ausblick: Weiterführende vertiefende Einheiten***
+### Ausblick: Weiterführende vertiefende Einheiten
 
 - eigenständig Maßnahmen zur Implementierung der FAIR-Prinzipien anwenden (LZ-ID-0125)
 - Methoden zur Datenbereinigung in realen Szenarien anwenden (LZ-ID_0468)
 - Software zur Datananalyse anwenden (LZ-ID_0578)
 
 
-***Inhalte***
-
-Diese OER ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
-
-Lernform
+### Lernform
 
 Das didaktische Konzept im Sinne des forschenden Lernens für diese OER basiert auf fünf Phasen (in Anlehnung an Sonntag, M., Rueß, J., Ebert, C., Friederici, K., Schilow, L. und Deicke, W. (2018)
 Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete Auflage. Berlin : Humboldt-Universität zu Berlin. 112 S. mit Abb. verfügbar unter https://www.researchgate.net/publication/323030033): 
 
-(1) Problemfindung
+**Problemfindung**
 
 Der Einstieg in das Thema findet mit einer realen Problemstellung statt. Die Herausforderungen der Genreklassifikation in Computerspiel-Sammlungen werden erörtert und bestehende Ansätze verglichen. 
 
@@ -98,27 +98,27 @@ Forschungsleitfragen werden formuliert, wie z.B.
 - Welche Merkmale von Bildern sind für die automatische Genreklassifikation relevant?
 - Welche Datenquellen sind geeignet, um ein repräsentatives Trainingskorpus zu erstellen?
 
-(2) Exploration
+**Exploration**
 
 Eine bestehende Datenquelle wird erkundet und hinsichtlich des Erschließungsumfangs und der Datenqualität kritisch bewertet.
 
 
-(3) Methodenanwendung
+**Methodenanwendung**
 
 Eine Auswahl relevanter Bilddaten wird aufbereitet, mit Genre-Labels annotiert und ein standardisiertes Ausgangsformat für das maschinelle Lernen generiert. 
 
 
-(4) Reflexion
+**Reflexion**
 
 Das Korpus wird hinsichtlich der Repräsentativität, Herausvorderungen, Grenzen und Optimierungsmöglichkeiten erörtert.
 
 
-(5) Präsentation & Transfer
+**Präsentation & Transfer**
 
 Der Prozess der Korpuserstellung wird in einem kleinen Bericht/ kleine Abschlußpräsentation zusammengefasst.
 
 
-**Lernmethoden und -formate**
+## Lernmethoden und -formate
 
 In dem synchronen Lernsetting dieser Lerneinheit erfolgt die Taktung der Lernbausteine innerhalb der Einheit nach den Lernzielen und folgt dem Lernmodell nach Klaus Döring (Döring, Klaus W. Handbuch Lehren und Trainieren in der Weiterbildung. Weinheim: Beltz, 2008. S. 57–58).
 
@@ -130,13 +130,7 @@ Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags
 Benötigt wird ein eigenes Laptop.
 
 
-**Feedback**
 
-Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
-
-Zur Verbesserung der Lerneinheit wird von den Teilnehmenden ein anonymes Feedback eingeholt.
-
- 
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
 
@@ -152,3 +146,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 # Technisches Konzept
+
+
+**Feedback**
+
+Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
+
+Zur Verbesserung der Lerneinheit wird von den Teilnehmenden ein anonymes Feedback eingeholt.
