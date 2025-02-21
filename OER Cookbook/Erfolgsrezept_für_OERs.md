@@ -19,9 +19,9 @@ comment:  WissKi SODA OERs
 
 # Schritte zum Erfolg
 
-1.  [Didaktisches Konzept](../blob/master/LICENSE)
-2.  [Methodisches Konzept](../blob/master/LICENSE)
-3.  [Technisches Konzept](../blob/master/LICENSE)
+1.  [Didaktisches Konzept](../)
+2.  [Methodisches Konzept](../)
+3.  [Technisches Konzept](../)
 
 # 1. Didaktisches Konzept
 
@@ -102,9 +102,9 @@ ___
 
 # 2. Ausblick Methodisches Konzept
 
-2.1 Modulare Struktur
-2.2 Storyboard
-2.3 Drehbuch
+2.1. Modulare Struktur
+2.2. Storyboard
+2.3. Drehbuch
 
 ## 2.1. Modulare Struktur nach [2]
 - Dichte der Inhalte
