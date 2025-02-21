@@ -18,4 +18,10 @@ comment:  WissKi SODA OERs
 	(Ein feingliedriger japanischer Whisky ist auf Bits genau ausbalanciert.)
 
 
-## Pathbuilder
+## Pathbuilder XML
+
+(1) Visualisierung Ontologie in Draw.io
+(2) Export als XML
+(3) Convert to WissKI Pathbuilder XML using gnm_service
+(4) Import WissKI Pathbuilder XML into WissKI
+(5) Error-Handling

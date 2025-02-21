@@ -18,7 +18,7 @@ comment:  WissKi SODA OERs
 	(Ein feingliedriger japanischer Whisky ist auf Bits genau ausbalanciert.)
 
 
-## Modelling: Ontologieentwicklung und Visualisierung
+## Modelling: Ontologieentwicklung 
 (CIDOC CRM Modell iterativ entwickeln)
 
 (1) Kernentitäten in CIDOC CRM Klassen transformieren
