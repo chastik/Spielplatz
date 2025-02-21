@@ -11,3 +11,16 @@ link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/sod
 comment:  WissKi SODA OERs
 
 -->
+
+# WissKI *Bite *Bytes *Bits
+	(Ein torfiger Cask Strength Whisky hat einen starken Biss.)
+	(Ein komplexer Sherry-Cask-Whisky steckt voller Bytes an Aromen.)
+	(Ein feingliedriger japanischer Whisky ist auf Bits genau ausbalanciert.)
+
+
+## Using: Test und Anwendung
+
+(1) Vorlage für die strukturierte Dateneingabe vorbereiten (Excel)
+(2) CIDOC CRM Modell finalisieren (wip)
+(3) Pathbuilder vs Draw.io-export (wip)
+(4) Eingabeformulare (wip)

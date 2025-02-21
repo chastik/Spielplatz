@@ -11,3 +11,11 @@ link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/sod
 comment:  WissKi SODA OERs
 
 -->
+
+# WissKI *Bite *Bytes *Bits
+	(Ein torfiger Cask Strength Whisky hat einen starken Biss.)
+	(Ein komplexer Sherry-Cask-Whisky steckt voller Bytes an Aromen.)
+	(Ein feingliedriger japanischer Whisky ist auf Bits genau ausbalanciert.)
+
+
+## Pathbuilder
