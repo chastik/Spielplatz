@@ -20,49 +20,55 @@ comment:  WissKi SODA OERs
 
 Die Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
 
-In Einheit 1 entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand. Dabei legen Sie die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
+In diesem Modul entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand. Dabei legen Sie die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
 
 
 ## Kurzbeschreibung der Lerneinheit
 
 **Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
-Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa in der Digitalisierung von Liebesbriefen, bis Computerspielen vorkommen, stellen (semi-)automatische Lösungen eine Unterstützung dar. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
+Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa bei der Digitalisierung von Liebesbriefen bis Computerspielen vorkommen, können (semi-)automatische Lösungen eine Unterstützung darstellen. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
 Nicht nur im Kontext von Computerspielen ist die Genreklassifikation eine komplexe Aufgabe. Viele Objekte lassen sich nicht eindeutig einer Kategorie zuordnen, und die Vielzahl an Genres sowie deren Überschneidungen erfordern Fachkenntnis und gut kuratierte Daten. Ein entscheidender Schritt in diesem Prozess ist die Erstellung eines geeigneten Korpus mit Trainingsbilddaten, das die Grundlage für die Entwicklung und Optimierung eines Klassifikationsmodells bildet.
 
-Diese Einheit vermittelt die grundlegenden Schritte und Methoden zur Erstellung eines Korpus zur Entwicklung eines Ausgangsdatenformats für Klassifikationsarbeiten. Dabei spielen technische als auch kuratorische Aspekte, von der Auswahl und Aufbereitung relevanter Bilddaten über die Annotation mit Metadaten bis hin zur Sicherstellung der Datenqualität aber auch der Berücksichtigung ethischer und rechtlicher Rahmenbedingungen eine Rolle. 
+Diese Modul vermittelt die grundlegenden Schritte und Methoden zur Erstellung eines Korpus zur Entwicklung eines Ausgangsdatenformats für Klassifikationsarbeiten. Dabei spielen technische als auch kuratorische Aspekte, von der Auswahl und Aufbereitung relevanter Bilddaten über die Annotation mit Metadaten bis hin zur Sicherstellung der Datenqualität aber auch der Berücksichtigung ethischer und rechtlicher Rahmenbedingungen eine Rolle. 
+
+Ein Ausgangsdatenformat für die Genreklassifikation ist.... (Begriff erläutern, ggf. weiterführende Literatur angeben, Beispiel zeigen...)
 
 ### Zielgruppe
 
 *Neugier wecken*
 
-Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen.
+Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die Interesse haben das Arbeiten mit Jupyter Notebooks kennenzulernen, zu erproben und zu vertiefen. 
 
-Wie lassen sich wissenschaftliche Sammlungen effizienter digital erschließen? Wie können Jupyter Notebooks dabei helfen, Daten zu analysieren und zu strukturieren?
+Wie lassen sich wissenschaftliche Sammlungen effizienter digital erschließen?
 
-Diese Lerneinheit richtet sich an Forschende mit universitären wissenschaftlichen Sammlungen, die neue digitale Methoden entdecken und gezielt für ihre Arbeit nutzen möchten. Sie erhalten die Möglichkeit, Jupyter Notebooks praxisnah kennenzulernen, auszuprobieren und gezielt einzusetzen – sei es für automatisierte Datenverarbeitung, Visualisierung oder die Strukturierung großer Sammlungsbestände.
+Wie können Jupyter Notebooks dabei helfen, Daten zu analysieren und zu strukturieren?
 
-Ob Sie erste Erfahrungen mit Jupyter sammeln oder Ihr Wissen vertiefen möchten – diese Einheit bietet Ihnen konkrete Lösungen ist skalierbar für typische Herausforderungen in der digitalen Sammlungsarbeit.
+Forschende entdecken neue digitale Methoden im Umgang und für das Arbeiten mit universitären Sammlungen: Sie erhalten die Möglichkeit, Jupyter Notebooks praxisnah kennenzulernen, auszuprobieren und gezielt einzusetzen – sei es für automatisierte Datenverarbeitung, Visualisierung oder die Strukturierung großer Sammlungsbestände.
+
+Ob Sie erste Erfahrungen mit Jupyter sammeln oder Ihr Wissen vertiefen möchten – diese Einheit bietet Ihnen eine konkrete Lösungen und ist skalierbar für typische Herausforderungen in der digitalen Sammlungsarbeit.
 
 ### Übergeordnetes Lernziel und Voraussetzungen
 
 *Storytelling:Gaming,GLAM,LOD,SemanticWeb*
 
-In dieser Einheit wird ein Korpus für die Genreklassifikation vorbereitet um eine automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
+In dieser Einheit wird ein Korpus für die Genreklassifikation vorbereitet um eine (semi-)automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
 
-Während das Forschungsdatenmanagement (FDM) die Grundlage für nachhaltige und transparente Wissenschaft bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
+Während das Forschungsdatenmanagement (FDM) die Grundlage für das nachhaltige und transparente wissenschaftliche Arbeiten bildet, lassen sich durch die Integration von Data Science-Methoden diese Kompetenzen gezielt erweitern und an aktuelle Anforderungen anpassen.
 
-Lernende können bereits...
+Lernende sollten für dieses Modul bereits...
 
 - eigenständig Datenbankabfragen durchführen (anwenden) (LZ-ID_402)
 - Methoden zum Datenexport anwenden (LZ-ID_0412)
-- Datenexport erzeugen (anwenden) (LZ-ID_417)
+- Datenexport erzeugen anwenden (LZ-ID_417)
+
+können.
 
 
 # Didaktisches Konzept
 
-Diese Einheit ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
+Diese Einheit beinhaltet 3  ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
 ## Lernziele
 
