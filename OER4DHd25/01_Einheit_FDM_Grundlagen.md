@@ -50,11 +50,12 @@ __Eignung von Daten für eine Forschungsfrage bewerten (LZ-ID_0885)__
             Kriterien zur Bewertung von Datenquellen (z. B. Datenvalidität, Zuverlässigkeit, Repräsentativität).
             Fallstudienanalyse: Verschiedene Datentypen werden auf ihre Eignung für eine Forschungsfrage hin überprüft.
 
- __Eignung von Daten für eine Forschungsfrage bewerten (LZ-ID_0885)__
-        Ziel: Lernende können die Qualität und Eignung von Datenquellen bewerten und verstehen, wie diese die Beantwortung ihrer Forschungsfrage beeinflussen.
+ __Den Begriff Klassifikation erläutern (LZ-ID_0885)__
+        Ziel: Lernende können den Begriff Klassifikation definieren, seine Bedeutung im wissenschaftlichen Kontext verstehen und verschiedene Klassifikationssysteme voneinander abgrenzen.
         Aktivitäten:
-            Kriterien zur Bewertung von Datenquellen (z. B. Datenvalidität, Zuverlässigkeit, Repräsentativität).
-            Fallstudienanalyse: Verschiedene Datentypen werden auf ihre Eignung für eine Forschungsfrage hin überprüft.
+           Einführung in den Begriff Klassifikation: Definition, Abgrenzung zu verwandten Konzepten (z. B. Taxonomie, Clustering).
+           Analyse verschiedener Klassifikationsmethoden (regelbasiert vs. datengetrieben).
+           Fallstudienanalyse: Vergleich unterschiedlicher Klassifikationssysteme (z. B. Bibliotheksklassifikation, Bildklassifikation, medizinische Diagnosesysteme).
 
 
 ## Bezug zu Datenaufbereitung und Klassifikation:
