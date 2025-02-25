@@ -28,7 +28,7 @@ In dieser Einheit legen die Lernenden die Grundlage für das Forschungsdatenmana
 ## Lernziele:
 
     Die Lernenden verstehen, wie ein Forschungsziel in eine präzise Forschungsfrage umgewandelt wird.
-    Sie lernen, wie sie die Qualität einer Forschungsfrage analysieren und die Eignung von Daten für ihre Forschung bewerten können.
+    Sie lernen, wie sie die Qualität einer Forschungsfrage hinsichtlich ihrer Überprüfbarkeit durch quantitative Methoden analysieren und die Eignung von Daten für ihre Forschung bewerten können.
 
 ## Themen und Methoden:
 
@@ -39,21 +39,21 @@ In dieser Einheit legen die Lernenden die Grundlage für das Forschungsdatenmana
             Praxisübung: Formulierung einer eigenen Forschungsfrage zu einem Thema aus den Bereichen Humanities oder Archivwissenschaften.
             Diskussion: Woran erkennt man eine gut formulierte Forschungsfrage?
 
-    Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
-        Ziel: Die Lernenden analysieren, was eine gute vs. schwache Forschungsfrage ausmacht.
+    Qualität einer Forschungsfrage bezüglich ihrer Eignung für quantitative Methoden analysieren (LZ-ID_0544)
+        Ziel: Die Lernenden analysieren, was im Kontext quantitativer Methoden eine gute vs. schwache Forschungsfrage ausmacht.
         Aktivitäten:
-            Theorieinput: Kriterien für eine präzise und testbare Forschungsfrage.
-            Praxisbeispiel und Gruppenarbeit: Schwächen einer gegebenen Forschungsfrage erkennen und verbessern.
+            Theorieinput: Kriterien für eine präzise und testbare Forschungsfrage. Abgrenzung zwischen quantitativ beantwortbaren und qualitativ beantwortbaren Forschungsfragen.
+            Praxisbeispiel und Gruppenarbeit: Charakter (qualitativ/quantitativ) einer gegebenen Forschungsfrage erkennen und anpassen.
 
     Eignung von Daten für eine Forschungsfrage bewerten (LZ-ID_0885)
         Ziel: Lernende können die Qualität und Eignung von Datenquellen bewerten und verstehen, wie diese die Beantwortung ihrer Forschungsfrage beeinflussen.
         Aktivitäten:
             Kriterien zur Bewertung von Datenquellen (z. B. Datenvalidität, Zuverlässigkeit, Repräsentativität).
-            Fallstudienanalyse: Verschiedene Datentypen werden auf ihre Eignung für eine Forschungsfrage hin überprüft.
+            Fallstudienanalyse: Verschiedene Metadaten werden auf ihre Eignung für eine Forschungsfrage hin überprüft.
 
 Bezug zu Datenaufbereitung und Klassifikation:
 
-    Verknüpfung: Die Eignung von Daten und die Qualität der Datenerhebung sind entscheidend für die Datenaufbereitung und die späteren Klassifikationsverfahren.
+    Verknüpfung: Die Eignung von Daten und die Qualität der Datenerhebung sind entscheidend für die Datenaufbereitung und die Genauigkeit eines späteren Klassifikationsverfahren.
     Ausblick: Die Lernenden erkennen, dass das richtige Verständnis von Datenqualität und Eignung für ihre Forschungsfragen die Grundlage für die weitere Datenaufbereitung und Analyse bildet.
 
 
