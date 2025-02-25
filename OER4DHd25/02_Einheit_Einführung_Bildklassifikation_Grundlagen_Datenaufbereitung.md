@@ -15,7 +15,7 @@ comment:  WissKi SODA OERs
 # Einheit 02: Einführung in die Bildklassifikation und Grundlagen der Datenaufbereitung
 In dieser Einheit wird ein Grundlegendes Verständnis von algorithmischer Bildklassifikation vermittelt, Beispiele für das Verfahren gegeben und das Erlernte auf das vorliegende Material angewendet (exemplarisch Computerspiele/Liebesbrief).
 
-# Lernziele: Die Lernenden verstehen, was Bildklassifikation ist, wie sie grob technisch funktioniert, und unter welchen Bedingungen sie einsetzbar ist.
+# Ziel: Die Lernenden verstehen, was Bildklassifikation ist, wie sie grob technisch funktioniert, und unter welchen Bedingungen sie einsetzbar ist.
 
 ## Themen und Methoden:
 - Den Begriff Bildklassifikation erläutern (angelehnt an LZ-ID_720)
