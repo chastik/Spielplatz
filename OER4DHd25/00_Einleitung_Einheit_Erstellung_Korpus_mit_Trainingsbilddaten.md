@@ -75,13 +75,14 @@ Dieses Modul beinhaltet 3 Lerneinheiten, die den Teilnehmenden ermöglichen, akt
 
 Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern. Themen umfassen: Datenerheben, Datentypen, Datenqualität, Taxonomie, Klassifikationsverfahren, Mustererkennung, ...
 
-### Einheit 1: FDM-Grundlagen
+### Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität und Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
+- Begriff Klassifikation erläutern (LZ-ID_0885)
 
-### Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenaufbereitung
+### Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung
 
 - den Begriff Bildklassifikation erläutern (angelehnt an LZ-ID_720)
 - Beispiele von Bildklassifikationen benennen und erläutern (angelehnt an LZ-ID_731, 732)
