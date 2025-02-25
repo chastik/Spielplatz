@@ -20,16 +20,9 @@ comment:  WissKi SODA OERs
 
 Methoden des Maschinellen Lernens haben das Potential, die Digitalisierung und Erfassung von Sammlungsdaten zu erleichtern und eröffnen neue, quantitativ gestützte Perspektiven in der Forschung mit diesen Daten.
 
-Die Reihe „Einsatz von Methoden des Maschinellen Lernens in universitären Sammlungen" adressiert 
+Die Reihe „Einsatz von Methoden des Maschinellen Lernens in universitären Sammlungen" werden verschiedene Möglichkeiten adressiert um zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. Sie Lernen praxisnah, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.. 
 
-
-(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, 
-
-
-zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
-
-In diesem Modul entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand. Dabei legen Sie die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
-
+Im Kontext dieser Reihe vermittelt das Modul "Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation" in drei Einheiten, wie Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand entwickeln. Dabei wird die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen - vermittelt. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
 
 ## Kurzbeschreibung der Lerneinheit
 
@@ -76,26 +69,27 @@ können.
 
 # Didaktisches Konzept
 
-Diese Einheit beinhaltet 3  ermöglicht den Teilnehmenden, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
+Dieses Modul beinhaltet 3 Lerneinheiten, die den Teilnehmenden ermöglichen, aktiv und praxisnah einen Trainingskorpus für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für Datenqualität, Datei- und Ordnerstrukturen und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Erschließung.
 
 ## Lernziele
 
 Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern. Themen umfassen: Datenerheben, Datentypen, Datenqualität, Taxonomie, Klassifikationsverfahren, Mustererkennung, ...
 
-### FDM-Grundlagen
+### Einheit 1: FDM-Grundlagen
 
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität und Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
 
-### Grundlagen der Datenaufbereitung
+### Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenaufbereitung
 
-- den Begriff Klassifikation erläutern (LZ-ID_720)
-- Beispiele von Klassifikationen benennen und erläutern (LZ-ID_731, 732)
-- Klassifikationen zur Beschreibung von Resourcen benennen bis entwickeln (LZ-ID_0736-0741)
-- eigene Datentypen oder Datenqualität analysieren (.... was genau?) 
+- den Begriff Bildklassifikation erläutern (angelehnt an LZ-ID_720)
+- Beispiele von Bildklassifikationen benennen und erläutern (angelehnt an LZ-ID_731, 732)
+- Bildklassifikation auf das Material anwenden (neu)
+- angeleitet Metadaten im eigenen Materialbestand analysieren (neu)
+- Datenqualität bewerten (LZ-ID 0441)
 
-### Einführung in die Bildklassifikation
+### Einheit 3: Vorbereitung der Bildklassifikation 
 
 - Klassen für Klassifikationsaufgabe benennen (neu)
 - Multi-Labels benennen (neu)
