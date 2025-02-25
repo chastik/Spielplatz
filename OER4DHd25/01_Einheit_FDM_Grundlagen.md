@@ -17,18 +17,17 @@ comment:  WissKi SODA OERs
 
 In dieser Einheit legen die Lernenden die Grundlage für das Forschungsdatenmanagement (FDM) und entwickeln ein klares Forschungsziel mit einer Forschungsfrage. Sie lernen, wie sie Datenqualität und Eignung bewerten können, um die richtigen Datenquellen für ihre Forschung zu identifizieren – der erste Schritt, um verborgene Wissensnetzwerke zu entschlüsseln.
 
-# Ziel: Die Lernenden entwickeln eine präzise Forschungsfrage und bewerten die Qualität und Eignung von Daten, um den ersten Schritt in die Welt der Linked Open Data zu machen.
+# Die Lernenden entwickeln eine präzise Forschungsfrage und bewerten die Qualität und Eignung von Daten, um den ersten Schritt in die Welt der Linked Open Data zu machen.
 
-    Verborgene Wissensnetzwerke entschlüsseln: Hier wird das Verständnis für den Wert von Daten und deren Integration in vernetzte Wissensräume geschaffen. Das FDM stellt sicher, dass nur relevante und qualitätsgeprüfte Daten verwendet werden, um Verbindungen zu generieren.
+Verborgene Wissensnetzwerke entschlüsseln: Hier wird das Verständnis für den Wert von Daten und deren Integration in vernetzte Wissensräume geschaffen. Das FDM stellt sicher, dass nur relevante und qualitätsgeprüfte Daten verwendet werden, um Verbindungen zu generieren.
 
-    Bezug zu Linked Open Data: Die Fähigkeit, Daten auf ihre Eignung für ein spezifisches Forschungsziel zu prüfen, bildet die Grundlage für das spätere Verknüpfen von Daten im Semantic Web.
+Bezug zu Linked Open Data: Die Fähigkeit, Daten auf ihre Eignung für ein spezifisches Forschungsziel zu prüfen, bildet die Grundlage für das spätere Verknüpfen von Daten im Semantic Web.
 
 # 01_Einheit_FDM_Grundlagen
 
 ## Themen und Methoden:
 
-    Die Lernenden verstehen, wie ein Forschungsziel in eine präzise Forschungsfrage umgewandelt wird.
-    Sie lernen, wie sie die Qualität einer Forschungsfrage analysieren und die Eignung von Daten für ihre Forschung bewerten können.
+Die Lernenden verstehen, wie ein Forschungsziel in eine präzise Forschungsfrage umgewandelt wird. Sie lernen, wie sie die Qualität einer Forschungsfrage analysieren und die Eignung von Daten für ihre Forschung bewerten können.
 
 ### Lernziele:
 
