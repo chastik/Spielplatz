@@ -14,18 +14,24 @@ comment:  WissKi SODA OERs
 
 # Willkommen zu SODa OERs 
 
-**Modul: (Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen**
+**Reihe: Einsatz von Methoden des Maschinellen Lernens in universitären Sammlungen**
 
 *Motivational Design und Nutzen*
 
-Die Reihe „(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
+Die Reihe „Einsatz von Methoden des Maschinellen Lernens in universitären Sammlungen" adressiert 
+
+
+(Semi-)automatische Unterstützung bei der digitalen Erschließung von Sammlungsbeständen“ hilft Ihnen, 
+
+
+zentrale Herausforderungen in der Archiv- und Sammlungsarbeit effizient zu meistern. In fünf praxisnahen Einheiten lernen Sie, wie Sie digitale Bestände gezielt aufbauen und nachhaltig für die Nachnutzung optimieren können.
 
 In diesem Modul entwickeln Sie ein strukturiertes und belastbares Ausgangsdatenformat für einen Beispielbestand. Dabei legen Sie die Grundlage für eine automatische Genreklassifikation von Bilddatenbeständen – von Computerspielen bis hin zu Liebesbriefen. Mit diesem Wissen können Sie nicht nur die Qualität Ihrer digitalen Erschließung verbessern, sondern auch innovative Analyse- und Anwendungsmöglichkeiten erschließen.
 
 
 ## Kurzbeschreibung der Lerneinheit
 
-**Lerneinheit: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
+**Modul: Erstellung eines Korpus mit Trainingsbilddaten für die automatische Genreklassifikation**
 
 Die digitale Erschließung von Sammlungsbeständen spielt eine zentrale Rolle in der modernen Forschungs- und Sammlungsarbeit. Insbesondere bei umfangreichen und heterogenen Datenbeständen, wie sie etwa bei der Digitalisierung von Liebesbriefen bis Computerspielen vorkommen, können (semi-)automatische Lösungen eine Unterstützung darstellen. Ziel ist es, die manuelle Klassifikationsarbeit zu optimieren, indem automatische Vorschläge zur Genreklassifikation erstellt und bestehende Zuordnungen überprüft werden.
 
