@@ -20,7 +20,7 @@ In dieser Einheit wird ein Grundlegendes Verständnis von algorithmischer Bildkl
 ## Themen und Methoden:
 - Den Begriff Bildklassifikation erläutern (angelehnt an LZ-ID_720)
     - Ziel: Die Lernenden kennen die Grundlagen der Bildklassifikation 
-    - Aktivitäten: Die Lernenden erhalten einen theoretischen Impuls zu Bildklassifikation, zu vermittelnde Konzepte: Klassen/Labels, Training, Inferenz, Vereinfachter Überblick der technischen Umsetzung, Multilabel/Singlelabel
+    - Impuls: Die Lernenden erhalten einen theoretischen Impuls zu Bildklassifikation, zu vermittelnde Konzepte: Klassen/Labels, Training, Inferenz, Vereinfachter Überblick der technischen Umsetzung, Multilabel/Singlelabel
     - Praxisübung: Die Teilnehmenden ordnen die vermittelten Begriffe in einer Mindmap an und machen Beziehungen zwischen ihnen erkennbar.
     - Diskussion: Welche anderen automatischen Bildverarbeitungsalgorithmen sind denkbar, wie grenzen diese sich ab? 
 
