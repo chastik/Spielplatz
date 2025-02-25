@@ -18,6 +18,8 @@ comment:  WissKi SODA OERs
 
 *Motivational Design und Nutzen*
 
+Methoden des Maschinellen Lernens haben das Potential, die Digitalisierung und Erfassung von Sammlungsdaten zu erleichtern und eröffnen neue, quantitativ gestützte Perspektiven in der Forschung mit diesen Daten.
+
 Die Reihe „Einsatz von Methoden des Maschinellen Lernens in universitären Sammlungen" adressiert 
 
 
