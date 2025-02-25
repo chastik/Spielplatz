@@ -25,36 +25,43 @@ In dieser Einheit legen die Lernenden die Grundlage für das Forschungsdatenmana
 
 # 01_Einheit_FDM_Grundlagen
 
-## Lernziele:
+## Themen und Methoden:
 
     Die Lernenden verstehen, wie ein Forschungsziel in eine präzise Forschungsfrage umgewandelt wird.
     Sie lernen, wie sie die Qualität einer Forschungsfrage analysieren und die Eignung von Daten für ihre Forschung bewerten können.
 
-## Themen und Methoden:
+### Lernziele:
 
-    Klares Forschungsziel mit einer Forschungsfrage entwickeln (LZ-ID_0543)
+__Klares Forschungsziel mit einer Forschungsfrage entwickeln (LZ-ID_0543)__
         Ziel: Lernende entwickeln eine präzise Forschungsfrage basierend auf einem gegebenen Thema.
         Aktivitäten:
             Einführung in die Bedeutung einer klaren Forschungsfrage.
             Praxisübung: Formulierung einer eigenen Forschungsfrage zu einem Thema aus den Bereichen Humanities oder Archivwissenschaften.
             Diskussion: Woran erkennt man eine gut formulierte Forschungsfrage?
 
-    Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
+__Qualität einer Forschungsfrage analysieren (LZ-ID_0544)__
         Ziel: Die Lernenden analysieren, was eine gute vs. schwache Forschungsfrage ausmacht.
         Aktivitäten:
             Theorieinput: Kriterien für eine präzise und testbare Forschungsfrage.
             Praxisbeispiel und Gruppenarbeit: Schwächen einer gegebenen Forschungsfrage erkennen und verbessern.
 
-    Eignung von Daten für eine Forschungsfrage bewerten (LZ-ID_0885)
+__Eignung von Daten für eine Forschungsfrage bewerten (LZ-ID_0885)__
         Ziel: Lernende können die Qualität und Eignung von Datenquellen bewerten und verstehen, wie diese die Beantwortung ihrer Forschungsfrage beeinflussen.
         Aktivitäten:
             Kriterien zur Bewertung von Datenquellen (z. B. Datenvalidität, Zuverlässigkeit, Repräsentativität).
             Fallstudienanalyse: Verschiedene Datentypen werden auf ihre Eignung für eine Forschungsfrage hin überprüft.
 
-Bezug zu Datenaufbereitung und Klassifikation:
+ __Eignung von Daten für eine Forschungsfrage bewerten (LZ-ID_0885)__
+        Ziel: Lernende können die Qualität und Eignung von Datenquellen bewerten und verstehen, wie diese die Beantwortung ihrer Forschungsfrage beeinflussen.
+        Aktivitäten:
+            Kriterien zur Bewertung von Datenquellen (z. B. Datenvalidität, Zuverlässigkeit, Repräsentativität).
+            Fallstudienanalyse: Verschiedene Datentypen werden auf ihre Eignung für eine Forschungsfrage hin überprüft.
 
-    Verknüpfung: Die Eignung von Daten und die Qualität der Datenerhebung sind entscheidend für die Datenaufbereitung und die späteren Klassifikationsverfahren.
-    Ausblick: Die Lernenden erkennen, dass das richtige Verständnis von Datenqualität und Eignung für ihre Forschungsfragen die Grundlage für die weitere Datenaufbereitung und Analyse bildet.
+
+## Bezug zu Datenaufbereitung und Klassifikation:
+
+Verknüpfung: Die Eignung von Daten und die Qualität der Datenerhebung sind entscheidend für die Datenaufbereitung und die späteren Klassifikationsverfahren.
+Ausblick: Die Lernenden erkennen, dass das richtige Verständnis von Datenqualität und Eignung für ihre Forschungsfragen die Grundlage für die weitere Datenaufbereitung und Analyse bildet.
 
 
 
