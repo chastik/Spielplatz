@@ -12,7 +12,7 @@ comment:  WissKi SODA OERs
 
 -->
 
-# 01_Einheit_FDM_Grundlagen: Den ersten Schritt zum vernetzten Wissensraum machen
+# 01 Einheit FDM Grundlagen: Den ersten Schritt zum vernetzten Wissensraum machen
 
 In dieser Einheit legen die Lernenden die Grundlage für das Forschungsdatenmanagement (FDM) und entwickeln ein klares Forschungsziel mit einer Forschungsfrage. Sie lernen, wie sie Datenqualität und Eignung bewerten können, um die richtigen Datenquellen für ihre Forschung zu identifizieren – der erste Schritt, um verborgene Wissensnetzwerke zu entschlüsseln.
 
@@ -22,7 +22,7 @@ In dieser Einheit legen die Lernenden die Grundlage für das Forschungsdatenmana
 
     Bezug zu Linked Open Data: Die Fähigkeit, Daten auf ihre Eignung für ein spezifisches Forschungsziel zu prüfen, bildet die Grundlage für das spätere Verknüpfen von Daten im Semantic Web.
 
-# 01_Einheit_FDM_Grundlagen
+# 01 Einheit FDM Grundlagen
 
 ## Lernziele:
 
