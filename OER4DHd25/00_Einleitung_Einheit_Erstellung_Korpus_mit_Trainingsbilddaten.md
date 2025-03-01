@@ -36,6 +36,7 @@ Diese Modul vermittelt die grundlegenden Schritte und Methoden zur Erstellung ei
 
 Ein Ausgangsdatenformat für die Genreklassifikation ist.... (Begriff erläutern, ggf. weiterführende Literatur angeben, Beispiel zeigen...)
 
+
 ### Zielgruppe
 
 *Neugier wecken*
@@ -47,6 +48,12 @@ Wie lassen sich wissenschaftliche Sammlungen effizienter digital erschließen?
 Wie können Jupyter Notebooks dabei helfen, Daten zu analysieren und zu strukturieren?
 
 Forschende entdecken neue digitale Methoden im Umgang und für das Arbeiten mit universitären Sammlungen: Sie erhalten die Möglichkeit, Jupyter Notebooks praxisnah kennenzulernen, auszuprobieren und gezielt einzusetzen – sei es für automatisierte Datenverarbeitung, Visualisierung oder die Strukturierung großer Sammlungsbestände.
+
+Mögliche Forschungsfragen können sein:
+
+Wie zuverlässig können maschinelle Bildklassifikationsverfahren das Genre von Objekten in einer Sammlung automatisch zuweisen, um die Erfassung zu unterstützen?
+
+Welche langfristigen Trends lassen sich durch die automatisierte Genreklassifikation in historischen Bildsammlungen identifizieren?
 
 Ob Sie erste Erfahrungen mit Jupyter sammeln oder Ihr Wissen vertiefen möchten – diese Einheit bietet Ihnen eine konkrete Lösungen und ist skalierbar für typische Herausforderungen in der digitalen Sammlungsarbeit.
 
