@@ -84,12 +84,16 @@ Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Sy
 
 ### Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung
 
+Lernende können...
+
 - klares Forschungsziel mit einer Forschungsfrage für eine Datenerhebung entwickeln (LZ-ID_0543)
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
-- die Qualität und Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_0885)
-- Begriff Klassifikation erläutern (LZ-ID_0885)
+- die Qualität und Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_088x)
+- Begriff Klassifikation erläutern (LZ-ID_088x)
 
 ### Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung
+
+Lernende können...
 
 - den Begriff Bildklassifikation erläutern (angelehnt an LZ-ID_720)
 - Beispiele von Bildklassifikationen benennen und erläutern (angelehnt an LZ-ID_731, 732)
@@ -98,6 +102,8 @@ Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Sy
 - Datenqualität bewerten (LZ-ID 0441)
 
 ### Einheit 3: Vorbereitung der Bildklassifikation 
+
+Lernende können...
 
 - Klassen für Klassifikationsaufgabe benennen (neu)
 - Multi-Labels benennen (neu)
