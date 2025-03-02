@@ -54,7 +54,7 @@ Ob Sie erste Erfahrungen mit Jupyter sammeln oder Ihr Wissen vertiefen möchten 
 
 ### Übergeordnetes Lernziel und Voraussetzungen
 
-*Storytelling:Gaming,GLAM,LOD,SemanticWeb*
+*Storytelling: Gaming, GLAM, LOD, SemanticWeb*
 
 In dieser Einheit wird ein Korpus für die Genreklassifikation auf Basis von Bilddaten vorbereitet um eine (semi-)automatische Klassifikation durchzuführen. (siehe LZ-ID_0587)
 
@@ -72,13 +72,14 @@ können.
 
 Dieses Modul beinhaltet 3 Lerneinheiten, die den Teilnehmenden ermöglichen, aktiv und praxisnah einen Trainingskorpus mit Bilddaten für die automatische Genreklassifikation zu erstellen. Gleichzeitig entwickeln sie ein kritisches Verständnis für das Arbeiten mit strukturierten Daten, Datei- und Ordnerstrukturen, Aspekten der Datenqualität und erhalten Verweise auf weiterführende vertiefende Inhalte zu ethischen Fragen und Herausforderungen in der digitalen Sammlungserschließung.
 
+
 ## Lernziele
 
 Durch die Verbindung von Forschungsdatenmanagement und Data Science entstehen Synergien, die den wissenschaftlichen Erkenntnisgewinn beschleunigen, die Datenqualität verbessern und die nachhaltige Nutzung von Forschungsdaten fördern. 
 
 Die adressierten Themen umfassen u.a.: Datenerheben, Datentypen, Datenqualität, Taxonomie, Klassifikationsverfahren und Mustererkennung.
 
-### Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung
+**Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung**
 
 Lernende können...
 
@@ -87,7 +88,7 @@ Lernende können...
 - die Qualität einer Forschungsfrage analysieren (LZ-ID_0544)
 - die Qualität und Eignung von Daten für eine spezifische Forschungsfrage bewerten (LZ-ID_088x)
 
-### Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung
+**Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung**
 
 Lernende können...
 
@@ -97,7 +98,7 @@ Lernende können...
 - angeleitet Metadaten im eigenen Materialbestand analysieren (neu)
 - Datenqualität bewerten (LZ-ID 0441)
 
-### Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation 
+**Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation**
 
 Lernende können...
 
@@ -149,16 +150,16 @@ Eine Auswahl relevanter Bilddaten wird aufbereitet, mit Genre-Labels annotiert u
 
 **Reflexion**
 
-Das eigene Korpus wird hinsichtlich der Repräsentativität, Herausvorderungen, Grenzen und Optimierungsmöglichkeiten erörtert und entlang der drei Einheiten selbstständig bearbeitet.
+Das eigene Korpus wird hinsichtlich der Repräsentativität, Herausvorderungen, Grenzen und Optimierungsmöglichkeiten entlang der drei Einheiten selbstständig analysiert und bewertet.
 
 **Präsentation & Transfer**
 
-Der Prozess der Korpuserstellung wird in einem kleinen Bericht/ kleine Abschlußpräsentation zusammengefasst.
+Der eigene Prozess der Korpuserstellung wird in einer Vorgehensbeschreibung zusammengefasst.
 
 
 ## Konzeption der Inhalte und Didaktik
 
-==Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung==
+~Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung~
 
 Die Einheit basiert auf einem problemorientierten Lernansatz (PBL), bei dem Lernende sich aktiv mit der Erarbeitung und Bewertung von Forschungsfragen sowie der Vorbereitung von Trainingsdaten für maschinelle Klassifikationsverfahren auseinandersetzen.
 
@@ -191,34 +192,34 @@ Die Einheit basiert auf einem problemorientierten Lernansatz (PBL), bei dem Lern
     Transferüberlegungen: Wie lassen sich die erarbeiteten Methoden in der eigenen Forschungspraxis anwenden?
 
 
-==Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung==
+~Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung~
 
-==Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation==
+~Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation~
 
 
 
 # Methodisches Konzept 
 
-## Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung
+~Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung~
 
 Die didaktischen Methoden in Einheit 1 orientieren sich an einem **problemorientierten Lernansatz (PBL)** und setzen auf eine Kombination aus impulsgebenden Vorträgen, kollaborativen Arbeitsphasen und reflektierenden Diskussionen. Zu Beginn wird durch einen **Impulsvortrag** mit interaktiven Elementen eine gemeinsame Wissensbasis geschaffen, indem zentrale Begriffe wie Klassifikation geklärt werden. Anschließend arbeiten die Teilnehmenden in **geführten Gruppenarbeiten (Guided Inquiry)** an der Entwicklung eigener Forschungsfragen und der **Analyse** relevanter Datenquellen. Ein vergleichender **Peer-Review-Prozess** ermöglicht es, Forschungsfragen und Datensätze kritisch zu reflektieren und zu optimieren. In einer abschließenden **Plenumsdiskussion mit kurzen Präsentationen** stellen die Gruppen ihre Ergebnisse vor und diskutieren Herausforderungen sowie Anwendungsmöglichkeiten. Ergänzend fördern Blended-Learning-Elemente wie digitale Materialien und Jupyter-Notebook-Beispiele das eigenständige Vertiefen der Inhalte. So wird eine praxisnahe, interaktive und anwendungsorientierte Lernumgebung geschaffen, die die Teilnehmenden aktiv in den Forschungsprozess einbindet.
 
 **Drehbuch zur Einheit 1**
 
 
-## Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung
+~Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung~
 
-## Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation 
+~Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation~
 
 
 # Technisches Konzept
 
 
-**Materialien**
+~Materialien~
 
 
 
-**Feedback**
+~Feedback~
 
 Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
 
