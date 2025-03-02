@@ -211,6 +211,7 @@ Die didaktischen Methoden in Einheit 1 orientieren sich an einem **problemorient
 
 
 
+
 ~~Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation~~
 
 
