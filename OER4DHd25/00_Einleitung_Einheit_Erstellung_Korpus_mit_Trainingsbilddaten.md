@@ -159,7 +159,7 @@ Der eigene Prozess der Korpuserstellung wird in einer Vorgehensbeschreibung zusa
 
 ## Konzeption der Inhalte und Didaktik
 
-~Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung~
+~~Einheit 1: FDM-Grundlagen und Grundlagen der Datenaufbereitung~~
 
 Die Einheit basiert auf einem problemorientierten Lernansatz (PBL), bei dem Lernende sich aktiv mit der Erarbeitung und Bewertung von Forschungsfragen sowie der Vorbereitung von Trainingsdaten für maschinelle Klassifikationsverfahren auseinandersetzen.
 
@@ -192,9 +192,9 @@ Die Einheit basiert auf einem problemorientierten Lernansatz (PBL), bei dem Lern
     Transferüberlegungen: Wie lassen sich die erarbeiteten Methoden in der eigenen Forschungspraxis anwenden?
 
 
-~Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung~
+~~Einheit 2: Einführung in die Bildklassifikation und Grundlagen der Datenbewertung~~
 
-~Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation~
+~~Einheit 3: Strukturierung von Daten zur Vorbereitung der Bildklassifikation~~
 
 
 
@@ -215,11 +215,11 @@ Die didaktischen Methoden in Einheit 1 orientieren sich an einem **problemorient
 # Technisches Konzept
 
 
-~Materialien~
+~~Materialien~~
 
 
 
-~Feedback~
+~~Feedback~~
 
 Der Lernerfolg wird über die Lernziele sicher gestellt und über die Abschlußpräsentation überprüfbar.
 
