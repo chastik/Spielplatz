@@ -124,7 +124,7 @@ In synchronen Lernformen, entweder online oder in Präsenz, werden die Lernbaust
 
 Durch die granulare Taktung nach Lernzielen entsteht eine einheitliche Struktur, die eine einheitliche Konzeption der Lernbausteine ermöglicht (Vgl. Lernmodell nach Klaus Döring (Döring, Klaus W. Handbuch Lehren und Trainieren in der Weiterbildung. Weinheim: Beltz, 2008. S. 57–58)). Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele vorgestellt und besprochen, so dass Lernende das individulle Wissen Praxisbezogen erweitern können. Durch den Diskurs in der Gruppe wird das Gelernte weiter vertieft. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch wird ein iterativer Wissensaufbau sichergestellt.
 
-## Wie wird gelernt?
+## Wie wird gelernt? Welche Lernmethoden werden eingesetzt?
 
 *Lernmethoden*
 
