@@ -1,0 +1,7 @@
+:root {
+    --soda-light: 255,169,51;
+    --soda-dark: 255,169,51;
+    --color-highlight-dark: var(--soda-dark);
+    --color-highlight-menu: var(--soda-light);
+    --color-highlight: var(--soda-light);
+  }
