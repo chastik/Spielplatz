@@ -18,6 +18,10 @@ comment:  WissKi SODA OERs
 
 *SODa gelingen (O)ERs: Grundlagen für das didaktische Konzept*
 
+Lernziele: 
+
+OER Cookbook zur Entwicklung eigener OERs anwenden.
+
 # Schritte zum Erfolg
 
 1.  [Didaktisches Konzept](../)
@@ -34,17 +38,17 @@ comment:  WissKi SODA OERs
 
 ## 1.1 Zielgruppe (Personae)
 
-- Was wissen die TN?
-- Welche Motivation und Erfahrungen haben die TN?
-- Welches Lernformat passt zu den TN?
+- Was wissen die Lernenden?
+- Welche Motivation und Erfahrungen haben die Lernenden?
+- Welches Lernformat passt zu den Lernenden?
 
 "Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design". [2] Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
 ___
 
 Link auf SODa Personae
+[2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
 
-
-## 1.2 "Gute Lernziele…
+## 1.2 "Gute Lernziele zu formulieren…
 
 - geben eine Richtung vor,
 - regeln das Gleichgewicht zwischen Vermittlung und eigenständigem Lernen, den Einsatz von didaktischen Methoden und Formaten
@@ -103,7 +107,7 @@ ___
 
 # 2. Ausblick Methodisches Konzept
 
-2.1. Modulare Struktur
+2.1. Modulare Struktur 
 2.2. Storyboard
 2.3. Drehbuch
 
