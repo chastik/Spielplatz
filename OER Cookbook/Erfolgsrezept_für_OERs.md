@@ -57,7 +57,7 @@ Link auf SODa Personae
 - und stellen den Lernerfolg sicher aber auch, dass das Gelernte".[2]
 
 
-__Beispiele aus der Lernzielmatrix zum FDM__
+__Beispiele aus der Lernzielmatrix zum FDM [5]__
 
     Nachnutzung von Lernzielen 
 
@@ -89,7 +89,11 @@ ___
 
 ## 1.3 Lernansatz fördert Lernniveau
 
+
+
 ## 1.3 Lernanform steuert Lernniveau
+
+
 
 ## 1.3 Lernform und -format Fazit
 
@@ -108,9 +112,19 @@ Sowohl in synchronen (Online- oder Präsenz-) als auch in asynchronen (Selbstler
 - Zeitlich entkoppelte asynchrone Lehrstrategien sind nachhaltiger und flexibler.
 - Eine synchrone Veranstaltung lässt sich nicht einfach in eine asynchrone transformieren".[3]
 
-Beispiele:
 
-Projektbasierte Datennutzung durch Verwendung von offenen Daten, Reproduktion von Studien durch reflektieren der Datenqualität und Nachnutzung, FAIR-Prinzipien lernen und anwenden, Entwicklung von DMPs, Workflows für Datenaufbereitung und -speicherung, überprüfen und validieren der Datenqualität, erstellen von Metadaten-Schemata, anwenden der FAIR-Prinzipien, Integration von Normdaten, LZA von Forschungsdaten, Entwicklung eines eigenen Forschungsrepositoriums, Studien zu Forschungsdatenethik oder Datenlizenzierung.
+__Beispiele__
+
+* - Projektbasierte Datennutzung durch Verwendung von offenen Daten
+* - Reproduktion von Studien durch reflektieren der Datenqualität und Nachnutzung
+* - FAIR-Prinzipien lernen und anwenden
+* - Entwicklung von DMPs, Workflows für Datenaufbereitung und Datenspeicherung
+* - überprüfen und validieren der Datenqualität
+* - erstellen von Metadaten-Schemata
+* - anwenden der FAIR-Prinzipien
+* - Integration von Normdaten
+* - Entwicklung eines eigenen Forschungsrepositoriums
+* - Studien zu Forschungsdatenethik oder Datenlizenzierung.
 
 ___
 
@@ -123,11 +137,15 @@ ___
 2.2. Storyboard
 2.3. Drehbuch
 
+
+
 ## 2.1. Modulare Struktur nach [2]
 - Dichte der Inhalte
 - Pacing
 - Targeted Learning (Fokus auf Lernziele)
 - Lernpfade adaptiv oder durch Einstiegshilfen und vertiefende Angebote
+
+
 
 ## 2.2. Storyboard
 
@@ -141,9 +159,15 @@ ___
 
 ## 3.1. Vor- und Nachteile technischer Formate, z.B. Liascript
 
+
+
 ## 3.2. Kollaborative Anpassung an Bedarfe und Fortschritt, Pflege und Weiterentwicklung, siehe SODa Github: liascript-oers
 
+
+
 ## 3.3. Feeback: Was gelingt gut, wie gelingt es besser? 
+
+
 
 
 # Quellen
@@ -153,3 +177,7 @@ ___
 [3] Crash-Kurs: Online-Lehre (2020) (letzte Aktualisierung 2023), HU Bologna.lab, https://moodle.hu-berlin.de
 [4] LiaScript
 [5] Lernzielmatrix zum ...
+
+# Weiterführende Quellen
+
+
