@@ -43,14 +43,6 @@ Grundlagen und Schritte zum Erfolg
 
 "Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design". [2] Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
 
-__Beispiele__
-
-    Nachnutzung von Lernzielen 
-
-    Anpassung von Lernzielen
-
-    Neue Lernziele
-
 
 ___
 
@@ -63,6 +55,16 @@ Link auf SODa Personae
 - geben eine Richtung vor,
 - regeln das Gleichgewicht zwischen Vermittlung und eigenständigem Lernen, den Einsatz von didaktischen Methoden und Formaten
 - und stellen den Lernerfolg sicher aber auch, dass das Gelernte".[2]
+
+
+__Beispiele aus der Lernzielmatrix zum FDM__
+
+    Nachnutzung von Lernzielen 
+
+    Anpassung von Lernzielen
+
+    Neue Lernziele
+
 
 ___
 
