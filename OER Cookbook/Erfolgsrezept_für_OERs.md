@@ -13,16 +13,15 @@ comment:  WissKi SODA OERs
 
 -->
 
- Willkommen zu SODa OERs 
+  Willkommen zu SODa OERs 
 ==========================
 
-*SODa gelingen (O)ERs: Grundlagen für das didaktische Konzept*
+# SODa gelingen (O)ERs
 
-Lernziele: 
+Zielsetzung dieser Einheit ist es, das OER Cookbook zur Entwicklung eigener OERs anzuwenden.
 
-OER Cookbook zur Entwicklung eigener OERs anwenden.
 
-# Schritte zum Erfolg
+Grundlagen und Schritte zum Erfolg
 
 1.  [Didaktisches Konzept](../)
 2.  [Methodisches Konzept](../)
@@ -43,9 +42,20 @@ OER Cookbook zur Entwicklung eigener OERs anwenden.
 - Welches Lernformat passt zu den Lernenden?
 
 "Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design". [2] Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
+
+__Beispiele__
+
+    Nachnutzung von Lernzielen 
+
+    Anpassung von Lernzielen
+
+    Neue Lernziele
+
+
 ___
 
 Link auf SODa Personae
+
 [2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
 
 ## 1.2 "Gute Lernziele zu formulieren…
@@ -140,3 +150,4 @@ ___
 [2] E-Learning Grundlagen (2024), TU Graz, https://imoox.at/course/e-learning
 [3] Crash-Kurs: Online-Lehre (2020) (letzte Aktualisierung 2023), HU Bologna.lab, https://moodle.hu-berlin.de
 [4] LiaScript
+[5] Lernzielmatrix zum ...
