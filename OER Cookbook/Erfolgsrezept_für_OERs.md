@@ -57,15 +57,21 @@ Link auf SODa Personae
 - und stellen den Lernerfolg sicher aber auch, dass das Gelernte".[2]
 
 
-__Beispiele aus der Lernzielmatrix zum FDM [5]__
+__Nutzungsbeispiele aus der Lernzielmatrix zum FDM [5]__
 
-    Nachnutzung von Lernzielen 
+Originallernziel: 
 
-    Anpassung von Lernzielen
+- Lernende können Funktionen und Verantwortlichkeiten von Personen im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01_003_0033)
 
-    Neue Lernziele
+SODa-Fachspezifische Anpassung [6]:
 
+- Lernende können Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern.[6] 
 
+- Lernende können Funktionen und Verantwortlichkeiten von Konservator*innen und Restaurator*innen erläutern. 
+
+Neue SODa Lernziele:
+
+- 
 ___
 
 [2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
@@ -177,6 +183,8 @@ ___
 [3] Crash-Kurs: Online-Lehre (2020) (letzte Aktualisierung 2023), HU Bologna.lab, https://moodle.hu-berlin.de
 [4] LiaScript
 [5] Lernzielmatrix zum ...
+[6] Hastik & Schwenk, 
+
 
 # Weiterführende Quellen
 
