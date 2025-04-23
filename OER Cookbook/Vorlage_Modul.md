@@ -16,6 +16,28 @@ comment:  WissKi SODA OERs
   Willkommen zu SODa OERs 
 ==========================
 
+## Baustein	
 
+## Lernziel ID	
+
+## Lernziel	
+
+## Thema	
+
+## Inhalt mit Quellen	
+
+## Methode und Tool (online)	
+
+## Methode und Tool (präsenz)	
+
+## Dauer	
+
+## Atmen	
+
+## Lizenz
+
+## Kommentar
+
+## Zuständigkeit																	
 															
 															
