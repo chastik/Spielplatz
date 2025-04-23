@@ -43,12 +43,15 @@ Grundlagen und Schritte zum Erfolg
 
 "Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design". [2] Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
 
+__Beispiele__
+
 
 ___
 
 Link auf SODa Personae
 
 [2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
+
 
 ## 1.2 "Gute Lernziele zu formulieren…
 
@@ -57,9 +60,9 @@ Link auf SODa Personae
 - und stellen den Lernerfolg sicher aber auch, dass das Gelernte".[2]
 
 
-__Nutzungsbeispiele aus der Lernzielmatrix zum FDM [5]__
+__Beispiele__
 
-Originallernziel: 
+Lernziel aus der Lernzielmatrix [5]: 
 
 - Lernende können Funktionen und Verantwortlichkeiten von Personen im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01_003_0033)
 
@@ -71,11 +74,12 @@ SODa-Fachspezifische Anpassung [6]:
 
 Neue SODa Lernziele:
 
-- 
+- Unterschied zwischen proprietären und offenen Dateiformaten benennen.
 ___
 
 [2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
-
+[5] Lernzielmatrix zum ...
+[6] Hastik & Schwenk, 
 
 ## 1.3 Lernform und -format
 
@@ -92,14 +96,18 @@ ___
 | **Fokus auf Ergebnis**   | Prozess und Erkenntnis sind wichtiger als das Endergebnis | Verständnis der Grundlagen und deren Anwendung stehen im Mittelpunkt | Ein Endprodukt steht im Zentrum, der Prozess ist sekundär | Das Endergebnis (Lösung) ist entscheidend, der Weg zur Lösung (Prozess) ebenfalls wichtig |
 | **Bezug zur Praxis**     | Kann praxisnah sein, abhängig von der Fragestellung | Theoretischer Fokus, Praxisbezug in der Vertiefungsphase | Sehr praxisnah: Bearbeitung von realen Aufgaben und Problemen | Sehr praxisnah, da die Lernenden reale oder simulierte Probleme in ihrer vollen Komplexität bearbeiten müssen |
 
+__Beispiele__
+
 
 ## 1.3 Lernansatz fördert Lernniveau
 
 
+__Beispiele__
 
 ## 1.3 Lernanform steuert Lernniveau
 
 
+__Beispiele__
 
 ## 1.3 Lernform und -format Fazit
 
