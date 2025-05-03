@@ -71,8 +71,6 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 
 ## TaDiRAH im Überblick
 
-
-
 ### Forschungsdatenlebenszyklus ↔ TaDiRAH-Mapping
 
 | Forschungsaktivitäten | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
@@ -83,3 +81,53 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 | 4 - Analyse | Analyzing | Stylisitc Analysis, Visual Analysis, Structural Analysis, Spatial Analysis, Relational Analysis, Network Analysis, Content Analysis |
 | 5 - Interpretation | Interpreting | Modeling, Theorizing, Contextualizing |
 | 6 - Speicherung | Storing | Preserving, Archiving, Organizing, Identifying |
+
+
+## "Guess the tag"
+
+Frage: Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?
+
+Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.): 
+- https://tadirah.info/pages/Browser.html 
+- https://vocabs.dariah.eu/tadirah/de/?clang=en 
+
+Gemeinsames Sammeln der Begriffe auf Flip-Chart als Liste oder mit Moderationskarten (5 Min.).
+
+**Pause (5 Min.)**
+
+Ergebnisdiskussion (10 Min):
+
+- Wo wurde gesucht?
+- Wie wurde gesucht?
+- Was lief gut?
+- Was lief nicht gut?
+- Was überrascht?
+- Welche Konzepte fehlen?
+
+## Mapping & Erweiterung
+
+3-5 Kleingruppen zu Lehre, Datenpraktiken, Infrastruktur.
+Gibt es weitere Vorschläge?
+Aufgabe: Beispiele zuordnen, fehlende Begriffe oder Relationen markieren (25 Min.).
+Werkzeuge: 
+- https://tadirah.info/pages/Browser.html 
+- https://vocabs.dariah.eu/tadirah/de/?clang=en 
+
+## Ergebnisvorstellung 
+
+(á Gruppe 3-5 Min., max. 15 Min.)
+Jede Gruppe stellt vor (Flipchart)
+Plenum stellt Fragen.
+
+## Abschlußdiskussion & Nächste Schritte
+
+- Wiederkehrende Themen an den Gruppen-Flip-Charts zusammenfassen
+- Mögliche "Erweiterungen" mit Klebepunkten priorisieren lassen
+
+Frage: Wie kann eine gemeinsame Zusammenarbeit aussehen?
+Frage: Wer hätte Lust sich an der Weiterentwicklung zu beteiligen?
+
+
+
+
+
