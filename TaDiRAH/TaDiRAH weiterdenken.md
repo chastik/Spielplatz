@@ -67,3 +67,21 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 + Welche dieser Ideen sollten wir gemeinsam weiterverfolgen – z. B. im Rahmen von GitHub, Dokumentation oder künftigen Treffen?
 
 + Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?
+
+
+## TaDiRAH im Überblick
+
+
+
+# Mapping: Forschungsdatenlebenszyklus (FDL) ↔ TaDiRAH
+
+# Forschungsdatenlebenszyklus ↔ TaDiRAH-Mapping
+
+| Forschungsdatenlebenszyklus | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
+|-----------------------------|----------------------|----------------------|
+| 1 - Erfassen | Capturing | Converting, Data Recognition, Extracting, Gathering, Recording, Transcribing, Discovering, Imaging |
+| 2 - Erzeugen | Creating | Designing, Programming, Translating, Web Development, Writing |
+| 3 - Anreichern | Enriching | Annotating, Data Cleaning, Editing |
+| 4 - Analyse | Analyzing | Stylisitc Analysis, Visual Analysis, Structural Analysis, Spatial Analysis, Relational Analysis, Network Analysis, Content Analysis |
+| 5 - Interpretation | Interpreting | Modeling, Theorizing, Contextualizing |
+| 6 - Speicherung | Storing | Preserving, Archiving, Organizing, Identifying |
