@@ -73,9 +73,7 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 
 
 
-# Mapping: Forschungsdatenlebenszyklus (FDL) ↔ TaDiRAH
-
-# Forschungsdatenlebenszyklus ↔ TaDiRAH-Mapping
+### Forschungsdatenlebenszyklus ↔ TaDiRAH-Mapping
 
 | Forschungsaktivitäten | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
 |-----------------------------|----------------------|----------------------|
