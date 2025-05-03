@@ -77,7 +77,7 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 
 # Forschungsdatenlebenszyklus ↔ TaDiRAH-Mapping
 
-| Forschungsdatenlebenszyklus | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
+| Forschungsaktivitäten | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
 |-----------------------------|----------------------|----------------------|
 | 1 - Erfassen | Capturing | Converting, Data Recognition, Extracting, Gathering, Recording, Transcribing, Discovering, Imaging |
 | 2 - Erzeugen | Creating | Designing, Programming, Translating, Web Development, Writing |
