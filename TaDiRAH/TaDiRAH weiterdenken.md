@@ -71,7 +71,12 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 
 ## TaDiRAH im Überblick
 
-### Forschungsdatenlebenszyklus ↔ TaDiRAH-Mapping
+### 
+
+siehe Folien: https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7
+
+
+### TaDiRAH Konzepte
 
 | Forschungsaktivitäten | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
 |-----------------------------|----------------------|----------------------|
