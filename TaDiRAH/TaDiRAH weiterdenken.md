@@ -72,6 +72,7 @@ Ziel ist es, gemeinsam als Community of Practice, konkrete Erweiterungsvorschlä
 ## TaDiRAH im Überblick
 
 siehe Folien: 
+
 - https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7
 
 
@@ -92,7 +93,9 @@ siehe Folien:
 Frage: Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?
 
 Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.): 
+
 - https://tadirah.info/pages/Browser.html 
+
 - https://vocabs.dariah.eu/tadirah/de/?clang=en 
 
 Gemeinsames Sammeln der Begriffe auf Flip-Chart als Liste oder mit Moderationskarten (5 Min.).
@@ -111,24 +114,33 @@ Ergebnisdiskussion (10 Min):
 ## Mapping & Erweiterung
 
 3-5 Kleingruppen zu Lehre, Datenpraktiken, Infrastruktur.
+
 Gibt es weitere Vorschläge?
-Aufgabe: Beispiele zuordnen, fehlende Begriffe oder Relationen markieren (25 Min.).
+
+Aufgabe: Beispiele (Auswahl und eigene) zuordnen, fehlende Begriffe oder Relationen markieren (25 Min.).
+
 Werkzeuge: 
+
 - https://tadirah.info/pages/Browser.html 
+
 - https://vocabs.dariah.eu/tadirah/de/?clang=en 
 
 ## Ergebnisvorstellung 
 
 (á Gruppe 3-5 Min., max. 15 Min.)
+
 Jede Gruppe stellt vor (Flipchart)
+
 Plenum stellt Fragen.
 
 ## Abschlußdiskussion & Nächste Schritte
 
 - Wiederkehrende Themen an den Gruppen-Flip-Charts zusammenfassen
+
 - Mögliche "Erweiterungen" mit Klebepunkten priorisieren lassen
 
 Frage: Wie kann eine gemeinsame Zusammenarbeit aussehen?
+
 Frage: Wer hätte Lust sich an der Weiterentwicklung zu beteiligen?
 
 
