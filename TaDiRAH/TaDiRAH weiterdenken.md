@@ -15,7 +15,7 @@ comment:  WissKi SODA OERs
 # TaDiRAH weiterdenken: Forschungsaktivitäten, Kompetenzen und semantische Kontexte
 
 **Interner Workshop, HERMES Vollversammlung, Marburg**
-** 9. Mai 2025, 9:00 - 11:30 Uhr**
+**9. Mai 2025, 9:00 - 11:30 Uhr**
 
 
 Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung** und im **Aufbau von Dateninfrastrukturen**
@@ -23,9 +23,9 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 ### Agenda
 
 * TaDiRAH im Überblick
-* Interaktiver Einstieg: „Guess the Tag!“
+* Interaktiver Einstieg: “Guess the tags“
 * Kleingruppenarbeit: Mapping & Erweiterung
-* Vorstellung der Gruppenergebnisse
+* Vorstellung der Ergebnisse
 * Abschlussdiskussion & nächste Schritte
 
 ### Orientierung
@@ -34,9 +34,12 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 09:45-10:00 	TaDiRAH im Überblick
 
-10:00-10:20 	“Guess the tag”
+10:00-10:10 	“Guess the tags”
 
-10:20-10:30	    *Pause*
+10:10-10:20	   Zusammenfassung der Ergebnisse 
+
+*Pause*
+
 
 10:30-11:00 	Mapping & Erweiterung
 
@@ -46,7 +49,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 ### Leitfragen
 
-+ Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?
++ ~Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?~
 
 + Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit?
 
@@ -68,12 +71,13 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 + Welche dieser Ideen sollten wir gemeinsam weiterverfolgen – z. B. im Rahmen von GitHub, Dokumentation oder künftigen Treffen?
 
-+ Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?
++ ~Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?~
 
 
 ## TaDiRAH im Überblick
 
-siehe Folien: 
+ ![siehe Folien](TaDiRAH_weiterdenken.jpg)<!--width="50%"-->
+
 
 - https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7
 
