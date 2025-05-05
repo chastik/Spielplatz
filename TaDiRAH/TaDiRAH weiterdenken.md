@@ -102,11 +102,9 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 * TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en [1]
 
-===
-
+---
 [1] ACDH-CH - Austrian Centre for Digital Humanities and Cultural Heritage - Austrian Academy of Sciences 
 
-___
 
 
 **Ergebnisdiskussion:**
