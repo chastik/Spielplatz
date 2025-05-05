@@ -124,6 +124,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 * Jede Gruppe ordnet ein Beispiel (Auswahl und eigene) TaDiRAH zu
 * Ergbnisse werden zur Präsentation auf Flipchart gesammelt
+
     - Fehlende Begriffe oder Relationen werden notiert
     - Verwendete Begriffe und Pfade werden gesammelt 
 
