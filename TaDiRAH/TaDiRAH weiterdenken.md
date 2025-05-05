@@ -76,7 +76,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 | 6 - Speicherung | Storing | Preserving, Archiving, Organizing, Identifying |
 
 
-## "Guess the tag"
+## "Guess the tags"
 
 **Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?**
 
