@@ -14,7 +14,8 @@ comment:  WissKi SODA OERs
 
 # TaDiRAH weiterdenken: Forschungsaktivitäten, Kompetenzen und semantische Kontexte
 
-**Interner Workshop, HERMES Vollversammlung, Marburg, 9. Mai 2025, 9:00 - 11:30 Uhr**
+**Interner Workshop, HERMES Vollversammlung, Marburg**
+** 9. Mai 2025, 9:00 - 11:30 Uhr**
 
 
 Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung** und im **Aufbau von Dateninfrastrukturen**
