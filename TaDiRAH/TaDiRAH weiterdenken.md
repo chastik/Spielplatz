@@ -101,7 +101,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 ## Pause (5 Min.)
 
-##  
+##  Einstieg nach der Pause
 
 - Wo wurde gesucht?
 - Wie wurde gesucht?
