@@ -36,10 +36,9 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 10:00-10:10 	“Guess the tags”
 
-10:10-10:20	   Zusammenfassung der Ergebnisse 
+10:10-10:20	   Zusammenfassung und Besprechung der Ergebnisse 
 
 *Pause*
-
 
 10:30-11:00 	Mapping & Erweiterung
 
@@ -49,17 +48,11 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 ### Leitfragen
 
-+ ~Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?~
++ Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?
 
 + Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit?
 
 + Welche Begriffe und Strukturen von TaDiRAH sind für eure Arbeit besonders hilfreich – und wo wird es schwierig?
-
-+ Welche Konzepte fehlen euch aktuell, um bestimmte Aktivitäten, Kompetenzen oder Praktiken treffend zu beschreiben?
-
-+ Was überrascht euch an der tatsächlichen Nutzung von TaDiRAH?
-
-+ Welche Begriffe kommen häufig vor – welche fast nie? Was sagt das über Anwendbarkeit und Lücken?
 
 + Wie lassen sich eure realen Formate (Lehrveranstaltungen, Tools, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
 
@@ -71,7 +64,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 + Welche dieser Ideen sollten wir gemeinsam weiterverfolgen – z. B. im Rahmen von GitHub, Dokumentation oder künftigen Treffen?
 
-+ ~Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?~
++ Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?
 
 
 ## TaDiRAH im Überblick
@@ -79,7 +72,6 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
  ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/TaDiRAH_weiterdenken.jpg)<!--width="70%"-->
 
 [siehe Folien](https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7)
-- 
 
 
 ### TaDiRAH Konzepte
@@ -96,15 +88,29 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 ## "Guess the tag"
 
-Frage: Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?
+**Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?**
 
-Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.): 
 
-- https://tadirah.info/pages/Browser.html 
+**Aufgabe:**
 
-- https://vocabs.dariah.eu/tadirah/de/?clang=en 
+* Recherche nach 3-5 häufigsten Begriffen (10 Min.)
+* Sammeln der Begriffe auf dem Flipchart (10 Min.)
 
-Gemeinsames Sammeln der Begriffe auf Flip-Chart als Liste oder mit Moderationskarten (5 Min.).
+**Werkzeuge:**
+
+* TaDiRAH Browser: https://tadirah.info/pages/Browser.html 
+
+* TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en [1]
+
+_____________________________
+[1] ACDH-CH - Austrian Centre for Digital Humanities and Cultural Heritage - Austrian Academy of Sciences 
+
+
+**Ergebnisdiskussion:**
+* Welche Begriffe kommen häufig vor – welche fast nie? 
+* Was sagt das über Anwendbarkeit und Lücken?
+* Was überrascht euch an der tatsächlichen Nutzung von TaDiRAH?
+
 
 **Pause (5 Min.)**
 
@@ -130,6 +136,8 @@ Werkzeuge:
 - https://tadirah.info/pages/Browser.html 
 
 - https://vocabs.dariah.eu/tadirah/de/?clang=en 
+
+
 
 ## Ergebnisvorstellung 
 
