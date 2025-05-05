@@ -126,7 +126,6 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 * Ergbnisse werden zur Präsentation auf Flipchart gesammelt
 
     - Fehlende Begriffe oder Relationen werden notiert
-
     - Verwendete Begriffe und Pfade werden gesammelt 
 
 **Werkzeuge:**
