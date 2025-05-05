@@ -76,10 +76,10 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 ## TaDiRAH im Überblick
 
- ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/TaDiRAH_weiterdenken.jpg)<!--width="50%"-->
+ ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/TaDiRAH_weiterdenken.jpg)<!--width="70%"-->
 
-
-- https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7
+[siehe Folien](https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7)
+- 
 
 
 ### TaDiRAH Konzepte
