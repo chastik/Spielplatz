@@ -52,17 +52,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 + Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit?
 
-+ Welche Begriffe und Strukturen von TaDiRAH sind für eure Arbeit besonders hilfreich – und wo wird es schwierig?
-
-+ Wie lassen sich eure realen Formate (Lehrveranstaltungen, Tools, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
-
-+ Wo fehlen Begriffe, Relationen oder Differenzierungen, um eure Praxis besser abzubilden?
-
-+ Welche Kompetenzen oder methodischen Dimensionen sollten zusätzlich integriert werden?
-
-+ Welche Erweiterungsvorschläge erscheinen euch besonders relevant oder dringlich?
-
-+ Welche dieser Ideen sollten wir gemeinsam weiterverfolgen – z. B. im Rahmen von GitHub, Dokumentation oder künftigen Treffen?
++ Wie lassen sich eure realen Formate (Lehrmaterial, Lehrveranstaltungen, Werkzeuge, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
 
 + Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?
 
@@ -111,7 +101,7 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 ## Pause (5 Min.)
 
-## Einstieg 
+##  
 
 - Wo wurde gesucht?
 - Wie wurde gesucht?
@@ -125,43 +115,50 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 1. Jede Gruppe ordnet ein Beispiel (Auswahl und eigene) TaDiRAH zu
 2. Ergbnisse werden zur Präsentation auf Flipchart gesammelt
 
-    - Fehlende Begriffe oder Relationen werden notiert
-    - Verwendete Begriffe und Pfade werden gesammelt
-
-    2. Second item
-
-   - Unordered sub-list
-   - ... 
+    - Fehlende Begriffe oder Relationen 
+    - Verwendete Begriffe und Pfade 
 
 **Werkzeuge:**
 
 * TaDiRAH Browser: https://tadirah.info/pages/Browser.html 
 
-* TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en [ACDH-CH - Austrian Centre for Digital Humanities and Cultural Heritage - Austrian Academy of Sciences]
+* TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en 
 
-**Beispiele**
+**Beispiele (Anzahl der Gruppen)**
 
-* Auswahl an Beispielen auf Moderationskarten (Anzahl der Gruppen)
-* Gibt es weitere Vorschläge? (TN schreiben weitere Beispiele auf Moderationskarten)
+* Auswahl an Beispielen auf Moderationskarten 
+* TN schlagen weitere Beispiele vor
 
 
 ## Ergebnisvorstellung 
 
-(á Gruppe 3-5 Min., max. 15 Min.)
+**Aufgabe: (15 Min.)**
 
-Jede Gruppe stellt vor (Flipchart)
+* Jede Gruppe stellt das Flipchart in ca 3-5 Min., max. 15 Min. vor.
+* Plenum stellt Fragen.
 
-Plenum stellt Fragen.
+**Leitfragen:**
 
-## Abschlußdiskussion & Nächste Schritte
++ Welche Begriffe und Strukturen von TaDiRAH sind für eure Arbeit besonders hilfreich – und wo wird es schwierig?
 
-- Wiederkehrende Themen an den Gruppen-Flip-Charts zusammenfassen
++ Wo fehlen Begriffe, Relationen oder Differenzierungen, um eure Praxis besser abzubilden?
 
-- Mögliche "Erweiterungen" mit Klebepunkten priorisieren lassen
++ Welche Kompetenzen oder methodischen Dimensionen sollten zusätzlich integriert werden?
 
-Frage: Wie kann eine gemeinsame Zusammenarbeit aussehen?
++ Welche Erweiterungsvorschläge erscheinen besonders relevant oder dringlich?
 
-Frage: Wer hätte Lust sich an der Weiterentwicklung zu beteiligen?
+
+## Abschlußdiskussion 
+
+* Wiederkehrende Themen an den Gruppen-Flip-Charts zusammenfassen
+* Mögliche "Erweiterungen" mit Klebepunkten priorisieren lassen
+
+
+## Nächste Schritte
+
+* Wie kann eine gemeinsame Zusammenarbeit aussehen?
+* Welche dieser Ideen sollten wir gemeinsam weiterverfolgen – z. B. im Rahmen von GitHub, Dokumentation oder künftigen Treffen?
+* Wer hätte Lust sich an der Weiterentwicklung zu beteiligen?
 
 
 
