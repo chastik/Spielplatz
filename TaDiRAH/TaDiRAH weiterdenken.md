@@ -36,12 +36,12 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 10:00-10:10 	“Guess the tags”
 
-10:10-10:20	   Zusammenfassung und Besprechung der Ergebnisse 
+10:10-10:20	   Zusammenfassung & Ergebnissbesprechung 
 
 *Pause*
 
-10:30-11:00 	Mapping & Erweiterung
-
+10:30-11:00 	Mapping & Erweiterung 
+                
 11:00-11:15	    Ergebnisvorstellung
 
 11:15-11:30	    Abschlussdiskussion & nächste Schritte
@@ -93,51 +93,51 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 **Aufgabe:**
 
-* Recherche nach 3-5 häufigsten Begriffen (10 Min.)
+* Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.)
 * Sammeln der Begriffe auf dem Flipchart (10 Min.)
 
 **Werkzeuge:**
 
 * TaDiRAH Browser: https://tadirah.info/pages/Browser.html 
 
-* TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en [1]
-
----
-[1] ACDH-CH - Austrian Centre for Digital Humanities and Cultural Heritage - Austrian Academy of Sciences 
-
-
+* TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en [ACDH-CH - Austrian Centre for Digital Humanities and Cultural Heritage - Austrian Academy of Sciences]
 
 **Ergebnisdiskussion:**
+
 * Welche Begriffe kommen häufig vor – welche fast nie? 
 * Was sagt das über Anwendbarkeit und Lücken?
 * Was überrascht euch an der tatsächlichen Nutzung von TaDiRAH?
 
 
-**Pause (5 Min.)**
+## Pause (5 Min.)
 
-Ergebnisdiskussion (10 Min):
+## Einstieg 
 
 - Wo wurde gesucht?
 - Wie wurde gesucht?
 - Was lief gut?
 - Was lief nicht gut?
-- Was überrascht?
-- Welche Konzepte fehlen?
 
 ## Mapping & Erweiterung
 
-3-5 Kleingruppen zu Lehre, Datenpraktiken, Infrastruktur.
+**Aufgabe: (30 Min.)**
 
-Gibt es weitere Vorschläge?
+* Jede Gruppe ordnet ein Beispiel (Auswahl und eigene) TaDiRAH zu
+* Ergbnisse werden zur Präsentation auf Flipchart gesammelt
+** Fehlende Begriffe oder Relationen werden notiert
+** Verwendete Begriffe und Pfade werden gesammelt 
 
-Aufgabe: Beispiele (Auswahl und eigene) zuordnen, fehlende Begriffe oder Relationen markieren (25 Min.).
 
-Werkzeuge: 
+**Werkzeuge:**
 
-- https://tadirah.info/pages/Browser.html 
+* TaDiRAH Browser: https://tadirah.info/pages/Browser.html 
 
-- https://vocabs.dariah.eu/tadirah/de/?clang=en 
+* TaDiRAH Vocabs: https://vocabs.dariah.eu/tadirah/de/?clang=en [ACDH-CH - Austrian Centre for Digital Humanities and Cultural Heritage - Austrian Academy of Sciences]
 
+**Beispiele**
+
+* Auswahl an Beispielen auf Moderationskarten (Anzahl der Gruppen)
+* Gibt es weitere Vorschläge? (TN schreiben weitere Beispiele auf Moderationskarten)
 
 
 ## Ergebnisvorstellung 
