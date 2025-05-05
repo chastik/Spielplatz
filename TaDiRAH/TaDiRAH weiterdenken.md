@@ -122,11 +122,16 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 **Aufgabe: (30 Min.)**
 
-* Jede Gruppe ordnet ein Beispiel (Auswahl und eigene) TaDiRAH zu
-* Ergbnisse werden zur Präsentation auf Flipchart gesammelt
+1. Jede Gruppe ordnet ein Beispiel (Auswahl und eigene) TaDiRAH zu
+2. Ergbnisse werden zur Präsentation auf Flipchart gesammelt
 
     - Fehlende Begriffe oder Relationen werden notiert
-    - Verwendete Begriffe und Pfade werden gesammelt 
+    - Verwendete Begriffe und Pfade werden gesammelt
+
+    2. Second item
+
+   - Unordered sub-list
+   - ... 
 
 **Werkzeuge:**
 
