@@ -20,6 +20,34 @@ comment:  WissKi SODA OERs
 
 Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung** und im **Aufbau von Dateninfrastrukturen**
 
+**Dieser Workshop behandelt Themen…**
+
+* Konzeptionelle Modellierung
+* Strukturierung von Forschungsdaten
+* Anwendung kontrollierter Vokabulare / Taxonomien
+* Reflexion über Datenpraktiken und semantische Interoperabilität
+
+
+**Für diesen Workshop werden vorausgesetzt…**
+
+aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie
+
+- den Begriff Taxonomie erläutern. (03_006_0729)
+- Anforderungen der Definition von Begriffen in Begriffssystemen benennen. (03_006_0758)
+- Strukturen von Begriffssystemen benennen. (03_006_0732)
+- die Relevanz von Begriffssytemen erläutern. (03_006_0746)
+- 
+- 
+
+**In diesem Workshop können Teilnehmende…**
+
+**Dieser Workshop adressiert Lernziele**
+
+
+
+
+
+
 ### Agenda
 
 * TaDiRAH im Überblick
