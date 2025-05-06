@@ -168,14 +168,14 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 **Leitfragen:**
 
-+ Welche Begriffe und Strukturen von TaDiRAH sind für eure Arbeit besonders hilfreich – und wo wird es schwierig?
+* Welche Begriffe und Strukturen von TaDiRAH sind für eure Arbeit besonders hilfreich – und wo wird es schwierig?
 
-+ Welche Kompetenzen oder methodischen Dimensionen sollten zusätzlich integriert werden?
+* Welche Kompetenzen oder methodischen Dimensionen sollten zusätzlich integriert werden?
 
-+ Welche Erweiterungsvorschläge erscheinen besonders relevant oder dringlich?
+* Welche Erweiterungsvorschläge erscheinen besonders relevant oder dringlich?
 
 
-## Abschlußdiskussion 
+## Abschlussdiskussion 
 
 * Wiederkehrende Themen an den Gruppen-Flip-Charts zusammenfassen
 * Mögliche "Erweiterungen" mit Klebepunkten priorisieren lassen
