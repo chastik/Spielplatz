@@ -32,18 +32,23 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie
 
-- den Begriff Taxonomie erläutern. (03_006_0729)
-- Anforderungen der Definition von Begriffen in Begriffssystemen benennen. (03_006_0758)
-- Strukturen von Begriffssystemen benennen. (03_006_0732)
-- die Relevanz von Begriffssytemen erläutern. (03_006_0746)
-- 
-- 
+* den Begriff Taxonomie erläutern. (03_006_0729)
+* Anforderungen der Definition von Begriffen in Begriffssystemen benennen. (03_006_0758)
+* Strukturen von Begriffssystemen benennen. (03_006_0732)
+* die Relevanz von Begriffssytemen erläutern. (03_006_0746)
 
 **In diesem Workshop können Teilnehmende…**
 
+* TaDiRAH anwenden, analysieren, bewerten und Verbesserungsvorschläge entwickeln.
+
 **Dieser Workshop adressiert Lernziele**
 
+aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie und Vokabulare
 
+* Anwendungsbereiche von kontrollierten Vokabularen benennen. (03_005_0696)
+* Strukturen von Begriffssystemen anwenden. (03_006_0734)
+* Kriterien zur Entwicklung von Begriffssystemen benennen. (03_006_0760)
+* 
 
 
 
