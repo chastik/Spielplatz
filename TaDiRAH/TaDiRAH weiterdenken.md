@@ -109,8 +109,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 **Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?**
 
-
-**Aufgabe:**
+**Aufgabe: (20 Min.)**
 
 * Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.)
 * Sammeln der Begriffe auf dem Flipchart (10 Min.)
@@ -130,14 +129,14 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 ## Pause (5 Min.)
 
-##  Einstieg nach der Pause
-
 - Wo wurde gesucht?
 - Wie wurde gesucht?
 - Was lief gut?
 - Was lief nicht gut?
 
 ## Mapping & Erweiterung
+
+**Wo fehlen Begriffe, Relationen oder Differenzierungen, um eure Praxis besser abzubilden?**
 
 **Aufgabe: (30 Min.)**
 
@@ -169,8 +168,6 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 **Leitfragen:**
 
 + Welche Begriffe und Strukturen von TaDiRAH sind für eure Arbeit besonders hilfreich – und wo wird es schwierig?
-
-+ Wo fehlen Begriffe, Relationen oder Differenzierungen, um eure Praxis besser abzubilden?
 
 + Welche Kompetenzen oder methodischen Dimensionen sollten zusätzlich integriert werden?
 
