@@ -12,9 +12,10 @@ comment:  WissKi SODA OERs
 
 -->
 
-# TaDiRAH weiterdenken - Forschungsaktivitäten, Kompetenzen und semantische Kontexte
+# Forschungsaktivitäten, Kompetenzen und semantische Kontexte
 
-**Interner Workshop, HERMES Vollversammlung, Marburg**
+**Interner Workshop "TaDiRAH weiterdenken", HERMES Vollversammlung, Marburg**
+
 **9. Mai 2025, 9:00 - 11:30 Uhr**
 
 ---
