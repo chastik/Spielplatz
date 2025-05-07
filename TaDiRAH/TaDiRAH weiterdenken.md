@@ -33,8 +33,8 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie
 
-* den Begriff Taxonomie erläutern. (03_006_0729)
-* Anforderungen der Definition von Begriffen in Begriffssystemen benennen. (03_006_0758)
+* den Begriff Taxonomie erläutern. (03\_006\_0729)
+* Anforderungen der Definition von Begriffen in Begriffssystemen benennen. (03\_006\_0758)
 * Strukturen von Begriffssystemen benennen. (03_006_0732)
 * die Relevanz von Begriffssytemen erläutern. (03_006_0746)
 
