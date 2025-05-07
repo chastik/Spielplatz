@@ -35,8 +35,8 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 * den Begriff Taxonomie erläutern. (03\_006\_0729)
 * Anforderungen der Definition von Begriffen in Begriffssystemen benennen. (03\_006\_0758)
-* Strukturen von Begriffssystemen benennen. (03_006_0732)
-* die Relevanz von Begriffssytemen erläutern. (03_006_0746)
+* Strukturen von Begriffssystemen benennen. (03\_006\_0732)
+* die Relevanz von Begriffssytemen erläutern. (03\_006\_0746)
 
 **In diesem Workshop können Teilnehmende…**
 
@@ -46,9 +46,9 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie und Vokabulare
 
-* Anwendungsbereiche von kontrollierten Vokabularen benennen. (03_005_0696)
-* Strukturen von Begriffssystemen anwenden. (03_006_0734)
-* Kriterien zur Entwicklung von Begriffssystemen benennen. (03_006_0760)
+* Anwendungsbereiche von kontrollierten Vokabularen benennen. (03\_005\_0696)
+* Strukturen von Begriffssystemen anwenden. (03\_006\_0734)
+* Kriterien zur Entwicklung von Begriffssystemen benennen. (03\_006\_0760)
 
 ### Agenda
 
