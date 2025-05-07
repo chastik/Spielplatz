@@ -135,12 +135,8 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 ## TaDiRAH weiterdenken
 
-[Mentimeter](https://www.menti.com/al1ozsrhfgxu)
-Code: 6979 5170
 
-[siehe Folien](https://www.mentimeter.com/app/presentation/albfym8cjpse9hvg63truoctfiyh217r/edit?source=share-modal)
-
- ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/tadirah_umfrage.jpg)<!--width="70%"-->
+ ![Mentimeter](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/tadirah_umfrage.jpg)<!--width="70%"-->
 
 ## Mapping & Erweiterung
 
