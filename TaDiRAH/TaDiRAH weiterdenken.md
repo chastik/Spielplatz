@@ -20,13 +20,17 @@ comment:  WissKi SODA OERs
 
 ---
 
-Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung** und im **Aufbau von Dateninfrastrukturen**
+Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung und Outputs**, im **Aufbau von Dateninfrastrukturen** oder für die **Werkzeugnachnutzung**.
+
+**In diesem Workshop können Teilnehmende…**
+
+* TaDiRAH anwenden, analysieren, bewerten und Verbesserungsvorschläge entwickeln.
 
 **Dieser Workshop behandelt Themen…**
 
 * Konzeptionelle Modellierung
 * Strukturierung von Forschungsdaten
-* Anwendung kontrollierter Vokabulare / Taxonomien
+* Anwendung hierarchisch strukturierter Begriffssysteme und SKOS-basierter Vokabulare
 * Reflexion über Datenpraktiken und semantische Interoperabilität
 
 **Für diesen Workshop werden vorausgesetzt…**
@@ -38,10 +42,6 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 * Strukturen von Begriffssystemen benennen. (03\_006\_0732)
 * die Relevanz von Begriffssytemen erläutern. (03\_006\_0746)
 
-**In diesem Workshop können Teilnehmende…**
-
-* TaDiRAH anwenden, analysieren, bewerten und Verbesserungsvorschläge entwickeln.
-
 **Dieser Workshop adressiert Lernziele**
 
 aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie und Vokabulare
@@ -52,10 +52,9 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 ### Agenda
 
-* TaDiRAH im Überblick
-* Interaktiver Einstieg: “Guess the tags“
-* Kleingruppenarbeit: Mapping & Erweiterung
-* Vorstellung der Ergebnisse
+* Kurzimpuls: TaDiRAH im Überblick
+* Interaktiver Einstieg: “Guess the tags“ mit Ergebnisbesprechung
+* Kleingruppenarbeit: “Mapping & Erweiterung“ mit Ergebnisvorstellung
 * Abschlussdiskussion & nächste Schritte
 
 ### Orientierung
@@ -66,11 +65,11 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 10:00-10:10 	“Guess the tags”
 
-10:10-10:20	   Zusammenfassung & Ergebnissbesprechung 
+10:10-10:20	    Ergebnissbesprechung 
 
-*Pause*
+*5 Minuten Pause*
 
-10:30-11:00 	Mapping & Erweiterung 
+10:30-11:00 	“Mapping & Erweiterung“
                 
 11:00-11:15	    Ergebnisvorstellung
 
@@ -80,11 +79,11 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 + Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?
 
-+ Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit?
++ Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit? Welche Anwendungsbereiche gibt es?
 
 + Wie lassen sich eure realen Formate (Lehrmaterial, Lehrveranstaltungen, Werkzeuge, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
 
-+ Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?
++ Wie muss TaDiRAH weiterentwickelt werden, damit es nicht nur in unserer Praxis passt – sondern auch mitwächst?
 
 
 ## TaDiRAH im Überblick
@@ -110,7 +109,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 **Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?**
 
-**Aufgabe: (20 Min.)**
+**Aufgabe: (15 Min.)**
 
 * Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.)
 * Sammeln der Begriffe auf dem Flipchart (5 Min.)
@@ -119,7 +118,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 * TaDiRAH Browser: https://tadirah.info/pages/Browser.html 
 
-* TaDiRAH Vocabs (ACDH-CH): https://vocabs.dariah.eu/tadirah/de/?clang=en 
+* TaDiRAH Vocabs Service (ACDH-CH): https://vocabs.dariah.eu/tadirah/de/?clang=en 
 
 **Ergebnisdiskussion: (5 Min.)** 
 
@@ -130,7 +129,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 ## Pause 
 
-5 Minuten
+*...5 Minuten*
 
 
 ## TaDiRAH weiterdenken
@@ -143,8 +142,8 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 **Aufgabe: (30 Min.)**
 
-1. Jede Gruppe ordnet ein Beispiel (Auswahl und eigene) TaDiRAH zu
-2. Ergbnisse werden zur Präsentation auf Flipchart gesammelt
+1. Jede 3-4er-Gruppe ordnet ein oder mehrere Beispiele (Auswahl und eigene) TaDiRAH zu
+2. Ergbnisse werden zur Präsentation auf je einem Flipchart/Gruppe gesammelt
 
     - Fehlende Begriffe oder Relationen 
     - Verwendete Begriffe und Pfade 
@@ -165,7 +164,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 **Aufgabe: (15 Min.)**
 
-* Jede Gruppe stellt das Flipchart in ca 3-5 Min., max. 15 Min. vor.
+* Jede Gruppe stellt das Flipchart in ca 3-5 Min., insgesamt max. 15 Min. vor.
 * Plenum stellt Fragen.
 
 **Leitfragen:**
