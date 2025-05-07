@@ -113,7 +113,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 **Aufgabe: (20 Min.)**
 
 * Einzelrecherche nach 3-5 häufigsten Begriffen (10 Min.)
-* Sammeln der Begriffe auf dem Flipchart (10 Min.)
+* Sammeln der Begriffe auf dem Flipchart (5 Min.)
 
 **Werkzeuge:**
 
@@ -121,19 +121,25 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 * TaDiRAH Vocabs (ACDH-CH): https://vocabs.dariah.eu/tadirah/de/?clang=en 
 
-**Ergebnisdiskussion:**
+**Ergebnisdiskussion: (5 Min.)** 
 
 * Welche Begriffe kommen häufig vor – welche fast nie? 
 * Was sagt das über Anwendbarkeit und Lücken?
 * Was überrascht euch an der tatsächlichen Nutzung von TaDiRAH?
 
 
-## Pause (5 Min.)
+## Pause 
 
-- Wo wurde gesucht?
-- Wie wurde gesucht?
-- Was lief gut?
-- Was lief nicht gut?
+5 Minuten
+
+
+## TaDiRAH weiterdenken
+
+https://www.menti.com/al1ozsrhfgxu
+https://www.mentimeter.com/app/presentation/albfym8cjpse9hvg63truoctfiyh217r/edit?source=share-modal
+
+
+ ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/tadirah_umfrage.jpg)<!--width="70%"-->
 
 ## Mapping & Erweiterung
 
@@ -177,9 +183,10 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 ## Abschlussdiskussion 
 
-* Wiederkehrende Themen an den Gruppen-Flip-Charts zusammenfassen
-* Mögliche "Erweiterungen" mit Klebepunkten priorisieren lassen
-
+- Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?
+- Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit?
+- Wie lassen sich eure realen Formate (Lehrmaterial, Lehrveranstaltungen, Werkzeuge, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
+- Wie muss TaDiRAH weiterentwickelt werden, damit es in unserer Praxis nicht nur passt – sondern mitwächst?
 
 ## Nächste Schritte
 
