@@ -155,7 +155,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 **Beispiele (Anzahl der Gruppen)**
 
-* Auswahl an [Beispielen](https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/TaDiRAH/Beispiele.md) auf Moderationskarten 
+* Auswahl an [Beispielen](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/TaDiRAH/Beispiele.md#1) auf Moderationskarten 
 * TN schlagen weitere Beispiele vor
 
 
