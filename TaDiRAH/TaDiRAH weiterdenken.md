@@ -89,7 +89,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 11:00 Uhr - 11:15 Uhr       Ergebnisvorstellung
 
-11:15 Uhr - 11:30 Uhr	    Abschlussdiskussion & nächste Schritte
+11:15 Uhr - 11:30 Uhr	    Abschlussdiskussion
 
 ## Leitfragen
 
