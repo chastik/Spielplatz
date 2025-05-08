@@ -30,20 +30,20 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 
 
-# Zielsetzung
+## Zielsetzung
 
 Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung und Outputs**, im **Aufbau von Dateninfrastrukturen** oder für die **Werkzeugnachnutzung**.
 
 **In diesem Workshop können Teilnehmende…**
 
-* TaDiRAH anwenden, analysieren, bewerten und Verbesserungsvorschläge entwickeln.
+* TaDiRAH anwenden, analysieren und weiterdenken.
 
 **Dieser Workshop behandelt Themen…**
 
 * Konzeptionelle Modellierung
 * Strukturierung von Forschungsdaten
-* Anwendung hierarchisch strukturierter Begriffssysteme und SKOS-basierter Vokabulare
-* Reflexion über Datenpraktiken und semantische Interoperabilität
+* Anwendung von Begriffssystemen nund SKOS-basierter Vokabulare
+* Einordnung von Datenpraktiken
 
 **Für diesen Workshop werden vorausgesetzt…**
 
@@ -62,7 +62,13 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 * Strukturen von Begriffssystemen anwenden. (03\_006\_0734)
 * Kriterien zur Entwicklung von Begriffssystemen benennen. (03\_006\_0760)
 
-### Orientierung
+
+## Kurze Vorstellungsrunde
+
+
+
+
+## Orientierung
 
 09:30 Uhr - 09:45 Uhr	    Einführung
 
@@ -80,7 +86,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 11:15 Uhr - 11:30 Uhr	    Abschlussdiskussion & nächste Schritte
 
-### Leitfragen
+## Leitfragen
 
 + Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?
 
