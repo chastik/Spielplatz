@@ -56,21 +56,21 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 ### Orientierung
 
-09:30-09:45	    Einführung
+09:30 Uhr - 09:45 Uhr	    Einführung
 
-09:45-10:00 	Kurzimpuls: TaDiRAH im Überblick
+09:45 Uhr - 10:00 Uhr   	Kurzimpuls: TaDiRAH im Überblick
 
-10:00-10:10 	Interaktiver Einstieg: “Guess the tags“
+10:00 Uhr - 10:10 Uhr    	Interaktiver Einstieg: “Guess the tags“
 
-10:10-10:20	    Ergebnissbesprechung 
+10:10 Uhr - 10:20 Uhr	    Ergebnissbesprechung 
 
             *5 Minuten Pause*
 
-10:30-11:00 	Kleingruppenarbeit: “Mapping & Erweiterung“
+10:30 Uhr - 11:00 Uhr    	Kleingruppenarbeit: “Mapping & Erweiterung“
                 
-11:00-11:15	    Ergebnisvorstellung
+11:00 Uhr - 11:15 Uhr       Ergebnisvorstellung
 
-11:15-11:30	    Abschlussdiskussion & nächste Schritte
+11:15 Uhr - 11:30 Uhr	    Abschlussdiskussion & nächste Schritte
 
 ### Leitfragen
 
