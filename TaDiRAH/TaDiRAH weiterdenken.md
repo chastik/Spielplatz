@@ -18,7 +18,7 @@ comment:  WissKi SODA OERs
 
 **9. Mai 2025, 9:00 - 11:30 Uhr**
 
-Canan Hastik
+Canan Hastik (Interessensgemeinschaft für Semantische Datenverarbeitung e.V.)
 
 ---
 
