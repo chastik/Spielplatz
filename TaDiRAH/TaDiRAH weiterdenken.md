@@ -20,7 +20,11 @@ comment:  WissKi SODA OERs
 
 ---
 
-Canan Hastik (Interessensgemeinschaft für Semantische Datenverarbeitung e.V.)
+Canan Hastik 
+Fachexpertise Analyse strukturierter Daten und Graphen
+SODa, Sammlungen, Objekte, Datenkompetenzen
+Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
+
 
 
 # Zielsetzung
