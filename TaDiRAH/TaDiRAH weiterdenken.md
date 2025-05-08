@@ -64,7 +64,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 10:10-10:20	    Ergebnissbesprechung 
 
-*5 Minuten Pause*
+            *5 Minuten Pause*
 
 10:30-11:00 	Kleingruppenarbeit: “Mapping & Erweiterung“
                 
