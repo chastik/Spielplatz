@@ -102,9 +102,6 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 + Wie muss TaDiRAH weiterentwickelt werden, damit es nicht nur in unserer Praxis passt – sondern auch mitwächst?
 
 
----
-
-Protokoll des Workshops: https://shorturl.at/UJp2z
 
 
 ## TaDiRAH im Überblick
