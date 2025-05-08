@@ -18,6 +18,8 @@ comment:  WissKi SODA OERs
 
 **9. Mai 2025, 9:00 - 11:30 Uhr**
 
+Canan Hastik
+
 ---
 
 # Zielsetzung
@@ -52,26 +54,19 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 * Strukturen von Begriffssystemen anwenden. (03\_006\_0734)
 * Kriterien zur Entwicklung von Begriffssystemen benennen. (03\_006\_0760)
 
-### Agenda
-
-* Kurzimpuls: TaDiRAH im Überblick
-* Interaktiver Einstieg: “Guess the tags“ mit Ergebnisbesprechung
-* Kleingruppenarbeit: “Mapping & Erweiterung“ mit Ergebnisvorstellung
-* Abschlussdiskussion & nächste Schritte
-
 ### Orientierung
 
 09:30-09:45	    Einführung
 
-09:45-10:00 	TaDiRAH im Überblick
+09:45-10:00 	Kurzimpuls: TaDiRAH im Überblick
 
-10:00-10:10 	“Guess the tags”
+10:00-10:10 	Interaktiver Einstieg: “Guess the tags“
 
 10:10-10:20	    Ergebnissbesprechung 
 
 *5 Minuten Pause*
 
-10:30-11:00 	“Mapping & Erweiterung“
+10:30-11:00 	Kleingruppenarbeit: “Mapping & Erweiterung“
                 
 11:00-11:15	    Ergebnisvorstellung
 
