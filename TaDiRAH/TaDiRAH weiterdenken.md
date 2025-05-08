@@ -40,11 +40,11 @@ Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- 
 
 **Dieser Workshop behandelt Themen…**
 
-* Konzeptionelle Modellierung
-* Strukturierung von Forschungsdaten
-* Anwendung von Begriffssystemen
-* SKOS-basierter Vokabulare
 * Einordnung von Datenpraktiken
+* Strukturierung von Forschungsdaten
+* Konzeptionelle Modellierung
+* Anwendung von Begriffssystemen
+* SKOS-basierte Vokabulare
 
 **Für diesen Workshop werden vorausgesetzt…**
 
