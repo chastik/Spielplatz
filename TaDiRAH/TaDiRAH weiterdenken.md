@@ -20,6 +20,8 @@ comment:  WissKi SODA OERs
 
 ---
 
+# Zielsetzung
+
 Ziel ist es, gemeinsam als **Community of Practice**, konkrete **Verbesserungs- und Erweiterungsvorschläge** zu entwickeln, die TaDiRAH langfristig anschlussfähiger, interoperabler und nutzungsfreundlicher machen – insbesondere in der **Lehre**, **Projektplanung und Outputs**, im **Aufbau von Dateninfrastrukturen** oder für die **Werkzeugnachnutzung**.
 
 **In diesem Workshop können Teilnehmende…**
