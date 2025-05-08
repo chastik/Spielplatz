@@ -18,9 +18,10 @@ comment:  WissKi SODA OERs
 
 **9. Mai 2025, 9:00 - 11:30 Uhr**
 
+---
+
 Canan Hastik (Interessensgemeinschaft für Semantische Datenverarbeitung e.V.)
 
----
 
 # Zielsetzung
 
@@ -81,6 +82,11 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 + Wie lassen sich eure realen Formate (Lehrmaterial, Lehrveranstaltungen, Werkzeuge, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
 
 + Wie muss TaDiRAH weiterentwickelt werden, damit es nicht nur in unserer Praxis passt – sondern auch mitwächst?
+
+
+---
+
+Protokoll des Workshops: https://shorturl.at/UJp2z
 
 
 ## TaDiRAH im Überblick
