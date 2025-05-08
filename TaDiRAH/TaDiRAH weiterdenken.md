@@ -111,18 +111,6 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 [siehe Folien](https://docs.google.com/presentation/d/1-XYcPNQmRlL7MFBMXlTOvD0PdZYUk2fA/edit?slide=id.g353f8be13eb_0_7#slide=id.g353f8be13eb_0_7)
 
 
-### TaDiRAH Konzepte
-
-| Forschungsaktivitäten | TaDiRAH Top-Konzept | TaDiRAH-Aktivitäten |
-|-----------------------------|----------------------|----------------------|
-| 1 - Erfassen | Capturing | Converting, Data Recognition, Extracting, Gathering, Recording, Transcribing, Discovering, Imaging |
-| 2 - Erzeugen | Creating | Designing, Programming, Translating, Web Development, Writing |
-| 3 - Anreichern | Enriching | Annotating, Data Cleaning, Editing |
-| 4 - Analyse | Analyzing | Stylisitc Analysis, Visual Analysis, Structural Analysis, Spatial Analysis, Relational Analysis, Network Analysis, Content Analysis |
-| 5 - Interpretation | Interpreting | Modeling, Theorizing, Contextualizing |
-| 6 - Speicherung | Storing | Preserving, Archiving, Organizing, Identifying |
-
-
 ## "Guess the tags"
 
 **Welche Begriffe werden eurer Meinung nach am häufigsten genutzt?**
