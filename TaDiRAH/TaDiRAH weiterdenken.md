@@ -64,7 +64,7 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 * Kriterien zur Entwicklung von Begriffssystemen benennen. (03\_006\_0760)
 
 
-## Kurze Vorstellungsrunde
+## Blitzvorstellungsrunde
 
 
 
