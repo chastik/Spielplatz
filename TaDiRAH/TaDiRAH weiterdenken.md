@@ -95,11 +95,13 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lern
 
 + Was brauchen wir als Community, damit eine Taxonomie wie TaDiRAH unsere Forschungspraxis realistisch abbildet?
 
-+ Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit? Welche Anwendungsbereiche gibt es?
++ Welche Erfahrungen haben wir bisher mit der Nutzung von TaDiRAH gemacht – in Lehre, Projekten oder Infrastrukturarbeit? 
+
++ Welche Anwendungsbereiche gibt es?
 
 + Wie lassen sich eure realen Formate (Lehrmaterial, Lehrveranstaltungen, Werkzeuge, Datenpraktiken) sinnvoll auf TaDiRAH mappen?
 
-+ Wie muss TaDiRAH weiterentwickelt werden, damit es nicht nur in unserer Praxis passt – sondern auch mitwächst?
++ Wie muss TaDiRAH weiterentwickelt werden, damit es nicht nur in unserer Forschungspraxis passt – sondern auch mitwächst?
 
 
 
