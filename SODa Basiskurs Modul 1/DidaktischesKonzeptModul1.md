@@ -44,7 +44,7 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 - Einheit 1 – Open Science (ca. 30 Min.)
 - Einheit 2 – Forschungsdatenlebenszyklus (ca. 30 Min.)
-- Einheit 3 – Datenmanagementplan (ca. 60 Min.)
+- Einheit 3 – Datenmanagementplan (ca. 10 Min.)
 - Einheit 4 - FAIR Prinzipien (ca. Min.)
 
 
