@@ -53,12 +53,7 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 **Methoden**
 
-- zu 3.1 
-- zu 3.2
-- zu 3.3
-- zu 3.4
-- zu 3.5
-- zu 3.6
+- zu 3.1 bis 3.6 Impuls (ca. 10 Min.)
 
 
 
