@@ -48,10 +48,10 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 **Methoden**
 
-- zu 4.1 
-- zu 4.2
-- zu 4.3
-- zu 4.4
+- zu 4.1 Impuls (3 Min.)
+- zu 4.2 Impuls (2 Min.)
+- zu 4.3 Impuls (5 Min.)
+- zu 4.4 Gruppenarbeit (5 Min.)
 
 
 
