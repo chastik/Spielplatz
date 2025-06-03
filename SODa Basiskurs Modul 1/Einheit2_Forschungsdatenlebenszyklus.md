@@ -14,41 +14,41 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 1 - Forschungsdatenlebenszyklus*
+*Einheit 2- Forschungsdatenlebenszyklus*
 
-**Einheit 1 behandelt Themen…**
+**Einheit 2 behandelt Themen…**
 
 aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
 
 - Forschungsdatenlebenszyklus
 
-**Für Einheit 1 werden vorausgesetzt…**
+**Für Einheit 2 werden vorausgesetzt…**
 
 
 
-**In Einheit 1 können Teilnehmende…**
+**In Einheit 2 können Teilnehmende…**
 
 - die Phasen des Forschungsdatenlebenszyklus 
 - Forschungsdatenmanagement (FDM)-Maßnahmen und Aktivitäten in verschiedenen Phasen 
 benennen und erläutern.[1]
 
-**Einheit 1 adressiert Lernziele der LZM**[1]
+**Einheit 2 adressiert Lernziele der LZM**[1]
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)“
 
-1.1. Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0079)
+2.1. Lernende können Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0079)
 
-1.2. Lernende können Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0080)
+2.2. Lernende können Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0080)
 
-1.3  Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0082	)
+2.3  Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0082	)
 
-1.4  Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0083)
+2.4  Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0083)
 
 **Methoden**
 
-- zu 1.1 
-- zu 1.2
-- zu 1.3
-- zu 1.4
+- zu 2.1 
+- zu 2.2
+- zu 2.3
+- zu 2.4
 
 
