@@ -19,6 +19,7 @@ comment:  WissKi SODA OERs
 **Beschreibung**
 
 
+
 **Zielgruppe**
 
 Dieses Modul richtet sich an SODa Personae, wie Professor*innen, Sammlungskoordinator*innen, -leitende und -betreuende und Forschende.
@@ -32,7 +33,12 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 **Themenbereiche im Modul 1**
 
-- Grundlegende und übergreifende Konzepte des FDM [1]
+- basiert auf "Grundlegende und übergreifende Konzepte des FDM" [1]
+
+ - Einheit 1 zu Open Science adressiert die Motivation und bildet einen Rahmen.
+ - Einheit 2 zu Forschungsdatenlebenszyklus bietet Struktur & Orientierung.
+ - Einheit 3 zu Datenmanagementplan (DMP) stellt ein Werkzeug zur Planung vor.
+ - Einheit 4 zu FAIR-Prinzipien formuliert das Qualitätsziel für Publikation & Nachnutzung.
 
 **Einheiten und Zeitbedraf im Modul 1**
 
