@@ -1,6 +1,6 @@
 <!--
 
-author: Canan Hastik  
+author: Canan Hastik  und Rebekka Reichert
 email:    
 version:  v1
 language: DE
@@ -22,7 +22,8 @@ comment:  WissKi SODA OERs
 
 **Zielgruppe**
 
-Dieses Modul richtet sich an SODa Personae, wie Professor*innen, Sammlungskoordinator*innen, -leitende und -betreuende und Forschende.
+Dieses Modul richtet sich an SODa Personae [3], wie Professor*innen, Sammlungskoordinator*innen, -leitende und -betreuende und Forschende.
+
 
 **Lernansatz und Lernform**
 
@@ -35,16 +36,24 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 - basiert auf "Grundlegende und übergreifende Konzepte des FDM" [1]
 
- - Einheit 1 zu Open Science adressiert die Motivation und bildet einen Rahmen.
- - Einheit 2 zu Forschungsdatenlebenszyklus bietet Struktur & Orientierung.
- - Einheit 3 zu Datenmanagementplan (DMP) stellt ein Werkzeug zur Planung vor.
- - Einheit 4 zu FAIR-Prinzipien formuliert das Qualitätsziel für Publikation & Nachnutzung.
+ - Einheit 5 zu Open Science adressiert die Motivation und bildet einen Rahmen.
+ - Einheit 6 zu Forschungsdatenlebenszyklus bietet Struktur & Orientierung.
+ - Einheit 7 zu Datenmanagementplan (DMP) stellt ein Werkzeug zur Planung vor.
+ - Einheit 8 zu FAIR-Prinzipien formuliert das Qualitätsziel für Publikation & Nachnutzung.
 
 **Einheiten und Zeitbedraf im Modul 1**
 
-- Einheit 1 – Open Science (ca. 10 Min.)
-- Einheit 2 – Forschungsdatenlebenszyklus (ca. 15 Min.)
-- Einheit 3 – Datenmanagementplan (ca. 10 Min.)
-- Einheit 4 - FAIR Prinzipien (ca. 15 Min.)
+
+
+- Einheit 5 – Open Science (ca. 10 Min.)
+- Einheit 6 – Forschungsdatenlebenszyklus (ca. 15 Min.)
+- Einheit 7 – Datenmanagementplan (ca. 10 Min.)
+- Einheit 8 - FAIR Prinzipien (ca. 15 Min.)
+
+
+______________________________________
+[1]
+[2]
+[3]
 
 
