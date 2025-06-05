@@ -52,8 +52,8 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 
 ______________________________________
-[1]
-[2]
-[3]
+[1] Petersen, B. et al. (2025) Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM), https://zenodo.org/records/15025246
+[2] Döring, K.W. (2007) Handbuch Lehren und Trainieren in der Weiterbildung, 978-3-407-36040-3.
+[3] Reichert, R. et al. (2025) SODa Personas, https://zenodo.org/records/15574575
 
 
