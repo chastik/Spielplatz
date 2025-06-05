@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # Willkommen zu SODa OERs 
 
-*Modul 1 – Basiskurs – Didaktisches Konzept*
+*Modul 1 – Basiskurs – Didaktische Rahmen*
 
 **Beschreibung**
 
