@@ -18,28 +18,32 @@ comment:  WissKi SODA OERs
 
                         --{{0}}--
 
-## Baustein	
+# Vorlage Modulstruktur
 
-## Lernziel ID	
+- Allgemeine Beschreibung
+- Inhalt
 
-## Lernziel	
+## Allgemeine Beschreibung
 
-## Thema	
+- Modultitel
+- Thema
+- Einheiten und Lernziele
+- Format
+- Gestaltungsprinzip
+- Dauer
+- Lizenz
+- Zuständigkeit
 
-## Inhalt mit Quellen	
+__Beispiel__
 
-## Methode und Tool (online)	
+siehe BeratungsCamp Modul 1, Inhaltliches Konzept, Einheit1_Kennenlernen_Vermittlungsinhalte
 
-## Methode und Tool (präsenz)	
 
-## Dauer	
+## Inhalt
 
-## Atmen	
-
-## Lizenz
-
-## Kommentar
-
-## Zuständigkeit																	
+- Inhalt mit Quellen	
+		
 															
-															
+## Vertiefung
+
+- ...

@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa BeratungsCamp Modul 1
 
-**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation**
+### Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation
 
 von 
 
@@ -32,8 +32,17 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 
 Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
+## Allgemeine Beschreibung
 
-## Zielsetzung
+- Modultitel (mit Autorenangaben)
+- Zielsetzung
+- Einheiten und Lernziele
+- Format, Gestaltungsprinzip, Dauer
+- Lizenz
+- Zuständigkeit
+
+
+### Zielsetzung
 
 ...
 
@@ -51,7 +60,8 @@ aus Cluster „xxx“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu T
 
 * ...
 
-## Lernziele
+
+### Einheiten und Lernziele
 
 **Diese Einheit adressiert Lernziele**
 
@@ -80,26 +90,26 @@ aus Cluster 6 Querschnittsthemen zum Thema „Beratung“
 
 1.7. Beratungsbedarfe analysieren. (LZ-ID 1117)
 
+### Format, Gestaltungsprinzip und Dauer
 
-### Eigene Verantwortlichkeiten - eine Blitzvorstellung
+### Lizenz
 
-
-### Das eigene projektspezifische FDM - eine Standortbestimmung
-
-
-### Funktionen und Verantwortlichkeiten ein Steckbrief
+### Zuständigkeit
 
 
-### Handlungsfelder wählen
+## Inhalts-Bricks
 
+Jeder Brick entspricht einem Lernziel:
 
-### Maßnahmen entlang des Forschungsdatenlebenszyklus priorisieren
+__Beispiele__
 
-
-### Eigene Forschungsaktivität bestimmen
-
-
-### Beratungsbedarfe - eine Erwartungsabfrage
+- Eigene Verantwortlichkeiten - eine Blitzvorstellung
+- Das eigene projektspezifische FDM - eine Standortbestimmung
+- Funktionen und Verantwortlichkeiten ein Steckbrief
+- Handlungsfelder wählen
+- Maßnahmen entlang des Forschungsdatenlebenszyklus priorisieren
+- Eigene Forschungsaktivität bestimmen
+- Beratungsbedarfe - eine Erwartungsabfrage
 
 
 

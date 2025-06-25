@@ -13,19 +13,18 @@ comment:  WissKi SODA OERs
 
 -->
 
-  Willkommen zu SODa OERs 
+Willkommen zu SODa OERs 
 ==========================
 
 # SODa gelingen (O)ERs
 
 Zielsetzung dieser Einheit ist es, das OER Cookbook zur Entwicklung eigener OERs anzuwenden.
 
-
 Grundlagen und Schritte zum Erfolg
 
-1.  [Didaktisches Konzept](../)
-2.  [Methodisches Konzept](../)
-3.  [Technisches Konzept](../)
+1.  [Didaktisches Konzept](siehe unten)
+2.  [Methodisches Konzept](in Arbeit)
+3.  [Technisches Konzept](in Arbeit)
 
 # 1. Didaktisches Konzept
 
@@ -96,20 +95,32 @@ ___
 | **Fokus auf Ergebnis**   | Prozess und Erkenntnis sind wichtiger als das Endergebnis | Verständnis der Grundlagen und deren Anwendung stehen im Mittelpunkt | Ein Endprodukt steht im Zentrum, der Prozess ist sekundär | Das Endergebnis (Lösung) ist entscheidend, der Weg zur Lösung (Prozess) ebenfalls wichtig |
 | **Bezug zur Praxis**     | Kann praxisnah sein, abhängig von der Fragestellung | Theoretischer Fokus, Praxisbezug in der Vertiefungsphase | Sehr praxisnah: Bearbeitung von realen Aufgaben und Problemen | Sehr praxisnah, da die Lernenden reale oder simulierte Probleme in ihrer vollen Komplexität bearbeiten müssen |
 
-__Beispiele__
+
+__Formatbeschreibungen Beispiele__
+
+Formate unterteilen sich i.d.R. in synchrone und asychrone Formate:
+
+- Workshop(s) können in Präsenz oder online stattfinden, werden in der Regel sychron durchgeführt, z.B. SODa Basiskurs Workshop(s), SODa BeratungsCamp,...
+- How-to-Tutorial eignen sich für Software-spezifische Einheiten, z.B. WissKI Tutorial, Blenderkurs,...
+- Selbstlernkurs(e) zählen zu den asychronen Formaten erfordert neben dem didaktischen Konzept ein durchdachtes Interaktionskonzept, zur Förderung der Lernendenbeteiligung, Lernsteuerung und Feedback z.B. Twinebasierte Vermittlung.  
+- SODa Train-the-Trainer adressiert die Multiplikatorinnen.
+
+## 1.3 Lernform fördert Lernniveau
+
+Das gewählte Format folgt einem kompetenzorientierten Design, das auf aktive Lernprozesse setzt. Dabei kommen bewährte Gestaltungsprinzipien aus der Lehr-/Lernforschung sowie der Interaktionsgestaltung zum Einsatz. Diese fördern unterschiedliche Lernniveaus (nach Bloom bzw. Anderson/Krathwohl) – vom Verstehen über Anwenden bis hin zur Gestaltung eigener Inhalte. (siehe  u.a. https://zenodo.org/records/14850367)
+
+__Gestaltungsprinzipien Beispiele__
+
+- Problemorientiertes Lernen
+- Gamification
+- Blended Learning
+- Flipped Classroom
+- Forschendes Lernen
+- Peer Learning
+- Selbstgesteuertes Lernen
 
 
-## 1.3 Lernansatz fördert Lernniveau
-
-
-__Beispiele__
-
-## 1.3 Lernanform steuert Lernniveau
-
-
-__Beispiele__
-
-## 1.3 Lernform und -format Fazit
+## 1.4 Lernform und -format Fazit
 
 Forschendes Lernen
 - fördert Kompetenzen, die in dynamischen und komplexen Arbeitsumgebungen zunehmend erforderlich sind.
@@ -145,6 +156,8 @@ ___
 [3] Crash-Kurs: Online-Lehre (2020) (letzte Aktualisierung 2023), HU Bologna.lab, https://moodle.hu-berlin.de
 
 
+
+
 # 2. Ausblick Methodisches Konzept
 
 2.1. Modulare Struktur 
@@ -154,16 +167,60 @@ ___
 
 
 ## 2.1. Modulare Struktur nach [2]
-- Dichte der Inhalte
-- Pacing
-- Targeted Learning (Fokus auf Lernziele)
-- Lernpfade adaptiv oder durch Einstiegshilfen und vertiefende Angebote
 
+2.1.1. Dichte der Inhalte (Struktur)
+2.1.2. Pacing (Aufbau der Inhalte)
+2.1.3. Targeted Learning (Fokus auf Lernziele)
+2.1.4. Lernpfade adaptiv oder durch Einstiegshilfen und vertiefende Angebote (Vorraussetzungen und weiterführende Angebote)
+
+
+### Struktur
+
+Ein konkretes Format mit einem passenden Gestaltungsprinzip, z.B. das "BeratungsCamp Modul 1" folgt folgender Struktur:
+
+Das Modul besteht aus thematischen Einheiten mit einzelnen Lern-Bricks (Lernbausteinen) die jeweils einem Lernziel folgen.
+
+
+
+### Aufbau der Inhalte
+
+Die einzelnen Lerneinheiten werden wir folgt beschrieben:
+
+- OER Titel "BeratungsCamp Modul 1"
+- Titel der Einheit "Einheit1_ArbeitenMitSammlungsbezogenenForschungsdaten"	
+- Autoren mit Institutionszugehörigkeit
+- Lernziele
+- Zielsetzung
+
+      In dieser Einheit lernen Teilnehmende…
+      Diese Einheit behandelt Themen…
+      Für diese Einheit werden vorausgesetzt…
+      Lernziele ID mit Lernziel
+															
+### Fokus auf Lernziele
+
+__Beispiel__
+
+Diese Einheit adressiert Lernziele...
+
+aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der Lernzielmatrix zum FDM zu Taxonomie und Vokabulare
+
+1.1. Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0038)
+
+
+## Lernpfade 
 
 
 ## 2.2. Storyboard
 
+
+
 ## 2.3. Drehbuch
+
+Die OER Lernresource stellt ein konkrete an den zielgruppenorientiertes und unter CC BY publiziertes Angebot dar.  
+
+OER, oder Open Educational Resources, bezeichnet die Bereitstellung von Lehr- und Lernmaterialien unter öffentlichen Lizenzen. "Dies ermöglicht es jedem, diese Materialien weiterzugeben, zu teilen, zu verbessern und zu verwenden. Dabei ist es nicht notwendigerweise so, dass sie kostenfrei zur Verfügung gestellt werden müssen; entscheidend ist, dass ihre Weiterverwendung und -bearbeitung kostenfrei erlaubt ist." (Till Kreuzer, 2017, S. 28)
+
 
 # 3. Ausblick Technisches Konzept
 
