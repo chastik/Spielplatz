@@ -42,7 +42,7 @@ Grundlagen und Schritte zum Erfolg
 
 "Gut durchdachte Personae sind der Grundstein für ein zielgerichtetes und effektives Learning-Design". [2] Ein passendes Lernformat ist praxisnah, flexibel, interaktiv und fördert den direkten Transfer in den Arbeitsalltag.
 
-__Beispiele__
+__Use Case Beispiele__
 
 
 ___
@@ -59,7 +59,7 @@ Link auf SODa Personae
 - und stellen den Lernerfolg sicher aber auch, dass das Gelernte".[2]
 
 
-__Beispiele__
+__Beispiele siehe Foliensatz und Aufzeichnung Infotermin zur LZM__
 
 Lernziel aus der Lernzielmatrix [5]: 
 
@@ -79,6 +79,7 @@ ___
 [2] Christopher Könitz & Anastasia Baillie-Spegalskaya (2024) E-Learning Grundlagen, Lektion 4: Einführung in Learning Design und Transfer, FHWien der WKW, CC BY.
 [5] Lernzielmatrix zum ...
 [6] Hastik & Schwenk, 
+Altemeier et al.. Infotermin
 
 ## 1.3 Lernform und -format
 
@@ -210,6 +211,8 @@ aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der Lernz
 
 ## Lernpfade 
 
+siehe WissKI Lernpfade
+
 
 ## 2.2. Storyboard
 
@@ -221,6 +224,9 @@ Die OER Lernresource stellt ein konkrete an den zielgruppenorientiertes und unte
 
 OER, oder Open Educational Resources, bezeichnet die Bereitstellung von Lehr- und Lernmaterialien unter öffentlichen Lizenzen. "Dies ermöglicht es jedem, diese Materialien weiterzugeben, zu teilen, zu verbessern und zu verwenden. Dabei ist es nicht notwendigerweise so, dass sie kostenfrei zur Verfügung gestellt werden müssen; entscheidend ist, dass ihre Weiterverwendung und -bearbeitung kostenfrei erlaubt ist." (Till Kreuzer, 2017, S. 28)
 
+___
+
+[3] Train-the-Trainer Konzept 5 (Achtung mit alten Lernzielen)
 
 # 3. Ausblick Technisches Konzept
 
