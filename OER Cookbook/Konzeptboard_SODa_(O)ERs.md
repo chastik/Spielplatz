@@ -185,7 +185,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 **Weitere Werkzeuge können sein**
 
-  -[DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
+  - DaVinci Resolve [Link](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
   - Powerpoint
 
