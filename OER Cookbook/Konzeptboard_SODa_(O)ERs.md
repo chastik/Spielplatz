@@ -137,7 +137,7 @@ Kompetenzaufbau.
 
 
 
-## 05. Vorschlag der SODa Task Force zur Nutzung von Werkzeugen zum Release der Fromate
+## Vorschlag der SODa Task Force zur Nutzung von Werkzeugen zum Release der Fromate
 
 (15 Min.)
 
@@ -182,7 +182,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 
 
-## 06. Was macht ein SODa (O)ER aus? 
+## Was macht ein SODa (O)ER aus? 
 
 (15 Min.)
 
@@ -198,7 +198,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 Bild
 
 
-## 07. Vorstellung der Pilotprojekte
+## Vorstellung der Pilotprojekte
 
 (30 Min.)
 
@@ -210,7 +210,7 @@ Bild
 
 
 
-## 08. Nächste Schritte...
+## Nächste Schritte...
 
 (20 Min.)
 
