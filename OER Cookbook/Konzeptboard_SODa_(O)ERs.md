@@ -330,10 +330,19 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
+---
+
+
 
 **Vorschlag der OER Task Force**
 
-Entwicklung grundlegender Richtlinien sowie Vorlagen für FAIRe OER-Materialien insbesondere im Hinblick auf **Barrierefreiheit**, **Lizenzen (OER-Kompatibilität)** und eine **Harmonisierung**.
+
+
+---
+
+
+
+Entwicklung grundlegender Richtlinien sowie Vorlagen für FAIRe OER-Materialien insbesondere im Hinblick auf **Barrierefreiheit**, **Lizenzen (OER-Kompatibilität)** und **Harmonisierung**.
 
 * Verwendung offener Lizenzen
 
