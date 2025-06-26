@@ -16,21 +16,32 @@ comment:  Konzeptboard SODA (O)ERs
 
 Willkommen zum Konzeptboard der SODa (O)ERs 
 ==============================================
+
+
 # OER Task Force berichtet
 
 Anna
 
+
 Canan
+
 
 Gudrun
 
+
 Katharina
+
 
 Mathias
 
+
 Rebekka
 
+
 Udo
+
+
+
 
 
 ## 00. Was ist passiert und welche Zielsetzung haben wir?
