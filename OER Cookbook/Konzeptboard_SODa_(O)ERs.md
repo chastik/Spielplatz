@@ -118,7 +118,7 @@ Kompetenzaufbau.
 
 
 
-## SOAa Zielgruppenorientierung 
+## SODa Zielgruppenorientierung 
 
 (5 Min.)
 
@@ -139,7 +139,7 @@ Kompetenzaufbau.
 
 
 
-## Nutzung von Werkzeugen zum Release der Fromate
+## Nutzung von technischen Werkzeugen
 
 (15 Min.)
 
@@ -168,7 +168,7 @@ Die Entwicklungs- und Veröfflichungswege der SODa Release-Fromate können via G
 - niedrige Einstiegshürden, auch für nicht-programmieraffine Personen
 - OER-compliant durch einfache Lizenzintegration
 - hybridfähig: kombinierbar mit Plattformen wie GitHub Pages, GitLab, LMS (Moodle, Ilias,..), oder lokal (z. B. mit VS Code, JupyterLab) 
-- digital nachhaltig durch die ....
+- digital nachhaltig durch eine offene, plattformunabhängige Erstellung, Veröffentlichung, Nachnutzung und kollaborative Weiterentwicklung.
 
 
 **Mögliche Nachteile von Markdownbasierten Tools können sein...** 
@@ -179,7 +179,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 **Weitere Werkzeuge können sein**
 
-  - **DaVinci Resolve:** [Link zu DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
+  - **[DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)**
   - **Powerpoint**
 
 
