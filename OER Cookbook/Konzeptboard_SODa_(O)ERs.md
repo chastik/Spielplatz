@@ -300,13 +300,14 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 ---
 
 
-**To do'**
+**To do**
 
 * Formate mit passenden Vermittlungsansätzen sammeln
 
 * Module inhaltlich abstimmen
 
 * Inhalte entlang des SODa-FDZyklus harmonisieren
+
 
 
 
@@ -319,6 +320,8 @@ Entwicklung grundlegender Richtlinien sowie Vorlagen für FAIRe OER-Materialien 
 * Autor:innen
 
 * Titelangaben und Konventionen
+
+* Persistente Verlinkung (DOI, URL)
 
 * _Modularität der Inhalte zur klaren Trennung von Bausteinen zur besseren Wiederverwendbarkeit_
 
