@@ -206,13 +206,14 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 (30 Min.)
 
-**Liascript Pilotbeispiel**
+1. **Liascript Pilotbeispiel**
 
-- WissKI How-To-Tutorial ( Format: Tutorial und das Vermittlungsprinzip: selbstgesteuertes Lernen)
-- BeratungsCamp
-- SODa Basiskurs Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
+- WissKI How-To-Tutorial (Format: Tutorial und das Vermittlungsprinzip: selbstgesteuertes Lernen)
+- BeratungsCamp (Format: Workshop und das Vermittlungsprinzip: Forschendes Lernen)
+- SODa Basiskurs Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen (Format: Workshop und das Vermittlungsprinzip: Problemorientiertes Lernen)
 
-**Twine als Werkzeug zur Entwicklung von Selbstlerneinheiten (Format) mit den Vermittlungsprinzipien Storytelling und Gamification**
+
+2. **Twine als Werkzeug zur Entwicklung von Selbstlerneinheiten (Format) mit den Vermittlungsprinzipien Storytelling und Gamification**
 
 
 
