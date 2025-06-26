@@ -179,8 +179,9 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 **Weitere Werkzeuge können sein**
 
-  - **[DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)**
-  - **Powerpoint**
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
+
+  - Powerpoint
 
 
 
@@ -207,6 +208,8 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 **Liascript Pilotbeispiel**
 
 - WissKI How-To-Tutorial ( Format: Tutorial und das Vermittlungsprinzip: selbstgesteuertes Lernen)
+- BeratungsCamp
+- SODa Basiskurs Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
 
 **Twine als Werkzeug zur Entwicklung von Selbstlerneinheiten (Format) mit den Vermittlungsprinzipien Storytelling und Gamification**
 
