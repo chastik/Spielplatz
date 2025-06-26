@@ -240,10 +240,6 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 * Powerpoint
 
 
-
-Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via GitHub, Zenodo, Twillo,... sein.
-
-
 ## Was macht ein SODa (O)ER aus? 
 
 ---
