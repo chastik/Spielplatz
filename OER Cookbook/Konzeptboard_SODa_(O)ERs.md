@@ -180,7 +180,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## Mit welchen technischen Werkzeugen wollen wir arbeiten?
+## (6) Mit welchen technischen Werkzeugen wollen wir arbeiten?
 
 ---
 
@@ -240,7 +240,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 * Powerpoint
 
 
-## Was macht ein SODa (O)ER aus? 
+## (7) Was macht ein SODa (O)ER aus? 
 
 ---
 
@@ -265,7 +265,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
  ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/OER_Konzept.png)<!--width="70%"-->
 
 
-## Vorstellung der Pilotprojekte
+## (8) Vorstellung der Pilotprojekte
 
 ---
 
