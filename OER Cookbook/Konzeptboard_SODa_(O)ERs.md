@@ -221,6 +221,9 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 (20 Min.)
 
+
+**To do'**
+
 - Sammeln von Formaten mit Vermittlungsprinzipien
 - Inhaltliche Abstimmung der Module
 - Harmonisierung entlang des SODa-FDZyklus
@@ -228,7 +231,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 **Vorschlag der OER Task Force**
 
--  SODa OER Cookbook mit Richtlinien und Vorlagen 
+-  Entwicklung eines SODa OER Cookbook mit Richtlinien und Vorlagen 
 
 
 
