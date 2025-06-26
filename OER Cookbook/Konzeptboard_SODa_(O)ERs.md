@@ -108,8 +108,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 - **Peer Learning:** Das Lernen erfolgt durch Austausch und Zusammenarbeit mit anderen Lernenden. Durch die soziale Einbettung entsteht Perspektivenvielfalt und eine gesunde Feedbackkultur.
 
-- **Selbstgesteuertes Lernen:** Lernende steuern Zeit, Tempo, Reihenfolge und Tiefe des Lernens selbst. Dadurch entsteht eine hohe Autonomie, individuelle Anpassung und nachhaltiger 
-Kompetenzaufbau.
+- **Selbstgesteuertes Lernen:** Lernende steuern Zeit, Tempo, Reihenfolge und Tiefe des Lernens selbst. Dadurch entsteht eine hohe Autonomie, individuelle Anpassung und nachhaltiger Kompetenzaufbau.
 
 - **Flipped Classroom:** Lerninhalte werden vor der Veranstaltung individuell erarbeitet, die gemeinsame Zeit wird für Anwendung genutzt.
 
