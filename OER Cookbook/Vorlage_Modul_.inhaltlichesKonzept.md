@@ -18,7 +18,7 @@ comment:  WissKi SODA OERs
 
                         --{{0}}--
 
-# Vorlage Modulstruktur
+# Vorlage Modulstruktur inhaltliches Konzept
 
 - Allgemeine Beschreibung
 - Inhalt
