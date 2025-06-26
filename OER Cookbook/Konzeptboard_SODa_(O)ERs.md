@@ -118,7 +118,7 @@ Kompetenzaufbau.
 
 
 
-## Zielgruppenorientierung 
+## SOAa Zielgruppenorientierung 
 
 (5 Min.)
 
@@ -139,7 +139,7 @@ Kompetenzaufbau.
 
 
 
-## Vorschlag der SODa Task Force zur Nutzung von Werkzeugen zum Release der Fromate
+## Nutzung von Werkzeugen zum Release der Fromate
 
 (15 Min.)
 
