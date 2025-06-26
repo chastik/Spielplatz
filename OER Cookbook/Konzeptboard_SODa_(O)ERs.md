@@ -187,7 +187,9 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 
 * DaVinci Resolve [Link](https://www.blackmagicdesign.com/de/products/davinciresolve)
+
 * Powerpoint
+
 
 
 Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via GitHub, Zenodo, Twillo,... sein.
