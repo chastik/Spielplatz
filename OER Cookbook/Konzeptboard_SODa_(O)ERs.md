@@ -65,7 +65,7 @@ Udo
 
 - Austausch intern und mit anderen DKZen
 - 
-- ...noch weitere Punkte ergänzen?
+- noch weitere Punkte ergänzen?
 
 
 
