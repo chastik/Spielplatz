@@ -46,11 +46,14 @@ Udo
 
 ## (1) Was ist passiert und welche Zielsetzung haben wir?
 
+---
+
+
+
 (5 Min.)
 
 
 ---
-
 
 
 **Zielbild:** Wir brauchen eine gemeinsame Grundlage für Definition, Zielgruppen, didaktische Formate und Gestaltung/Vermittlungsprinzipien, technische Werkzeuge und nächste Schritte.
@@ -58,20 +61,27 @@ Udo
 
 
 
----
-
 **Was ist passiert:** 
 
 - Austausch intern und mit anderen DKZen
 - 
-- ....noch weitere Punkte ergänzen?
+- ...noch weitere Punkte ergänzen?
 
 
 
 
 ## (2) Was verstehen wir im Rahmen von SODa unter OERs?
 
+---
+
+
+
 (5 Min.)
+
+
+---
+
+
 
 **SODa (O)ERs sind**
 
@@ -83,7 +93,15 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 ## (3) Welche Formate erscheinen uns besonders relevant?
 
+---
+
+
+
 (10 Min.)
+
+
+---
+
 
 
 **Vorschlag der SODa Task Force: Typische SODa (O)ER Formate können sein...**
@@ -103,7 +121,15 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 ## (4) An welchen Lern- und Vermittlungsprinzipien sollten wir uns orientieren?
 
+---
+
+
+
 (10 Min.)
+
+
+---
+
 
 **Vorschlag der SODa Task Force: Typische Vermittlungsprinzipien für SODA (O)ERs können sein...**
 
@@ -126,7 +152,16 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 ## (5) Welche Rolle spielen die Zielgruppen?
 
+---
+
+
+
 (5 Min.)
+
+
+---
+
+
 
 **[SODa Personae Segemente](https://zenodo.org/records/15574575)**
 
@@ -147,7 +182,14 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 ## Mit welchen technischen Werkzeugen wollen wir arbeiten?
 
+---
+
+
+
 (15 Min.)
+
+
+---
 
 
 
@@ -204,7 +246,16 @@ Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via 
 
 ## Was macht ein SODa (O)ER aus? 
 
+---
+
+
+
 (15 Min.)
+
+
+---
+
+
 
 **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemeinsamer Nenner**
 
@@ -220,7 +271,16 @@ Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via 
 
 ## Vorstellung der Pilotprojekte
 
+---
+
+
+
 (30 Min.)
+
+
+---
+
+
 
 1. **Liascript Pilotbeispiel**
 
@@ -234,8 +294,14 @@ Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via 
 
 
 ## Nächste Schritte...
+---
+
+
 
 (20 Min.)
+
+
+---
 
 
 **To do'**
@@ -245,7 +311,6 @@ Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via 
 * Module inhaltlich abstimmen
 
 * Inhalte entlang des SODa-FDZyklus harmonisieren
-
 
 
 
