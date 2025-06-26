@@ -44,10 +44,15 @@ Udo
 
 
 
-## 00. Was ist passiert und welche Zielsetzung haben wir?
-Ziel und Rahmung (5 Min.)
+## Was ist passiert und welche Zielsetzung haben wir?
+
+(5 Min.)
+
+
 
 **Zielbild:** Wir brauchen eine gemeinsame Grundlage für Definition, Zielgruppen, didaktische Formate und Gestaltung/Vermittlungsprinzipien, technische Werkzeuge und nächste Schritte.
+
+
 
 **Was ist passiert:** 
 
@@ -55,7 +60,10 @@ Ziel und Rahmung (5 Min.)
 - ....
 
 
-## 01. Warum sprechen wir über OERs und (O)ERs und was verstehen wir darunter? 
+
+
+## Warum sprechen wir über OERs und (O)ERs und was verstehen wir darunter? 
+
 (5 Min.)
 
 **SODa (O)ERs sind**
@@ -66,11 +74,13 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## 02. Wie nennen wir unsere (O)ERs? 
+## Wie nennen wir unsere (O)ERs? 
+
 (10 Min.)
 
 
 **Vorschlag der SODa Task Force: Typische SODa (O)ER Formate können sein...**
+
 
 - **Workshop(s)** können in Präsenz oder online stattfinden, werden in der Regel sychron durchgeführt, z.B. SODa Basiskurs Workshop(s), SODa BeratungsCamp,...
 
@@ -84,7 +94,8 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## 03. Wie gestalten wir unsere (O)ERs? 
+## Wie gestalten wir unsere (O)ERs? 
+
 (10 Min.)
 
 **Vorschlag der SODa Task Force: Typische Vermittlungsprinzipien für SODA (O)ERs können sein...**
@@ -107,11 +118,7 @@ Kompetenzaufbau.
 
 
 
-## 04. Zielgruppenorientierung 
-(5 Min.)
-
-
-### Empfehlung der SODa Task Force: 
+## Zielgruppenorientierung 
 
 **[SODa Personae Segemente](https://zenodo.org/records/15574575)**
 
@@ -130,16 +137,15 @@ Kompetenzaufbau.
 
 
 
-## 05. Welche techischen Werkzeuge nutzt SODa...
+## 05. Vorschlag der SODa Task Force zur Nutzung von Werkzeugen zum Release der Fromate
+
 (15 Min.)
 
-
-### Vorschlag der SODa Task Force "Release-Fromate" 
 
 Die Entwicklungs- und Veröfflichungswege der SODa Release-Fromate können via GitHub, Zenodo, Twillo,... sein.
 
 
-- Übersicht über Markdown-basierte Werkzeuge:
+**Übersicht über Markdown-basierte Werkzeuge**
 
   - **Markdown:** Leichtgewichtiges Auszeichnungsformat für strukturierte Texte, Dokumentationen, Webseiten; Basisformat für strukturierte Texte, Tutorials, Webseiten, Readmes (z. B. auf GitHub).
 
@@ -162,6 +168,7 @@ Die Entwicklungs- und Veröfflichungswege der SODa Release-Fromate können via G
 - hybridfähig: kombinierbar mit Plattformen wie GitHub Pages, GitLab, LMS (Moodle, Ilias,..), oder lokal (z. B. mit VS Code, JupyterLab) 
 - digital nachhaltig durch die ....
 
+
 **Mögliche Nachteile von Markdownbasierten Tools können sein...** 
 
 Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tools sind begrenzt und interaktive 3D-Inhalte können nur über externe Tools eingebunden werden, wie (z. B. Blender Renderings, WebGL).
@@ -176,6 +183,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
 
 ## 06. Was macht ein SODa (O)ER aus? 
+
 (15 Min.)
 
 **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemeinsamer Nenner**
@@ -192,16 +200,24 @@ Bild
 
 ## 07. Vorstellung der Pilotprojekte
 
-- 
-- 
+(30 Min.)
+
+**Liascript Pilotbeispiel**
+
+- WissKI How-To-Tutorial ( Format: Tutorial und das Vermittlungsprinzip: selbstgesteuertes Lernen)
+
+**Twine als Werkzeug zur Entwicklung von Selbstlerneinheiten (Format) mit den Vermittlungsprinzipien Storytelling und Gamification**
 
 
 
 ## 08. Nächste Schritte...
 
+(20 Min.)
+
 - Sammeln von Formaten mit Vermittlungsprinzipien
 - Inhaltliche Abstimmung der Module
 - Harmonisierung entlang des SODa-FDZyklus
+
 
 **Vorschlag der OER Task Force**
 
