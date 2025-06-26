@@ -19,11 +19,17 @@ Willkommen zum Konzeptboard der SODa (O)ERs
 # OER Task Force berichtet
 
 Anna
+
 Canan
+
 Gudrun
+
 Katharina
+
 Mathias
+
 Rebekka
+
 Udo
 
 
