@@ -143,31 +143,36 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 (15 Min.)
 
 
-Die Entwicklungs- und Veröfflichungswege der SODa Formate können via GitHub, Zenodo, Twillo,... sein.
-
 
 **Übersicht über Markdown-basierte Werkzeuge**
 
-  - **Markdown:** Leichtgewichtiges Auszeichnungsformat für strukturierte Texte, Dokumentationen, Webseiten; Basisformat für strukturierte Texte, Tutorials, Webseiten, Readmes (z. B. auf GitHub).
+- **Markdown:** Leichtgewichtiges Auszeichnungsformat für strukturierte Texte, Dokumentationen, Webseiten; Basisformat für strukturierte Texte, Tutorials, Webseiten, Readmes (z. B. auf GitHub).
 
-  - **LiaScript:** Erweiterung von Markdown für interaktive Lehrmaterialien (inkl. Quiz, Audio, Animationen); Erweiterung von Markdown für interaktive Lerninhalte (inkl. Quiz, Medien, Audios, Animationen).
+- **LiaScript:** Erweiterung von Markdown für interaktive Lehrmaterialien (inkl. Quiz, Audio, Animationen); Erweiterung von Markdown für interaktive Lerninhalte (inkl. Quiz, Medien, Audios, Animationen).
 
-  - **Twine:** Tool für nicht-lineare, storybasierte Lernpfade – exportierbar als HTML, Storybasierte Entscheidungsstrukturen für Lernpfade oder Szenarien.
+- **Twine:** Tool für nicht-lineare, storybasierte Lernpfade – exportierbar als HTML, Storybasierte Entscheidungsstrukturen für Lernpfade oder Szenarien.
 
-  - **H5P (mit Markdown Einbindung):** Erstellung interaktiver Lerninhalte in Webumgebungen mit eingebetteten Markdown-Textfeldern, z. B. auf Moodle oder WordPress.
+- **H5P (mit Markdown Einbindung):** Erstellung interaktiver Lerninhalte in Webumgebungen mit eingebetteten Markdown-Textfeldern, z. B. auf Moodle oder WordPress.
 
-  - **Jupyter Notebooks:** Kombiniert Markdown, Code und Output – ideal für technische Inhalte, Datenanalysen und Coding.
+- **Jupyter Notebooks:** Kombiniert Markdown, Code und Output – ideal für technische Inhalte, Datenanalysen und Coding.
     
+
 
 
 **Vorteile von Markdownbasierten Tools sind...**
 
 - offen und quelloffen
+
 - langzeitstabil
+
 - leicht versionierbar
+
 - niedrige Einstiegshürden, auch für nicht-programmieraffine Personen
+
 - OER-compliant durch einfache Lizenzintegration
+
 - hybridfähig: kombinierbar mit Plattformen wie GitHub Pages, GitLab, LMS (Moodle, Ilias,..), oder lokal (z. B. mit VS Code, JupyterLab) 
+
 - digital nachhaltig durch eine offene, plattformunabhängige Erstellung, Veröffentlichung, Nachnutzung und kollaborative Weiterentwicklung.
 
 
@@ -184,6 +189,8 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 
   - Powerpoint
 
+
+Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via GitHub, Zenodo, Twillo,... sein.
 
 
 ## Was macht ein SODa (O)ER aus? 
