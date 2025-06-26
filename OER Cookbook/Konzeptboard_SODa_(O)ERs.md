@@ -49,6 +49,9 @@ Udo
 (5 Min.)
 
 
+___
+
+
 
 **Zielbild:** Wir brauchen eine gemeinsame Grundlage für Definition, Zielgruppen, didaktische Formate und Gestaltung/Vermittlungsprinzipien, technische Werkzeuge und nächste Schritte.
 
