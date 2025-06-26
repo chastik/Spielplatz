@@ -143,7 +143,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 (15 Min.)
 
 
-Die Entwicklungs- und Veröfflichungswege der SODa Release-Fromate können via GitHub, Zenodo, Twillo,... sein.
+Die Entwicklungs- und Veröfflichungswege der SODa Formate können via GitHub, Zenodo, Twillo,... sein.
 
 
 **Übersicht über Markdown-basierte Werkzeuge**
@@ -159,6 +159,7 @@ Die Entwicklungs- und Veröfflichungswege der SODa Release-Fromate können via G
   - **Jupyter Notebooks:** Kombiniert Markdown, Code und Output – ideal für technische Inhalte, Datenanalysen und Coding.
     
 
+
 **Vorteile von Markdownbasierten Tools sind...**
 
 - offen und quelloffen
@@ -168,6 +169,7 @@ Die Entwicklungs- und Veröfflichungswege der SODa Release-Fromate können via G
 - OER-compliant durch einfache Lizenzintegration
 - hybridfähig: kombinierbar mit Plattformen wie GitHub Pages, GitLab, LMS (Moodle, Ilias,..), oder lokal (z. B. mit VS Code, JupyterLab) 
 - digital nachhaltig durch eine offene, plattformunabhängige Erstellung, Veröffentlichung, Nachnutzung und kollaborative Weiterentwicklung.
+
 
 
 **Mögliche Nachteile von Markdownbasierten Tools können sein...** 
