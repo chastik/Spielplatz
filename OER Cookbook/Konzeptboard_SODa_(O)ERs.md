@@ -64,7 +64,6 @@ Udo
 **Was ist passiert:** 
 
 - Austausch intern und mit anderen DKZen
-- 
 - noch weitere Punkte ergänzen?
 
 
@@ -86,7 +85,9 @@ Udo
 **SODa (O)ERs sind**
 
 OER, oder Open Educational Resources, bezeichnet die **Bereitstellung von Lehr- und Lernmaterialien** unter öffentlichen Lizenzen.
-Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verbessern und zu verwenden.** Dabei ist es **nicht** notwendigerweise so, dass **sie kostenfrei zur Verfügung** gestellt werden müssen; entscheidend ist, dass ihre **Weiterverwendung und -bearbeitung kostenfrei** erlaubt ist
+
+Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verbessern und zu verwenden.** Dabei ist es **nicht** notwendigerweise so, dass **sie kostenfrei zur Verfügung** gestellt werden müssen; entscheidend ist, dass ihre **Weiterverwendung und -bearbeitung kostenfrei** erlaubt ist.
+
 (Till Kreuzer, 2017, S. 28)
 
 
@@ -171,6 +172,8 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 - Forschende
 - Hilfskräfte
 
+
+
 **Nutzung der SODa Personas via Use Cases. Beispiele sind...**
 
 - Use Case Max (Sammlungsbetreuender, siehe [How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321))
@@ -195,19 +198,21 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 **Übersicht über Markdown-basierte Werkzeuge**
 
-- **Markdown:** Leichtgewichtiges Auszeichnungsformat für strukturierte Texte, Dokumentationen, Webseiten; Basisformat für strukturierte Texte, Tutorials, Webseiten, Readmes (z. B. auf GitHub).
 
-- **LiaScript:** Erweiterung von Markdown für interaktive Lehrmaterialien (inkl. Quiz, Audio, Animationen); Erweiterung von Markdown für interaktive Lerninhalte (inkl. Quiz, Medien, Audios, Animationen).
 
-- **Twine:** Tool für nicht-lineare, storybasierte Lernpfade – exportierbar als HTML, Storybasierte Entscheidungsstrukturen für Lernpfade oder Szenarien.
 
-- **H5P (mit Markdown Einbindung):** Erstellung interaktiver Lerninhalte in Webumgebungen mit eingebetteten Markdown-Textfeldern, z. B. auf Moodle oder WordPress.
+| Werkzeug | Beschreibung|
+| --- | ----------- |
+| **Markdown:** | Leichtgewichtiges Auszeichnungsformat für strukturierte Texte, Dokumentationen, Webseiten; Basisformat für strukturierte Texte, Tutorials, Webseiten, Readmes (z. B. auf GitHub).|
+| **LiaScript:** | Erweiterung von Markdown für interaktive Lehrmaterialien (inkl. Quiz, Audio, Animationen); Erweiterung von Markdown für interaktive Lerninhalte (inkl. Quiz, Medien, Audios, Animationen). |
+| **Twine:** | Tool für nicht-lineare, storybasierte Lernpfade – exportierbar als HTML, Storybasierte Entscheidungsstrukturen für Lernpfade oder Szenarien.|
+| **H5P (mit Markdown Einbindung):**| Erstellung interaktiver Lerninhalte in Webumgebungen mit eingebetteten Markdown-Textfeldern, z. B. auf Moodle oder WordPress.|
+| **Jupyter Notebooks:** | Kombiniert Markdown, Code und Output – ideal für technische Inhalte, Datenanalysen und Coding.|
 
-- **Jupyter Notebooks:** Kombiniert Markdown, Code und Output – ideal für technische Inhalte, Datenanalysen und Coding.
+
+ 
+
     
-
-
-
 **Vorteile von Markdownbasierten Tools sind...**
 
 - offen und quelloffen
@@ -226,18 +231,33 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
+
 **Mögliche Nachteile von Markdownbasierten Tools können sein...** 
 
-Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tools sind begrenzt und interaktive 3D-Inhalte können nur über externe Tools eingebunden werden, wie (z. B. Blender Renderings, WebGL).
+- begrenzte visuelle Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tools 
+- Einbindung interaktive 3D-Inhalte nur über externe Tools, z. B. Blender Renderings, WebGL.
+
+
+
+
+---
 
 
 
 **Weitere Werkzeuge können sein**
 
 
-* DaVinci Resolve [Link](https://www.blackmagicdesign.com/de/products/davinciresolve)
+* PowerPoint – zur Erstellung linearer Präsentationen und grafisch unterstützter Lerninhalte
 
-* Powerpoint
+* [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) – professionelles Videoschnitt- und Animationsprogramm für Lehrvideos und Screencasts 
+
+* draw.io – browserbasiertes Tool zur Erstellung von Diagrammen, Visualisierungen und Flowcharts
+
+---
+
+
+
+
 
 
 ## (7) Was macht ein SODa (O)ER aus? 
