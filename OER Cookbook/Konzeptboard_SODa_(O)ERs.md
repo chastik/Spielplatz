@@ -49,7 +49,7 @@ Udo
 (5 Min.)
 
 
-___
+---
 
 
 
@@ -57,10 +57,14 @@ ___
 
 
 
+
+---
+
 **Was ist passiert:** 
 
 - Austausch intern und mit anderen DKZen
-- ....
+- 
+- ....noch weitere Punkte ergänzen?
 
 
 
