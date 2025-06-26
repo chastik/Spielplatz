@@ -120,6 +120,8 @@ Kompetenzaufbau.
 
 ## Zielgruppenorientierung 
 
+(5 Min.)
+
 **[SODa Personae Segemente](https://zenodo.org/records/15574575)**
 
 - Professor:innen
@@ -195,7 +197,7 @@ Die visuellen Gestaltungsmöglichkeiten im Vergleich zu komplexen authoring tool
 - adressieren Lernziele
 
  
-Bild
+ ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/OER_Konzept.png)<!--width="70%"-->
 
 
 ## Vorstellung der Pilotprojekte
