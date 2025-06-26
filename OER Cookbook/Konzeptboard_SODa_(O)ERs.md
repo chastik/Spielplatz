@@ -44,7 +44,7 @@ Udo
 
 
 
-## Was ist passiert und welche Zielsetzung haben wir?
+## (1) Was ist passiert und welche Zielsetzung haben wir?
 
 (5 Min.)
 
@@ -62,7 +62,7 @@ Udo
 
 
 
-## Warum sprechen wir über OERs und (O)ERs und was verstehen wir darunter? 
+## (2) Was verstehen wir im Rahmen von SODa unter OERs?
 
 (5 Min.)
 
@@ -74,7 +74,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## Wie nennen wir unsere (O)ERs? 
+## (3) Welche Formate erscheinen uns besonders relevant?
 
 (10 Min.)
 
@@ -94,7 +94,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## Wie gestalten wir unsere (O)ERs? 
+## (4) An welchen Lern- und Vermittlungsprinzipien sollten wir uns orientieren?
 
 (10 Min.)
 
@@ -117,7 +117,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## SODa Zielgruppenorientierung 
+## (5) Welche Rolle spielen die Zielgruppen?
 
 (5 Min.)
 
@@ -138,7 +138,7 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 
 
-## Nutzung von technischen Werkzeugen
+## Mit welchen technischen Werkzeugen wollen wir arbeiten?
 
 (15 Min.)
 
@@ -233,14 +233,39 @@ Hinweis: Die Entwicklungs- und Veröfflichungswege der SODa Formate können via 
 
 **To do'**
 
-- Sammeln von Formaten mit Vermittlungsprinzipien
-- Inhaltliche Abstimmung der Module
-- Harmonisierung entlang des SODa-FDZyklus
+* Formate mit passenden Vermittlungsansätzen sammeln
+
+* Module inhaltlich abstimmen
+
+* Inhalte entlang des SODa-FDZyklus harmonisieren
+
+
 
 
 **Vorschlag der OER Task Force**
 
--  Entwicklung eines SODa OER Cookbook mit Richtlinien und Vorlagen 
+Entwicklung grundlegender Richtlinien sowie Vorlagen für FAIRe OER-Materialien insbesondere im Hinblick auf **Barrierefreiheit**, **Lizenzen (OER-Kompatibilität)** und eine **Harmonisierung**.
+
+* Verwendung offener Lizenzen
+
+* Autor:innen
+
+* Titelangaben und Konventionen
+
+* _Modularität der Inhalte zur klaren Trennung von Bausteinen zur besseren Wiederverwendbarkeit_
+
+* _Kennzeichnung von Lernzielen und Zielgruppen (für zielgerichtete Nutzung)_
+
+* _Dokumentation von Vermittlungsprinzipien und didaktischem Design (z. B. nach EduBricks, RDMTraining4all, ...)_
+
+* _Barrierefreiheit_ 
+
+* _Formatoffenheit und Plattformunabhängigkeit_
+
+* _Archivierungs- und Versionsstrategie (Langzeitverfügbarkeit, z. B. Git, Zenodo, Repositorien)_
+
+* _Qualitätssicherung (z. B. Peer-Review, Checklisten, Feedbackschleifen)_
+
 
 
 
