@@ -1,6 +1,6 @@
 <!--
 
-author: Canan Hastik  
+author: Canan Hastik  und Gudrun Schwenk
 email:    
 version:  v1
 language: DE
