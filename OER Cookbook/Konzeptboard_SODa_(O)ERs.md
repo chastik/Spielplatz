@@ -63,8 +63,11 @@ Udo
 
 **Was ist passiert:** 
 
-- Austausch intern und mit anderen DKZen
-- noch weitere Punkte ergänzen?
+- Regelmäßiger Austasuch intern
+- Austausch und Abstimmung mit anderen DKZen, NFDIs, Initiativen
+- Analyse und Test von Plattformen
+- Recherche nach OERs
+- OER-Entwürfe mit verschiedenen Schwerpunkten
 
 
 
