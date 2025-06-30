@@ -308,7 +308,9 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 - SODa Basiskurs Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen (Format: Workshop und das Vermittlungsprinzip: Problemorientiertes Lernen)
 
 
-2. **Twine als Werkzeug zur Entwicklung von Selbstlerneinheiten (Format) mit den Vermittlungsprinzipien Storytelling und Gamification**
+2. **Twine Work in Progress Beispiel**
+SODa Basiskurs Modul 6: Ethische und rechtliche Aspekte bei der Sammlungsdigitalisierung: Online-Workshop als Train-the-Trainer
+-> Als Selbstlerneinheit (Format) mit den Vermittlungsprinzipien Storytelling und Gamification
 
 
 
