@@ -229,3 +229,25 @@ Das technische Konzept der SODa OERs verfolgt das Ziel, Inhalte nachhaltig, modu
 (z. B. klare Trennung von Lerneinheiten, Schnittstellen zur Verlinkung)
 
 * Wie lassen sich Inhalte und Formate zwischen verschiedenen Fachexpertisen abstimmen und harmonisieren?
+
+## Inhaltliches Konzept
+
+**Grundlage bilden**
+
+* Workshop: BeratungsCamp Modul 1 [https://zenodo.org/records/14860999]
+   *  
+* Workshop: SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen, Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen (geplant für den 18. Juli von 14-16 Uhr)
+   * Grundlagen FDM
+   * Einführung in Sammlungen
+   * Kontaktstellen
+   * Policies
+   * Open Science
+   * Forschungsdatenlebenszyklus
+   * DMP
+   * FAIR Prinzipien
+
+**Vorlagen**
+
+- Didaktisches Konzept (Beispiel für Module: [Vorlage für inhaltliche Modulbeschreibung](https://github.dev/chastik/Spielplatz/blob/main/OER%20Cookbook/Konzeptboard_SODa_(O)ERs.md))
+- Didaktisches Konzept (Beispiel für Einheiten: [Vorlage Einheiten für didaktisches Konzept](https://github.dev/chastik/Spielplatz/blob/main/OER%20Cookbook/Konzeptboard_SODa_(O)ERs.md))
+- Inhaltliches Konzeot (Beispiel für Einheiten: [SODa BeratungsCamp Modul 1, Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation](https://github.com/chastik/Spielplatz/blob/main/SODa%20BeratungsCamp%20Modul%201%20/02_Inhaltlisches%20Konzept/Einheit1_Kennenlernen_Vermittlungsinhalte.md))
