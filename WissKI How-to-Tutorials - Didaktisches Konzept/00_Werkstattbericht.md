@@ -52,16 +52,13 @@ siehe **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemei
 * Konzeptphase
   
     * Entwicklung von Modulen und Modulpfaden
-      
     * Entwicklung von Lernzielen
       
 * Begleitendes Feedback
 * Implementierphase
   
     * Modularisierung
-      
     * Lernpfade
-      
     * Lernziele
       
 * Nutzendentest
