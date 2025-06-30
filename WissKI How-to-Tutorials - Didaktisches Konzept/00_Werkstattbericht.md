@@ -111,6 +111,10 @@ Charakteristika:
 **Karl**
 Karl (und vergleichbare Forschende) arbeiten schrittweise an praxisnahen Aufgaben – z. B. Eingabe, Bearbeitung und Löschung von Sammlungsdaten – direkt in der SCS-Oberfläche. 
 
+**Ingrid**
+Ingrid, 44, ist Sammlungbetreuende an einem Museum und verantwortlich für Digitalisierung und Datenmanagement. Sie hat viel Erfahrung mit klassischen CMS und Digitalisierungsprojekten, aber bisher keine mit Ontologien oder semantischen Systemen.
+
+Sie möchte sich über WissKI als Infrastruktur für digitale Forschung und sammlungsbezogenes FDM informieren – auch im Hinblick auf den Einstieg für Kolleg:innen in ihrem Haus.
 
 **Viola (Neu)**
 Viola, 32, ist Postdoc (ECR) in einem kunsthistorischen Drittmittelprojekt und hat erste Erfahrungen mit digitalen Tools und LOD gesammelt. Sie interessiert sich für nachhaltiges Forschungsdatenmanagement und möchte ihre Fallstudie zu Sammlungsgeschichte digital erschließen. 
