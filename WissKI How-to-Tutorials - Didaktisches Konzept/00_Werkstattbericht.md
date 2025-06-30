@@ -18,12 +18,14 @@ comment:  WissKi SODA OERs
 
 ## Zielsetzung WissKI Task Force
 
-Ein wachsendes, qualitätsgesichertes OER-Angebot, das zur Nachnutzung einlädt und disziplinübergreifend anschlussfähig bleibt.
-Um dies zu erreichen wird ein didaktisch tragfähiges, technisch FAIRes und inhaltlich relevantes Konzept entwickelt.
+Ein wachsendes, qualitätsgesichertes OER-Angebot, das **Nutzendenangemessen einstiegsfreundlich** ist und zur **Nachnutzung** einlädt und **disziplinübergreifend** anschlussfähig bleibt.
 
-Wer ist die WissKI Task Force:
+Um dies zu erreichen wird ein **didaktisch tragfähiges, technisch FAIRes** und **inhaltlich relevantes Konzept** entwickelt.
 
-Canan, Gudrun, Julia, Kai, Robert, Tom und Katharina (GNM)
+
+**Wer ist die WissKI Task Force**
+
+Canan, Gudrun, Julia, Kai, Robert, Tom und Kathrin (GNM)
 
 
 ## Didaktisches Konzept
