@@ -181,6 +181,8 @@ Dies ermöglicht es jedem, diese Materialien **weiterzugeben, zu teilen, zu verb
 
 - Use Case Max (Sammlungsbetreuender, siehe [How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321))
 - Use Case Karl (Forschender, WissKI Data Editor)
+- Use Case Ingrid (Sammlungsbetreuende, WissKI Intro Modul)
+- Use Case Viola (Forschende, Getting Started with WissKI SCS)
 - Use Case Clementine
 - Use Case ...
 
