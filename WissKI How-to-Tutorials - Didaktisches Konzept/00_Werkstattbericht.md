@@ -25,7 +25,7 @@ Um dies zu erreichen wird ein **didaktisch tragfähiges, technisch FAIRes** und 
 
 **Wer ist die WissKI Task Force**
 
-Canan, Gudrun, Julia, Kai, Robert, Tom und Kathrin (GNM)
+Kathrin (GNM) und Canan, Gudrun, Julia, Kai, Robert, Tom
 
 
 ## Didaktisches Konzept
