@@ -210,27 +210,6 @@ Kurzeinführung mit Einheiten aus
 
 Das technische Konzept der SODa OERs verfolgt das Ziel, Inhalte nachhaltig, modular und offen zugänglich bereitzustellen. Die technische Umsetzung orientiert sich dabei an FAIR-Prinzipien (insbesondere Findability, Accessibility und Reusability) sowie an der Nachnutzbarkeit durch verschiedene Zielgruppen.
 
-### Offene Fragen
-
-**Beschreibung und Kennzeichnung**
-
-* Wie sieht eine einheitliche Struktur für SODa OERs aus?
-(z. B. Titel, Lernziele, Formatbeschreibung, Zielgruppe, Lizenz, Version)
-
-* Welche Vorlagen benötigen Autor:innen für Tutorials, Module, Lernpfade?
-
-* Über welche Publikationswege werden die OERs bereitgestellt?
-(z. B. GitHub, Zenodo, SODa-Webseite, externe Repositorien)
-
-**Abstimmung und Harmonisierung**
-
-* Wie wird die Zielgruppenadressierung technisch mitgedacht und kenntlich gemacht?
-(z. B. Tagging nach Personas oder Kompetenzniveaus gemäß Bloom's)
-
-* Wie wird die Modularisierung technisch umgesetzt?
-(z. B. klare Trennung von Lerneinheiten, Schnittstellen zur Verlinkung)
-
-* Wie lassen sich Inhalte und Formate zwischen verschiedenen Fachexpertisen abstimmen und harmonisieren?
 
 ## Inhaltliches Konzept
 
@@ -253,3 +232,28 @@ Das technische Konzept der SODa OERs verfolgt das Ziel, Inhalte nachhaltig, modu
 - Didaktisches Konzept (Beispiel für Module: [Vorlage für inhaltliche Modulbeschreibung](https://github.dev/chastik/Spielplatz/blob/main/OER%20Cookbook/Konzeptboard_SODa_(O)ERs.md))
 - Didaktisches Konzept (Beispiel für Einheiten: [Vorlage Einheiten für didaktisches Konzept](https://github.dev/chastik/Spielplatz/blob/main/OER%20Cookbook/Konzeptboard_SODa_(O)ERs.md))
 - Inhaltliches Konzept (Beispiel für Einheiten: [SODa BeratungsCamp Modul 1, Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation](https://github.com/chastik/Spielplatz/blob/main/SODa%20BeratungsCamp%20Modul%201%20/02_Inhaltlisches%20Konzept/Einheit1_Kennenlernen_Vermittlungsinhalte.md))
+
+### Offene Fragen
+
+**Beschreibung und Kennzeichnung**
+
+* Wie sieht eine einheitliche Struktur für SODa OERs aus?
+(z. B. Titel, Lernziele, Formatbeschreibung, Zielgruppe, Lizenz, Version)
+
+* Welche Vorlagen benötigen Autor:innen für Tutorials, Module, Lernpfade?
+
+* Über welche Publikationswege werden die OERs bereitgestellt?
+(z. B. GitHub, Zenodo, SODa-Webseite, externe Repositorien)
+
+**Abstimmung und Harmonisierung**
+
+* Wie wird die Zielgruppenadressierung technisch mitgedacht und kenntlich gemacht?
+(z. B. Tagging nach Personas oder Kompetenzniveaus gemäß Bloom's)
+
+* Wie wird die Modularisierung technisch umgesetzt?
+(z. B. klare Trennung von Lerneinheiten, Schnittstellen zur Verlinkung)
+
+* Wie lassen sich Inhalte und Formate zwischen verschiedenen Fachexpertisen abstimmen und harmonisieren?
+
+
+
