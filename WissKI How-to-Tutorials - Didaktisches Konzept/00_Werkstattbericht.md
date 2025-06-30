@@ -162,7 +162,7 @@ Für ihr Projekt möchte sie WissKI SCS einsetzen.
 
  ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Entwurf_Lernpfad_Intro-Modul.png)<!--width="70%"-->
 
-Themen
+**Themen**
 * Begriffskläreung Content Management Systeme
 * Begriffsklärung Forschungsdatenmanagementsysteme
 * WissKI Begiff und Konzept
@@ -174,16 +174,35 @@ Themen
 * SCS Store
 * WissKI Support
 
+**Lernniveaustufen: benennen, erläutern und anwenden**
+
 #### Getting Started Viola
 
  ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Entwurf_Lernpfad_GettingStarted.png)<!--width="70%"-->
 
+**Themen**
+Kurzeinführung mit Einheiten aus 
+* dem WissKI SCS Intro Modul 
+* dem WissKI SCS Data Editor
+  
+**Lernniveaustufen: benennen, erläutern und anwenden**
 
 #### WissKI SCS Data Editor Karl
 
  ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Entwurf_Lernpfad_DataEditor.png)<!--width="70%"-->
 
+**Themen**
+* Erfasssungsrichtlinien für Personen, Körperschaften und Geografika
+* Dateneingabe
+* Datenergänzung
+* Datenkorrektur
+* Löschen von Daten
+* Datenbestand exlporieren
+* Im Datenbestand navigieren
+* Datensuche mit SOLR
+* Datenabfrage mit SPRAQL
 
+**Lernniveaustufen: benennen, erläutern und anwenden**
 
 ## Technisches Konzept
 
