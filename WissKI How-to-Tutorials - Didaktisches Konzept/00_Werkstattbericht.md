@@ -16,7 +16,7 @@ comment:  WissKi SODA OERs
 # Willkommen zu SODa OERs 
 
 
-## Zielsetzung 
+## Zielsetzung WissKI Task Force
 
 Ein wachsendes, qualitätsgesichertes OER-Angebot, das zur Nachnutzung einlädt und disziplinübergreifend anschlussfähig bleibt.
 Um dies zu erreichen wird ein didaktisch tragfähiges, technisch FAIRes und inhaltlich relevantes Konzept entwickelt.
