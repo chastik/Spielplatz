@@ -48,18 +48,15 @@ siehe **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemei
 * Mapping der WissKI Zielgruppen auf SODa Personae (How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections [https://zenodo.org/records/15122321] und SODa Personas [https://zenodo.org/records/15574575])
 * Lernformat "How-to-Tutorial"
 * Gestaltungs-/Vermittlungsprinzipien
-* Definition von Anwendungsfällen und Priorisierung
-* Konzeptphase
-  * Entwicklung von Modulen und Modulpfaden
-  * Entwicklung von Lernzielen
-      
-* Begleitendes Feedback
-  
-* Implementierphase
-  * Modularisierung
-  * Lernpfade
-  * Lernziele
-      
+- Definition von Anwendungsfällen und Priorisierung
+- Konzeptphase  
+  - Entwicklung von Modulen und Modulpfaden  
+  - Entwicklung von Lernzielen  
+- Begleitendes Feedback
+- Implementierphase  
+  - Modularisierung  
+  - Lernpfade  
+  - Lernziele    
 * Nutzendentest
 * Release
 * Community Building
