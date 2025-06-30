@@ -21,6 +21,11 @@ comment:  WissKi SODA OERs
 Ein wachsendes, qualitätsgesichertes OER-Angebot, das zur Nachnutzung einlädt und disziplinübergreifend anschlussfähig bleibt.
 Um dies zu erreichen wird ein didaktisch tragfähiges, technisch FAIRes und inhaltlich relevantes Konzept entwickelt.
 
+Wer ist die WissKI Task Force:
+
+Canan, Gudrun, Julia, Kai, Robert, Tom und Katharina (GNM)
+
+
 ## Didaktisches Konzept
 
 siehe **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemeinsamer Nenner**
@@ -57,7 +62,7 @@ siehe **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemei
 
 ### WissKI Zielgruppenbeschreibung
 
-**1. SODa Personas**
+**1. (SODa Personas)[https://zenodo.org/records/14850367]**
 
 Diese SODa Personas fassen verschiedene Personen-Segmente zusammen:
 * Sammlungsbetreuende
@@ -74,11 +79,14 @@ Diese SODa Personas fassen verschiedene Personen-Segmente zusammen:
 
 **3. SCS WissKI Anwendungsfälle** 
 
+* (Sammlungsbetreuende) WissKI Intro Modul (Ingrid)
+* (Froschende) Getting Started (Viola)
 * (Forschender) SCS WissKI Data Editor Karl
 * (Forschende) WissKI Advanced Modeller (Protégé)
 * (Forschende) WissKI Advanced Modeller (Draw.io)
 * (Technisches admin Personal?) WissKI Advanced Site Builder
 * (Sammlungsbetreuende) Decision Maker
+
 
 
 ### Format und Gestaltungsprinzipien
@@ -131,16 +139,16 @@ Für ihr Projekt möchte sie WissKI SCS einsetzen.
 
 
 
+### Brainstormin mit dem Konzeptboard
 
-
-### Konzeptboard
+Übergeornete Fragstellung: Was braucht es um mit WissKI und SCS eine eigene Sammlung zu erschließen?
 
  ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Entwurf_Konzeptboard.png)<!--width="70%"-->
 
 
 ### Begleitendes Feedback
 
-* regelmäßige Treffen
+* regelmäßige Treffen, jeden Mittwoch 9:00 Uhr bis 12:00 Uhr
 * Expertengespräche
 * Nutzendenfeedback
 
@@ -154,6 +162,17 @@ Für ihr Projekt möchte sie WissKI SCS einsetzen.
 
  ![siehe Folien](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Entwurf_Lernpfad_Intro-Modul.png)<!--width="70%"-->
 
+Themen
+* Begriffskläreung Content Management Systeme
+* Begriffsklärung Forschungsdatenmanagementsysteme
+* WissKI Begiff und Konzept
+* WissKI Anwendung und Funktionsumfang
+* WissKI Spezifika
+* SCS WissKI Minimaldatensatz
+* SCS Zugang und Anmeldung
+* SCS Werkzeuge
+* SCS Store
+* WissKI Support
 
 #### Getting Started Viola
 
