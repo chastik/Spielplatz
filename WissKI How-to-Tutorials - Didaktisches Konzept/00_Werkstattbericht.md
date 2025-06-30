@@ -252,4 +252,4 @@ Das technische Konzept der SODa OERs verfolgt das Ziel, Inhalte nachhaltig, modu
 
 - Didaktisches Konzept (Beispiel für Module: [Vorlage für inhaltliche Modulbeschreibung](https://github.dev/chastik/Spielplatz/blob/main/OER%20Cookbook/Konzeptboard_SODa_(O)ERs.md))
 - Didaktisches Konzept (Beispiel für Einheiten: [Vorlage Einheiten für didaktisches Konzept](https://github.dev/chastik/Spielplatz/blob/main/OER%20Cookbook/Konzeptboard_SODa_(O)ERs.md))
-- Inhaltliches Konzeot (Beispiel für Einheiten: [SODa BeratungsCamp Modul 1, Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation](https://github.com/chastik/Spielplatz/blob/main/SODa%20BeratungsCamp%20Modul%201%20/02_Inhaltlisches%20Konzept/Einheit1_Kennenlernen_Vermittlungsinhalte.md))
+- Inhaltliches Konzept (Beispiel für Einheiten: [SODa BeratungsCamp Modul 1, Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation](https://github.com/chastik/Spielplatz/blob/main/SODa%20BeratungsCamp%20Modul%201%20/02_Inhaltlisches%20Konzept/Einheit1_Kennenlernen_Vermittlungsinhalte.md))
