@@ -33,6 +33,7 @@ siehe **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemei
  
  ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/OER_Konzept.png)<!--width="70%"-->
 
+*siehe auch SODa gelingen (O)ERs [https://zenodo.org/records/14850367]*
 
 ### Vorgehen Didaktisches Konzept
 
