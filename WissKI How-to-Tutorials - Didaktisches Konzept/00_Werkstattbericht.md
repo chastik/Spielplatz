@@ -36,8 +36,8 @@ siehe **Qualitätskriterien der SODa Task Force: SODa (O)ERs als kleinster gemei
 
 ### Vorgehen Didaktisches Konzept
 
-* SWOT-Analyse (WissKI Unterstützungsangebot: SWOT-Analyse und Auswertung)
-* Mapping der WissKI Zielgruppen auf SODa Personae (How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections und SODa Personas)
+* SWOT-Analyse (WissKI Unterstützungsangebot: SWOT-Analyse und Auswertung [https://zenodo.org/records/15274046])
+* Mapping der WissKI Zielgruppen auf SODa Personae (How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections [https://zenodo.org/records/15122321] und SODa Personas [https://zenodo.org/records/15574575])
 * Lernformat "How-to-Tutorial"
 * Gestaltungs-/Vermittlungsprinzipien
 * Definition von Anwendungsfällen und Priorisierung
@@ -111,14 +111,25 @@ Charakteristika:
 **Karl**
 Karl (und vergleichbare Forschende) arbeiten schrittweise an praxisnahen Aufgaben – z. B. Eingabe, Bearbeitung und Löschung von Sammlungsdaten – direkt in der SCS-Oberfläche. 
 
+[Karl](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/WissKI%20How-to-Tutorials%20-%20Didaktisches%20Konzept/04_Lernpfad_Data%20Editor/00_Didaktisches%20Konzept.md#1)
+
+
 **Ingrid**
 Ingrid, 44, ist Sammlungbetreuende an einem Museum und verantwortlich für Digitalisierung und Datenmanagement. Sie hat viel Erfahrung mit klassischen CMS und Digitalisierungsprojekten, aber bisher keine mit Ontologien oder semantischen Systemen.
 
 Sie möchte sich über WissKI als Infrastruktur für digitale Forschung und sammlungsbezogenes FDM informieren – auch im Hinblick auf den Einstieg für Kolleg:innen in ihrem Haus.
 
+[Ingrid](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/WissKI%20How-to-Tutorials%20-%20Didaktisches%20Konzept/02_WissKI_Intro_Modul/00_Didaktisches%20Konzept.md#1)
+
+
 **Viola (Neu)**
 Viola, 32, ist Postdoc (ECR) in einem kunsthistorischen Drittmittelprojekt und hat erste Erfahrungen mit digitalen Tools und LOD gesammelt. Sie interessiert sich für nachhaltiges Forschungsdatenmanagement und möchte ihre Fallstudie zu Sammlungsgeschichte digital erschließen. 
 Für ihr Projekt möchte sie WissKI SCS einsetzen.
+
+[Viola](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/WissKI%20How-to-Tutorials%20-%20Didaktisches%20Konzept/01_Getting_Started/00_Didaktisches%20Konzept.md#1)
+
+
+
 
 
 ### Konzeptboard
