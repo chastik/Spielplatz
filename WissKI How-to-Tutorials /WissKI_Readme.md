@@ -33,11 +33,11 @@ erstellungsdatum:
 
 Join us to explore ontology-driven research data modeling with WissKI!
 
-## Short abstract
+## Short Abstract
 
 This hands-on tutorial invites researchers, data stewards, and ontology enthusiasts to collaboratively engage in building FAIR, semantically enriched collections. Guided by the TaDiRAH taxonomy and powered by Semantic Web technologies (RDF, OWL, SPARQL, CIDOC CRM), participants will model real-world cultural heritage entities, link open data, and publish interoperable knowledge graphs. Whether you're working on your own dataset or curious about Linked Data infrastructures—this is your opportunity to learn, experiment, and connect with peers.
 
-## Target group
+## Target Group
 
 Researcher, Data Steward, Ontology Engineer.
 
@@ -49,7 +49,7 @@ Participants should have a basic understanding of RDF, OWL, or knowledge graphs,
 
 **Demonstrative Learning**, **Learning by Doing**, and **Modeling form** together form an effective trio for software-based OERs: learners see real application steps, understand the processes behind them and try out what is shown for themselves. This promotes sustainable action competence, especially with complex digital tools from WissKI to SPARQL editors.
 
-## Learning objectives
+## Learning Objectives
 
 Participants will:
 * Understand the principles of ontology-driven semantic modeling and how to apply them in cultural heritage data using the Erlangen CRM and WissKI.
