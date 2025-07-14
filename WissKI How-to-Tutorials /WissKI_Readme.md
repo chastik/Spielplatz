@@ -39,6 +39,8 @@ This hands-on tutorial invites researchers, data stewards, and ontology enthusia
 
 ## Target group
 
+Researcher, Data Steward, Ontology Engineer.
+
 The tutorial is aimed at ontology engineers, knowledge graph developers, GLAM and digital humanities researchers, as well as data stewards, curators, trainers, and research data infrastructure providers. We expect 25 participants with diverse backgrounds in semantic technologies and applied data modeling.
 
 Participants should have a basic understanding of RDF, OWL, or knowledge graphs, do not need prior experience with WissKI, and are expected to bring their own laptops.
@@ -49,29 +51,28 @@ Participants should have a basic understanding of RDF, OWL, or knowledge graphs,
 
 ## Learning objectives
 
+Participants will:
+* Understand the principles of ontology-driven semantic modeling and how to apply them in cultural heritage data using the Erlangen CRM and WissKI.
+* Apply Semantic Web technologies (RDF, OWL, SPARQL) in the open-source WissKI environment for building, querying, and publishing FAIR data.
+* Practice modeling structured collection data through hands-on, scenario-based exercises following a modular, activity-oriented path.
+* Reflect on methodological aspects of knowledge graph construction and TaDiRAH-based learning design in the context of Digital Humanities and research infrastructures.
+* Collaborate in a learning community that fosters reuse, transparency, and sustainability through Open Educational Resources (OER) and ontology-aligned documentation practices.
 
-
-## Agenda (theory and practice)
-
-
-
-
-## Structure 
+## Agenda and Structure (theory and practice)
 
 **Slot 1 (9:00–10:40) Interpreting – Capturing – Modeling**
-* Introduction, orientation, warm-up 
-* WissKI in a nutshell 
-* Identify core entities from a collection
-* Entity mapping, ontology modeling 
-* Group discussion and feedback
+* Introduction, orientation, warm-up (Input)
+* WissKI in a nutshell (Input)
+* Identify core entities from a collection (Groupwork)
+* Entity mapping, ontology modeling in draw.io (Individual Activity)
+* Group discussion and feedback 
 
 
 **Slot 2 (11:10–12:50) Creating – Enriching – Implementing**
-*Diagramming a node-edge-network 
-*Import and configure pathbuilder
-*Data editing and querying 
-*Where is WissKI heading? 
-*Group discussion and feedback 
+* From draw.io to WissKI pathubuilder (Individual Activity)
+* Data editing and querying (Groupwork, Input)
+* Where is WissKI heading? (Input)
+* Group discussion and feedback 
 
 
 ## Speaker
@@ -79,7 +80,7 @@ Participants should have a basic understanding of RDF, OWL, or knowledge graphs,
 The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Semantische Datenverarbveitung e.V., c.hastik@igsd-ev.de. She is an expert in structured data and graph data within the Digital Humanities. Her work focuses on ontology-driven modeling, FAIR data publication, and the development of didactically grounded educational formats for research data management (RDM), data literacy and science.
 
 ## Additional Notes (e.g. accounts, software)
-
+[WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
 
 
 
