@@ -63,7 +63,9 @@ Participants will:
 
 ## Agenda and Structure (theory and practice)
 
-**Slot 1 (9:00–10:40) Interpreting – Capturing – Modeling**
+### Slot 1 (9:00–10:40) 
+
+**Interpreting – Capturing – Modeling**
 * Introduction, orientation, warm-up (Input)
 * WissKI in a nutshell (Input)
 * Identify core entities from a collection (Groupwork)
@@ -71,7 +73,9 @@ Participants will:
 * Group discussion and feedback 
 
 
-**Slot 2 (11:10–12:50) Creating – Enriching – Implementing**
+### Slot 2 (11:10–12:50) 
+
+**Creating – Enriching – Implementing**
 * From draw.io to WissKI pathubuilder (Individual Activity)
 * Data editing and querying (Groupwork, Input)
 * Where is WissKI heading? (Input)
