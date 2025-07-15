@@ -39,9 +39,7 @@ Join us to explore ontology-driven research data modeling with WissKI
 
 Date: November 2-6,  2025
 
-Location: Nara,  Japan
-
-Venue:  Nara Prefectural Convention Center
+Location: Nara,  Japan, Nara Prefectural Convention Center
 
 
 ## Short Abstract
