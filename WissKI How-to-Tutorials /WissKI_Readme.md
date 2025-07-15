@@ -66,6 +66,7 @@ Participants will:
 ### Slot 1 (9:00–10:40) 
 
 **Interpreting – Capturing – Modeling**
+
 **解釈 - キャプチャ - モデル化**
 
 * Introduction, orientation, warm-up (Input)
