@@ -33,7 +33,7 @@ erstellungsdatum:2025‑07‑14
 
 # SODa WissKI Bits Tutorial
 
-Join us to explore ontology-driven research data modeling with WissKI at ISWC 2025 - The 24th International Semantic Web Conference
+Join us to explore ontology-driven research data modeling with WissKI at [ISWC 2025 - The 24th International Semantic Web Conference](https://iswc2025.semanticweb.org/)
 
 
 ## Short Abstract
