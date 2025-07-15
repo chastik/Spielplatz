@@ -57,29 +57,15 @@ Participants will:
 
 ## Agenda and Structure (theory and practice)
 
-### Slot 1 (9:00 a.m. – 10:40 a.m.) 
-
-**Interpreting – Capturing – Modeling**
-
-**解釈 - キャプチャ - モデル化**
-
-* Introduction, orientation, warm-up (Input)
-* WissKI in a nutshell (Input)
-* Identify core entities from a collection (Groupwork)
-* Entity mapping, ontology modeling in draw.io (Individual Activity)
-* Group discussion and feedback 
-
-
-### Slot 2 (11:10 a.m. – 12:50 p.m.) 
-
-**Creating – Enriching – Web Development**
-
-**作成 - 拡充化 - ウェブ開発**
-
-* From draw.io to WissKI pathubuilder (Individual Activity)
-* Data editing and querying (Groupwork, Input)
-* Where is WissKI heading? (Input)
-* Group discussion and feedback 
+| **Slot 1 (9:00 a.m. – 10:40 a.m.)**     | **Slot 2 (11:10 a.m. – 12:50 p.m.)**      | 
+|------------|------------|
+|**Interpreting – Capturing – Modeling**   | **Creating – Enriching – Web Development**   |
+|**解釈 - キャプチャ - モデル化**   | **作成 - 拡充化 - ウェブ開発**     |
+|* Introduction, orientation, warm-up (Input)  | * From draw.io to WissKI pathubuilder (Individual Activity)   |
+|* WissKI in a nutshell (Input)  | * Data editing and querying (Groupwork, Input) |
+|* Identify core entities from a collection (Groupwork)  | * Where is WissKI heading? (Input) |
+|* Entity mapping, ontology modeling in draw.io (Individual Activity)  | * Group discussion and feedback  |
+|* Group discussion and feedback  | 
 
 ## Speaker
 
