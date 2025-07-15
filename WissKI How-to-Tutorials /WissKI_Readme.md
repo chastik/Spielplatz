@@ -86,25 +86,50 @@ The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Sema
 
 ## Authors
 
-Canan Hastik
-Website Zenodo Zotero GitHub...  
- 
-Gudrun Schwenk is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
+**Canan Hastik** is a research expert specialized in analysis of structured data and graphs, research data management, digital and data science. She earned her PhD from TU Darmstadt in 2019 at the Institute for Language & Literature Studies, following a master’s in Information Science & Engineering and a diploma in Information & Knowledge Management with focus on library science. Her work focuses on heterogeneous data integration, semantic infrastructures, knowledge-base development, and the creation of Open Educational Resources (OERs) for FAIR RDM. She has led and contributed to national and international projects across the digital humanities, education, and library science. 
 
-Mark Fichtner holds a diploma in computer science from the Friedrich-Alexander University of Erlangen-Nuremberg. From 2009 to 2012, he played a key role in the development of the project “WissKI – Scientific Communication Infrastructure.” In 2012, he worked at the Germanisches Nationalmuseum on the digital implementation and long-term preservation of the project The Early Dürer. Since December 1, 2012, he has served as Deputy Head of the Department for Museum and Cultural Informatics at the Germanisches Nationalmuseum, which he has led as Head of Department since January 1, 2020. Additionally, he has been a founding board member of the Association for Semantic Data Processing (IGSD e.V.) since November 24, 2013.
+ 
+**Gudrun Schwenk** is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
+
+
+
+**Mark Fichtner** holds a diploma in computer science from the Friedrich-Alexander University of Erlangen-Nuremberg. From 2009 to 2012, he played a key role in the development of the project “WissKI – Scientific Communication Infrastructure.” In 2012, he worked at the Germanisches Nationalmuseum on the digital implementation and long-term preservation of the project The Early Dürer. Since December 1, 2012, he has served as Deputy Head of the Department for Museum and Cultural Informatics at the Germanisches Nationalmuseum, which he has led as Head of Department since January 1, 2020. Additionally, he has been a founding board member of the Association for Semantic Data Processing (IGSD e.V.), m.fichtner@gnm.de.
 
 ## SODa Project and Contact
 
-SODa ....
+SODa – Sammlungen, Objekte und Datenkompetenzen is a German national initiative that strengthens data literacy and research data management (RDM) skills for professionals working with academic collections. The project focuses on developing FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
+
+SODa supports structured, interdisciplinary learning around data practices in the context of cultural heritage and research infrastructures. Its modular resources cover topics such as collection development, metadata and ontology modeling, semantic enrichment, data visualization, and digital documentation.
+
+Learning designs are based on coherent personas and a learning objectives matrix for RDM, supporting both foundational knowledge and discipline-specific needs. Research-based and problem-oriented learning approaches encourage active engagement, practical application, and reuse across academic and heritage institutions.
+
+SODa also fosters exchange and collaboration across communities through contributions to national initiatives such as the German National Research Data Infrastructure (NFDI) and promotes standards, good practices, and innovative workflows in semantic data modeling.
+
+SODa is funded by the German Federal Ministry of Education and Research (BMBF) and NextGenerationEU under funding code 16DKZ2016B.
 
 ## Partners
 
+* The Coordination Office for Academic University Collections in Germany at Humboldt-Universität zu Berlin
+
+* Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+  * Office for Collections and Museums
+  * Competence Center for Research Data and Information (CDI)
+  * Chair of Computer Science 5 (Pattern Recognition)
+  * Chair of Computer Science 9 (Graphical Data Processing)
+
+* Interest Group for Semantic Data Processing (IGSDP e.V.)
+
+* Germanisches Nationalmuseum Nuremberg
+
+
 ## Additional Notes (e.g. accounts, software)
 
-![https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png) (WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
+[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)
 
-![https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)  (TaDiRAH Taxonomy of Research Activities in the Humanities](https://tadirah.info/)
+[![TaDiRAH – Taxonomy of Research Activities in the Humanities](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://tadirah.info/)
 
 ![Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) - soon available in English](https://zenodo.org/records/15025246) 
+
+![How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321)
 
 
