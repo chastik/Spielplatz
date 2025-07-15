@@ -5,3 +5,11 @@
     --color-highlight-menu: var(--soda-light);
     --color-highlight: var(--soda-light);
   }
+
+:body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+:a {
+  color: orange;
+}
