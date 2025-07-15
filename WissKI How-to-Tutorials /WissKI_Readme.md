@@ -63,7 +63,7 @@ Participants will:
 
 ## Agenda and Structure (theory and practice)
 
-### Slot 1 (9:00–10:40) 
+### Slot 1 (9:00 a.m. – 10:40 a.m.) 
 
 **Interpreting – Capturing – Modeling**
 
@@ -76,9 +76,12 @@ Participants will:
 * Group discussion and feedback 
 
 
-### Slot 2 (11:10–12:50) 
+### Slot 2 (11:10 a.m. – 12:50 p.m.) 
 
-**Creating – Enriching – Implementing**
+**Creating – Enriching – Web Development**
+
+**作成 - 拡充化 - ウェブ開発**
+
 * From draw.io to WissKI pathubuilder (Individual Activity)
 * Data editing and querying (Groupwork, Input)
 * Where is WissKI heading? (Input)
