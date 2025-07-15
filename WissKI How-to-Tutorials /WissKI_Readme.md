@@ -102,7 +102,7 @@ The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Sema
 Canan Hastik
 Website Zenodo Zotero GitHub...  
  
-Gudrun Schwenk is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, and WissKI – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
+Gudrun Schwenk is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, and WissKI – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
 
 Mark Fichtner
 
