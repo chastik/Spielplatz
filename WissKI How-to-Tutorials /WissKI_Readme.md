@@ -82,6 +82,10 @@ Participants will:
 
 The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Semantische Datenverarbveitung e.V., c.hastik@igsd-ev.de. She is an expert in structured data and graph data within the Digital Humanities. Her work focuses on ontology-driven modeling, FAIR data publication, and the development of didactically grounded educational formats for research data management (RDM), data literacy and science.
 
+## Other Contributors
+
+
+
 ## Additional Notes (e.g. accounts, software)
 [WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
 
