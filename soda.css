@@ -12,6 +12,11 @@ body {
   font-size: var(--font-size-base); /* Schriftgröße anwenden */
 }
 
+head {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: var(--font-size-base); /* Schriftgröße anwenden */
+}
+
 a {
   color: orange;
 }
