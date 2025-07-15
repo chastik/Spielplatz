@@ -4,7 +4,7 @@
   --color-highlight-dark: var(--soda-dark);
   --color-highlight-menu: var(--soda-light);
   --color-highlight: var(--soda-light);
-  --font-size-base: 24px; /* ergänzte Standard-Schriftgröße */
+  --font-size-base: 22px; /* ergänzte Standard-Schriftgröße */
 }
 
 body {
