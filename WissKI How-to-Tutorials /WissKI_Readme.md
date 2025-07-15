@@ -78,7 +78,7 @@ Participants will:
 |* WissKI in a nutshell (Input)  | * Data editing and querying (Groupwork, Input) |
 |* Identify core entities from a collection (Groupwork)  | * Where is WissKI heading? (Input) |
 |* Entity mapping, ontology modeling in draw.io (Individual Activity)  | * Group discussion and feedback  |
-|* Group discussion and feedback  | 
+|* Group discussion and feedback  | |
 
 ## Speaker
 
