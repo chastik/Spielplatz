@@ -34,7 +34,7 @@ Location: Nara Prefectural Convention Center,  Japan
 
 Guided by the [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) taxonomy, drawing on learning objectives [Learning Objectives Matrix of RDM](https://zenodo.org/records/15025246), and powered by Semantic Web technologies (RDF, OWL, SPARQL, CIDOC CRM), participants will model real-world cultural heritage entities, link open data, and publish interoperable knowledge graphs using [WissKI](https://wiss-ki.eu/) (Wissenschaftliche Kommunikationsinfrastruktur).
 
-Whether you are working on your own dataset or simply curious about the WissKI Linked Data infrastructure — this is your opportunity to learn, experiment, and connect with peers.
+Whether you are working on your own dataset or simply curious about the [WissKI](https://wiss-ki.eu/) Linked Data infrastructure — this is your opportunity to learn, experiment, and connect with peers.
 
 ## Target Group
 
@@ -44,7 +44,7 @@ The tutorial is aimed at ontology engineers, knowledge graph developers, GLAM an
 
 We expect 25 participants with diverse backgrounds in semantic technologies and applied data modeling.
 
-Participants should have a basic understanding of RDF, OWL, or knowledge graphs, do not need prior experience with WissKI, and are expected to bring their own laptops.
+Participants should have a basic understanding of RDF, OWL, or knowledge graphs, do not need prior experience with [WissKI](https://wiss-ki.eu/), and are expected to bring their own laptops.
 
 ## Teaching Strategy
 
@@ -54,14 +54,18 @@ This promotes sustainable action competence, especially with complex digital too
 
 ## Learning Objectives
 
-Participants will:
+This module introduces key activities in the Digital Humanities – from interpretation and modeling to the publication of structured data.
 
-* Interpreting
-* Capturing
-* Modeling
-* Creating
-* Enriching
-* Web Developing
+Using WissKI and the Erlangen CRM, participants engage in hands-on practice and reflect on their methods through the lens of the [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) taxonomy.
+
+**Participants will learn...**
+
+* [Interpreting](https://vocabs.dariah.eu/tadirah/en/page/interpreting): Interpret an existing WissKI collection portal and analyse on its conceptual and methodological structure.
+* [Capturing](https://vocabs.dariah.eu/tadirah/en/page/capturing): Capture and structure metadata based on CIDOC CRM with Protegé.
+* [Modeling](https://vocabs.dariah.eu/tadirah/en/page/modeling): Apply ontology-driven modeling techniques using WissKI Pathbuilder.
+* [Creating](https://vocabs.dariah.eu/tadirah/en/page/creating): Develop WissKI instances and define semantic groups and paths: from visual design (draw.io) to structured pathbuilder.
+* [Enriching](https://vocabs.dariah.eu/tadirah/en/page/enriching): Enrich existing datasets with semantic links, external vocabularies, and authority data.
+* [Web Developing](https://vocabs.dariah.eu/tadirah/en/page/webDevelopment): Conduct structured data analysis and semantic publishing using RDF, OWL, and SPARQL in the WissKI environment.
 
 ## Agenda and Structure (theory and practice)
 
@@ -78,22 +82,19 @@ Participants will:
 
 ## Speaker
 
-The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Semantische Datenverarbveitung e.V., c.hastik@igsd-ev.de. She is an expert in structured data and graph data within the Digital Humanities. Her work focuses on ontology-driven modeling, FAIR data publication, and the development of didactically grounded open educational (OER) formats for research data management (RDM), data literacy (DL) and data science (DS).
+The tutorial is led by **Dr. Canan Hastik** (Interessensgemeinschaft für Semantische Datenverarbeitung e.V., c.hastik@igsd-ev.de), a research expert in structured and graph data analysis, research data management (RDM), and digital/data science, with a focus on the Digital Humanities and scientific object collections. She holds a PhD from the Institute for Language & Literature Studies at TU Darmstadt (2019), following a master’s degree in Information Science & Engineering and a diploma in Information & Knowledge Management with a specialization in library science.
 
-## Authors
+Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
-**Canan Hastik** is a research expert specialized in analysis of structured data and graphs, research data management, digital and data science. She earned her PhD from TU Darmstadt in 2019 at the Institute for Language & Literature Studies, following a master’s in Information Science & Engineering and a diploma in Information & Knowledge Management with focus on library science. Her work focuses on heterogeneous data integration, semantic infrastructures, knowledge-base development, and the creation of Open Educational Resources (OERs) for FAIR RDM. She has led and contributed to national and international projects across the digital humanities, education, and library science. 
-
+## Co-Authors
  
 **Gudrun Schwenk** is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
-
-
 
 **Mark Fichtner** holds a diploma in computer science from the Friedrich-Alexander University of Erlangen-Nuremberg. From 2009 to 2012, he played a key role in the development of the project “WissKI – Scientific Communication Infrastructure.” In 2012, he worked at the Germanisches Nationalmuseum on the digital implementation and long-term preservation of the project The Early Dürer. Since December 1, 2012, he has served as Deputy Head of the Department for Museum and Cultural Informatics at the Germanisches Nationalmuseum, which he has led as Head of Department since January 1, 2020. Additionally, he has been a founding board member of the Association for Semantic Data Processing (IGSD e.V.), m.fichtner@gnm.de.
 
 ## SODa Project and Contact
 
-SODa – Sammlungen, Objekte und Datenkompetenzen is a German national initiative that strengthens data literacy and research data management (RDM) skills for professionals working with academic collections. The project focuses on developing FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
+[SODa – Sammlungen, Objekte und Datenkompetenzen](https://sammlungen.io/) is a German national initiative that strengthens data literacy and research data management (RDM) skills for professionals working with academic collections. The project focuses on developing FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
 
 SODa supports structured, interdisciplinary learning around data practices in the context of cultural heritage and research infrastructures. Its modular resources cover topics such as collection development, metadata and ontology modeling, semantic enrichment, data visualization, and digital documentation.
 
@@ -115,7 +116,7 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 * Interest Group for Semantic Data Processing (IGSDP e.V.)
 
-* Germanisches Nationalmuseum Nuremberg
+* Germanisches Nationalmuseum Nuremberg (GNM)
 
 
 ## Additional Notes (e.g. accounts, software)
