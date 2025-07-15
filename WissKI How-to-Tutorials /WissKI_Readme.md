@@ -1,4 +1,6 @@
 <!--
+icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
 
 *titel: SODa WissKI Bits Tutorial
 *author:in/urheber:in: Canan Hastik
@@ -25,10 +27,7 @@ LZ-ID:
 zielgruppe: Researcher
 gestaltungsprinzip: Demonstratives Lernen, Learning by Doing und Modeling bilden zusammen ein wirksames Trio für WissKI-basierte OERs: Lernende sehen reale Anwendungsschritte, verstehen die dahinterliegenden Denkprozesse und probieren das Gezeigte selbst aus. Dies fördert nachhaltige Handlungskompetenz, insbesondere bei komplexen digitalen Werkzeugen wie WissKI oder SPARQL-Editoren.
 keywords: ???
-erstellungsdatum:
-
-icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
+erstellungsdatum:2025‑07‑14
 
 -->
 
