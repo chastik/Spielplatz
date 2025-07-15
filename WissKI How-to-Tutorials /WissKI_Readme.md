@@ -32,7 +32,7 @@ Location: Nara Prefectural Convention Center,  Japan
 
 ## Short Abstract
 
-Guided by the [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) taxonomy, drawing on learning objectives from the RDM Learning Objectives Matrix, and powered by Semantic Web technologies (RDF, OWL, SPARQL, CIDOC CRM), participants will model real-world cultural heritage entities, link open data, and publish interoperable knowledge graphs using [WissKI](https://wiss-ki.eu/) (Wissenschaftliche Kommunikationsinfrastruktur).
+Guided by the [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) taxonomy, drawing on learning objectives [Learning Objectives Matrix of RDM](https://zenodo.org/records/15025246), and powered by Semantic Web technologies (RDF, OWL, SPARQL, CIDOC CRM), participants will model real-world cultural heritage entities, link open data, and publish interoperable knowledge graphs using [WissKI](https://wiss-ki.eu/) (Wissenschaftliche Kommunikationsinfrastruktur).
 
 Whether you are working on your own dataset or simply curious about the WissKI Linked Data infrastructure — this is your opportunity to learn, experiment, and connect with peers.
 
