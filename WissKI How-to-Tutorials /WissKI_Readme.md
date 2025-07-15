@@ -103,7 +103,7 @@ Mark Fichtner
 ## Additional Notes (e.g. accounts, software)
 [WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
 
-## Project Context 
+## SODa Project
 
 SODa ....
 
