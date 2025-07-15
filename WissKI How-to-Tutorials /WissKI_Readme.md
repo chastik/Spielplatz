@@ -56,21 +56,18 @@ This promotes sustainable action competence, especially with complex digital too
 
 Participants will:
 
-* Understand the principles of ontology-driven semantic modeling and how to apply them in cultural heritage data using the Erlangen CRM and WissKI.
-  
-* Apply Semantic Web technologies (RDF, OWL, SPARQL) in the open-source WissKI environment for building, querying, and publishing FAIR data.
-  
-* Practice modeling structured collection data through hands-on, scenario-based exercises following a modular, activity-oriented path.
-  
-* Reflect on methodological aspects of knowledge graph construction and TaDiRAH-based learning design in the context of Digital Humanities and research infrastructures.
-  
-* Collaborate in a learning community that fosters reuse, transparency, and sustainability through Open Educational Resources (OER) and ontology-aligned documentation practices.
+* Interpreting
+* Capturing
+* Modeling
+* Creating
+* Enriching
+* Web Developing
 
 ## Agenda and Structure (theory and practice)
 
 | **Slot 1 (9:00 a.m. – 10:40 a.m.)**     | **Slot 2 (11:10 a.m. – 12:50 p.m.)**      | 
 |------------|------------|
-|**Interpreting – Capturing – Modeling**   | **Creating – Enriching – Web Development**   |
+|**Interpreting – Capturing – Modeling**   | **Creating – Enriching – Web Developing**   |
 |**解釈 - キャプチャ - モデル化**   | **作成 - 拡充化 - ウェブ開発**     |
 |* Introduction, orientation, warm-up (Input)  | * From draw.io to WissKI pathubuilder (Individual Activity)   |
 |* WissKI in a nutshell (Input)  | * Data editing and querying (Groupwork, Input) |
@@ -122,9 +119,9 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 ## Additional Notes (e.g. accounts, software)
 
-[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)
+[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/) [WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/)
 
-[![TaDiRAH – Taxonomy of Research Activities in the Humanities](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://tadirah.info/)
+[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH) [TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
 
 ![Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) - soon available in English](https://zenodo.org/records/15025246) 
 
