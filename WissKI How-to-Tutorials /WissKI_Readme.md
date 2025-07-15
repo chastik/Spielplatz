@@ -114,8 +114,8 @@ SODa ....
 
 ## Additional Notes (e.g. accounts, software)
 
-![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)[WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png) [WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
 
-![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png) [TaDiRAH Taxonomy of Research Activities in the Humanities](https://tadirah.info/)
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)  [TaDiRAH Taxonomy of Research Activities in the Humanities](https://tadirah.info/)
 
 
