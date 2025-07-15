@@ -33,7 +33,8 @@ erstellungsdatum:2025‑07‑14
 
 # SODa WissKI Bits Tutorial
 
-Join us to explore ontology-driven research data modeling with WissKI!
+Join us to explore ontology-driven research data modeling with WissKI at ISWC 2025 - The 24th International Semantic Web Conference
+
 
 ## Short Abstract
 
@@ -80,17 +81,27 @@ Participants will:
 * Where is WissKI heading? (Input)
 * Group discussion and feedback 
 
-
 ## Speaker
 
 The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Semantische Datenverarbveitung e.V., c.hastik@igsd-ev.de. She is an expert in structured data and graph data within the Digital Humanities. Her work focuses on ontology-driven modeling, FAIR data publication, and the development of didactically grounded educational formats for research data management (RDM), data literacy and science.
 
-## Other Contributors
+## Authors
 
+Canan Hastik
+Website Zenodo Zotero GitHub...  
+ 
+Gudrun Schwenk
 
+Mark Fichtner
 
 ## Additional Notes (e.g. accounts, software)
 [WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
+
+## Project Context 
+
+SODa ....
+
+## Partners
 
 
 
