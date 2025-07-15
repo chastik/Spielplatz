@@ -83,7 +83,7 @@ Participants will:
 
 ## Speaker
 
-The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Semantische Datenverarbveitung e.V., c.hastik@igsd-ev.de. She is an expert in structured data and graph data within the Digital Humanities. Her work focuses on ontology-driven modeling, FAIR data publication, and the development of didactically grounded educational formats for research data management (RDM), data literacy and science.
+The tutorial is performed by Dr. Canan Hastik, Interessensgemeinschaft für Semantische Datenverarbveitung e.V., c.hastik@igsd-ev.de. She is an expert in structured data and graph data within the Digital Humanities. Her work focuses on ontology-driven modeling, FAIR data publication, and the development of didactically grounded open educational (OER) formats for research data management (RDM), data literacy (DL) and data science (DS).
 
 ## Authors
 
@@ -92,7 +92,7 @@ Website Zenodo Zotero GitHub...
  
 Gudrun Schwenk is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
 
-Mark Fichtner
+Mark Fichtner holds a diploma in computer science from the Friedrich-Alexander University of Erlangen-Nuremberg. From 2009 to 2012, he played a key role in the development of the project “WissKI – Scientific Communication Infrastructure.” In 2012, he worked at the Germanisches Nationalmuseum on the digital implementation and long-term preservation of the project The Early Dürer. Since December 1, 2012, he has served as Deputy Head of the Department for Museum and Cultural Informatics at the Germanisches Nationalmuseum, which he has led as Head of Department since January 1, 2020. Additionally, he has been a founding board member of the Association for Semantic Data Processing (IGSD e.V.) since November 24, 2013.
 
 ## SODa Project and Contact
 
