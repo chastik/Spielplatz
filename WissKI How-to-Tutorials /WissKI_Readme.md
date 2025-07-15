@@ -1,7 +1,6 @@
 <!--
-icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-
-link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
+icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
 
 *titel: SODa WissKI Bits Tutorial
 *author:in/urheber:in: Canan Hastik
