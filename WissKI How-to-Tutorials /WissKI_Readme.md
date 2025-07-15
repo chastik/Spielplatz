@@ -6,7 +6,7 @@ link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/s
 *author:in/urheber:in: Canan Hastik
 orcid:
 *author:in/urheber:in: Gudrun Schwenk
-orcid:
+orcid: https://orcid.org/0009-0002-3156-8339
 *author:in/urheber:in: Mark Fichtner
 orcid:
 *licence: cc by
