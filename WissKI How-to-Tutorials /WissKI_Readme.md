@@ -1,35 +1,18 @@
 <!--
-icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
 
-*titel: SODa WissKI Bits Tutorial
-*author:in/urheber:in: Canan Hastik
-orcid:
-*author:in/urheber:in: Gudrun Schwenk
-orcid: https://orcid.org/0009-0002-3156-8339
-*author:in/urheber:in: Mark Fichtner
-orcid:
-*licence: cc by
-*URL/DOI: tba
-
-email:   SODa@sammlungen.io
+author: Canan Hastik
+co-authors: SODa TaskForce OER = Udo Andraschke, Anna Gnyp, Canan Hastik, Katharina Leyrer, Gudrun Schwenk, Mathias Zinnen
+email:    
 version:  v1
-language: ENG
-licence link: https://creativecommons.org/
-absract: Kurzfassung (siehe Details Autorenrichtlinien)
-format: WissKI How-to-Tutorial
-modultitel: WissKI Bits from Ontology-Driven Semantic Modeling to FAIR Publishing with WissKI 
-modul: 
-einheitstitel: 
-eineit: 
-lernziel: 
-LZ-ID: 
-zielgruppe: Researcher
-gestaltungsprinzip: Demonstratives Lernen, Learning by Doing und Modeling bilden zusammen ein wirksames Trio für WissKI-basierte OERs: Lernende sehen reale Anwendungsschritte, verstehen die dahinterliegenden Denkprozesse und probieren das Gezeigte selbst aus. Dies fördert nachhaltige Handlungskompetenz, insbesondere bei komplexen digitalen Werkzeugen wie WissKI oder SPARQL-Editoren.
-keywords: ???
-erstellungsdatum:2025‑07‑14
+language: DE
+
+icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
+
+comment:  Konzeptboard SODA (O)ERs
 
 -->
+
 
 # SODa WissKI Bits Tutorial
 
