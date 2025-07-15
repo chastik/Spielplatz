@@ -1,15 +1,20 @@
 <!--
 
-author: Canan Hastik
-co-authors: SODa TaskForce OER = Udo Andraschke, Anna Gnyp, Canan Hastik, Katharina Leyrer, Gudrun Schwenk, Mathias Zinnen
-email:    
-version:  v1
-language: DE
+titel: SODa WissKI Bits Tutorial
+authorin: Canan Hastik
+orcid:
+authorin: Gudrun Schwenk
+orcid: https://orcid.org/0009-0002-3156-8339
+authorin: Mark Fichtner
+orcid:
+licence: cc by
+URLDOI: tba
+email: SODa@sammlungen.io
+version: v1.1
+language: ENG
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
-
-comment:  Konzeptboard SODA (O)ERs
 
 -->
 
