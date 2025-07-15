@@ -106,14 +106,14 @@ Gudrun Schwenk
 
 Mark Fichtner
 
-## Additional Notes (e.g. accounts, software)
-[WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
-
 ## SODa Project
 
 SODa ....
 
 ## Partners
 
+## Additional Notes (e.g. accounts, software)
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)<!--width="50%"--> [WissKI Wissenschaftliche Kommunikationsinfrastruktur - Scientific Communication Infrastructure](https://wiss-ki.eu/)
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)<!--width="50%"--> [TaDiRAH Taxonomy of Research Activities in the Humanities](https://tadirah.info/)
 
 
