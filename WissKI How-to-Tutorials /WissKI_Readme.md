@@ -21,26 +21,26 @@ link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/s
 
 # SODa WissKI Bits Tutorial
 
-Join us to explore ontology-driven research data modeling with WissKI 
+Join us to explore WissKI based ontology-driven research data modeling  
 
 [ISWC 2025 - The 24th International Semantic Web Conference](https://iswc2025.semanticweb.org/)
 
-Date: November 2-6,  2025
+Date: November 2-6, 2025
 
-Location: Nara Prefectural Convention Center,  Japan
+Location: Nara Prefectural Convention Center, Japan
 
 
 ## Short Abstract
 
-Guided by the [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) taxonomy, drawing on learning objectives [Learning Objectives Matrix of RDM](https://zenodo.org/records/15025246), and powered by Semantic Web technologies (RDF, OWL, SPARQL, CIDOC CRM), participants will model real-world cultural heritage entities, link open data, and publish interoperable knowledge graphs using [WissKI](https://wiss-ki.eu/) (Wissenschaftliche Kommunikationsinfrastruktur).
+Guided by the [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) taxonomy, drawing on learning objectives [Learning Objectives Matrix of RDM](https://zenodo.org/records/15025246), and powered by Semantic Web technologies (RDF, OWL, SPARQL, CIDOC CRM), participants will model real-world cultural heritage entities, link open data, and publish interoperable knowledge graphs using [WissKI](https://wiss-ki.eu/) (german: Wissenschaftliche Kommunikations-Infrastruktur, english: Scientific Communication Infrastructure).
 
-Whether you are working on your own dataset or simply curious about the [WissKI](https://wiss-ki.eu/) Linked Data infrastructure — this is your opportunity to learn, experiment, and connect with peers.
+Whether you want to work on your own dataset or you are simply curious about the [WissKI](https://wiss-ki.eu/) Linked Data infrastructure — this is your opportunity to learn, experiment, and connect with peers.
 
 ## Target Group
 
 Researcher, Data Steward, Ontology Engineer.
 
-The tutorial is aimed at ontology engineers, knowledge graph developers, GLAM and digital humanities researchers, as well as data stewards, curators, trainers, and research data infrastructure providers. 
+This tutorial targets ontology engineers, knowledge graph developers, GLAM and digital humanities researchers, as well as data stewards, curators, trainers, and research data infrastructure providers. 
 
 We expect 25 participants with diverse backgrounds in semantic technologies and applied data modeling.
 
