@@ -19,7 +19,7 @@ link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/s
 -->
 
 
-# SODa WissKI Bits Tutorial
+# SODa WissKI Bits Tutorial - lebt jetzt hier: https://github.com/soda-collections-objects-data-literacy/liascript-oers/blob/main/WissKI%20How-to-Tutorials%20/WissKI_Readme.md
 
 Join us to explore WissKI based ontology-driven research data modeling  
 
