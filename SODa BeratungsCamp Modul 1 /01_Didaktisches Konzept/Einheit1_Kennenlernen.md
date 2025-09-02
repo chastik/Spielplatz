@@ -49,7 +49,7 @@ comment:  WissKi SODA OERs
 - Erwartungen und Bedarfe…
 benennen.[1]
 
-## Einheit 1 adressiert Lernziele der LZM [1]**
+## Einheit 1 adressiert Lernziele der LZM [1]
 
 >**aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)**“
 >
@@ -70,13 +70,14 @@ benennen.[1]
 >- (1.7) Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
 
 
-**Methoden**
+## Methoden
 
 - zu 1.1-3 Personen und Rollen: Steckbrief (Alternative Methoden: Blitzvorstellung, Standortbestimmung,...)
 - zu 1.4 Handlungsfelder im FDM: Stempel
 - zu 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
 - zu 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
 - zu 1.7 Beratungsbedarfe: Erwartungsabfrage
+
 
 
 
