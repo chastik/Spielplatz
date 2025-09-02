@@ -53,7 +53,6 @@ benennen.[1]
 
 >**aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)**“
 >
->
 >- (1.1) Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
 >- (1.2) Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0032 adaptiert)
 >- (1.3) Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZM-ID: 01\_003\_0033 adaptiert)
@@ -78,6 +77,7 @@ benennen.[1]
 - zu 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
 - zu 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
 - zu 1.7 Beratungsbedarfe: Erwartungsabfrage
+
 
 
 
