@@ -18,29 +18,30 @@ comment:  WissKi SODA OERs
 
 ## Einheit 1 behandelt Themen...
 
->**aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]**
 >
 >- Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)
 >- Personen und Rollen im Forschungsdatenmanagement (FDM)
 >- Forschungsdatenlebenszyklus
+>  
+>**aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1]**
 
 ## Für Einheit 1 werden vorausgesetzt...
 
->**aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen und Lernziele der LZM [1]**
 >
->
->*zu Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)*
->
->- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen, erläutern und diskutieren. (LZM-ID: 01\_001\_0001), (LZM-ID: 01\_001\_0002) und (LZM-ID: 01\_001\_0003)
->- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen, erläutern und diskutieren. (LZM-ID: 01\_001\_0004), (LZM-ID: 01\_001\_0005) und (LZM-ID: 01\_001\_0006)
+>- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
+>- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. (LZM-ID: 01\_001\_0002) 
+>- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren. (LZM-ID: 01\_001\_0003)
+>- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0004)
+>- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. (LZM-ID: 01\_001\_0005)
+>- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren. (LZM-ID: 01\_001\_0006)
 >- Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007)
 >- Handlungsfelder im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_001\_0010)
->
->
->*zu Personen und Rollen im Forschungsdatenmanagement (FDM)*
->
 >- Personen im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0032)
 >- Funktionen und Verantwortlichkeiten von Personen im Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0033)
+>
+>**zu Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)**
+>**zu Personen und Rollen im Forschungsdatenmanagement (FDM)**
+>**aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen und Lernziele der LZM [1]**
 
 ## In Einheit 1 können Teilnehmende...
 
@@ -77,6 +78,7 @@ benennen.[1]
 - zu 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
 - zu 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
 - zu 1.7 Beratungsbedarfe: Erwartungsabfrage
+
 
 
 
