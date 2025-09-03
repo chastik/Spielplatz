@@ -16,23 +16,19 @@ comment:  WissKi SODA OERs
 
 *Einheit 2 - Arbeiten mit sammlungsbezogenen Forschungsdaten*
 
-**Einheit 2 behandelt Themen…**
+## Einheit 2 behandelt Themen...
 
-aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
+"Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)" aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1] 
+und "Grundbegriffe", "Datentypen", "Dateiformate" und "Datenqualität" aus Cluster „Arbeiten mit Daten“ die Themen der LZM[1]
 
-- Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)
+Weitere vertiefende Themen können sein...
 
-und aus Cluster „Arbeiten mit Daten“ die Themen der LZM[1]
-
-- Grundbegriffe
 - Datentypen
 - Datenformate
-- Dateitypen
-- Dateiformate
-- Datenqualität
+- Dateitypen.
 
 
-**Für Einheit 2 werden vorausgesetzt…**
+## Für Einheit 2 werden vorausgesetzt...
 
 aus Cluster „Arbeiten mit Daten“ die Themen und Lernziele der LZM[1] zu Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)
 
@@ -43,7 +39,7 @@ und zu Datenqualität
 - Grundlagen von Datenqualität benennen. (LZ-ID 0439)
 
 
-**In Einheit 2 können Teilnehmende…**
+## In Einheit 2 können Teilnehmende
 
 - eigene Forschungsdaten…
 - die Art (Datentypen) der eigenen Forschungsdaten…
@@ -57,7 +53,7 @@ benennen.[1]
 - Zusammenhang von Datenstruktur und Datenqualität…
 erläutern.[1]
 
-**Einheit 2 adressiert Lernziele der LZM**[1]
+## Einheit 2 adressiert Lernziele der LZM [1]
 
 aus Cluster 1 Grundlegende und übergreifende Konzepte des FDM zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
 
@@ -88,9 +84,10 @@ und zum Thema „Grundbegriffe“
 
 2.10. Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern. (LZ-ID 0202)
 
-**Methoden**
+## Methoden
 
 - zu 2.1 Beispiele für Forschungsdaten: Zuruf
 - zu 2.2 Datentypen: Kurzvortrag und Zwischenbilanz zu zweit
 - zu 2.3 Dateitypen: Kurzvortrag und Zuruf
 - zu 2.4-5 Datenformate: Kurzvortrag und Mini-Übung
+
