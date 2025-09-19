@@ -55,6 +55,8 @@ erläutern.[1]
 
 ## Einheit 2 adressiert Lernziele der LZM [1]
 
+>- (1.6) Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
+
 aus Cluster 1 Grundlegende und übergreifende Konzepte des FDM zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
 
 2.1. Beispiele für Forschungsdaten benennen. (LZ-ID 0008)
