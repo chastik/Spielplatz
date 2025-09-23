@@ -8,7 +8,7 @@ language: DE
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
-comment:  WissKi SODA OERs
+comment:  SODA OERs
 
 -->
 
@@ -34,12 +34,9 @@ comment:  WissKi SODA OERs
 1\.3 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
 
 
-
-
 >Original Lernziele LZM-FDM (v3, 2025)
 >
->aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“, "Personen und Rollen im Forschungsdatenmanagement (FDM)", "Forschungsdatenlebenszyklus." und Cluster 6 "Metakompetenzen".
-
+>aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ und Cluster 6 "Metakompetenzen".
 
 
 ## Einheit 1 hat vertiefende weiterführende Lernziele... 
@@ -56,22 +53,21 @@ comment:  WissKi SODA OERs
 
 ## Für Einheit 1 werden vorausgesetzt...
 
-- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
-- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. (LZM-ID: 01\_001\_0002) 
-- Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren. (LZM-ID: 01\_001\_0003)
-- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0004)
-- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. (LZM-ID: 01\_001\_0005)
-- Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren. (LZM-ID: 01\_001\_0006)
-- Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007)
-
+* Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0001)
+* Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. (LZM-ID: 01\_001\_0002) 
+* Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren. (LZM-ID: 01\_001\_0003)
+* Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (LZM-ID: 01\_001\_0004)
+* Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. (LZM-ID: 01\_001\_0005)
+* Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren. (LZM-ID: 01\_001\_0006)
+* Begriff „Forschungsdaten“ erläutern. (LZM-ID: 01\_001\_0007)
 
 ## Methoden
 
-- zu 1.1-3 Personen und Rollen: Steckbrief (Alternative Methoden: Blitzvorstellung, Standortbestimmung,...)
-- zu 1.4 Handlungsfelder im FDM: Stempeln
-- zu 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
-- zu 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
-- zu 1.7 Beratungsbedarfe: Erwartungsabfrage
+* zu 1.1-3 Personen und Rollen: Steckbrief (Alternative Methoden: Blitzvorstellung, Standortbestimmung,...)
+* zu 1.4 Handlungsfelder im FDM: Stempeln
+* zu 1.5 Maßnahmen entlang des FD-Zyklus: Stichwortsalat
+* zu 1.6 Forschungstätigkeit: Recherche zu Taxonomy of Digital Research Activities in the Humanities (TaDiRAH) [3].
+* zu 1.7 Beratungsbedarfe: Erwartungsabfrage
 
 
 

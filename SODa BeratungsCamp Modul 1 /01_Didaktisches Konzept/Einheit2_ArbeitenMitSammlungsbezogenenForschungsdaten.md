@@ -8,83 +8,71 @@ language: DE
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
-comment:  WissKi SODA OERs
+comment:  SODA OERs
 
 -->
 
-# SODa BeratungsCamp Modul 1 
+# SODa BeratungsCamp Modul 1  
+
+*Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
 
 *Einheit 2 - Arbeiten mit sammlungsbezogenen Forschungsdaten*
 
+
 ## Einheit 2 behandelt Themen...
 
-"Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)" aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1] 
-und "Grundbegriffe", "Datentypen", "Dateiformate" und "Datenqualität" aus Cluster „Arbeiten mit Daten“ die Themen der LZM[1]
+* Datentypen
+* Datenformate
+* Dateitypen.
 
-Weitere vertiefende Themen können sein...
-
-- Datentypen
-- Datenformate
-- Dateitypen.
-
-
-## Für Einheit 2 werden vorausgesetzt...
-
-aus Cluster „Arbeiten mit Daten“ die Themen und Lernziele der LZM[1] zu Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)
-
-- Unterschiede zwischen den Begriffen Datentypen, Datenformate, Dateitypen und Dateiformate benennen. (LZ-ID 0200)
-
-und zu Datenqualität
-
-- Grundlagen von Datenqualität benennen. (LZ-ID 0439)
-
-
-## In Einheit 2 können Teilnehmende
-
-- eigene Forschungsdaten…
-- die Art (Datentypen) der eigenen Forschungsdaten…
-- bevorzugte und standardisierte Dateitypen…
-- interoperable und maschinenlesbare Datenformate…
-- Dateiformate zur langfristigen Archivierung und Wiederverwendbarkeit…
-- den Unterschied zwischen proprietären und offenen Dateiformaten…
-benennen.[1]
-
-- Unterschied zwischen strukturierten Daten und unstrukturierten Daten…
-- Zusammenhang von Datenstruktur und Datenqualität…
-erläutern.[1]
 
 ## Einheit 2 adressiert Lernziele der LZM [1]
 
->- (1.6) Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
+2\.1  Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
 
-aus Cluster 1 Grundlegende und übergreifende Konzepte des FDM zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
+2\.2  Beispiele für Forschungsdaten benennen. (LZM-ID: 01\_001\_0008)
 
-2.1. Beispiele für Forschungsdaten benennen. (LZ-ID 0008)
+2\.3  Datentypen benennen. (LZM-ID: 02\_002\_0208) 
 
-aus Cluster 2 Arbeiten mit Daten zum Thema „Datentyp“
+2\.4  Dateiformate benennen. (LZM-ID: 02\_005\_0276) 
 
-2.2. Datentypen benennen, erläutern und analysieren. (LZ-ID 0206, 0207, 0209)
+erläutern. (LZM-ID: 02\_005\_0277) 
 
-und zum Thema „Dateityp“ 
+2\.5  Dateiformate für die Archivierung und Nachnutzung benennen. (LZM-ID: 02\_005\_0287) 
 
-2.3. Dateitypen benennen, erläutern und analysieren. (LZ-ID 0255, 0256, 0258)
-Thema „Datenformat“
+2\.6  Unterschied zwischen proprietären und offenen Dateiformaten benennen. (neu)
 
-2.4. Arten von Datenformaten benennen. (LZ-ID 0233)
+2\.7  Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern. (LZM-ID: 02\_001\_0204) 
 
-2.5. Kategorien von Datenformaten benennen. (LZ-ID 0234)
 
-2.6. Anwendungsbereiche von Datenformaten analysieren. (LZ-ID 0238)
+>Original Lernziele LZM-FDM (v3, 2025)
+>
+>aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ und Cluster 2 "Arbeiten mit Daten".
 
-und zum Thema „Dateiformat“
 
-2.7. Dateiformate benennen und erläutern. (LZ-ID 0277, 0278)
-2.8. Dateiformate für die Archivierung und Nachnutzung benennen. (LZ-ID 0285)
-2.9. Unterschied zwischen proprietären und offenen Dateiformaten benennen. (neu)
 
-und zum Thema „Grundbegriffe“
+## Einheit 1 hat vertiefende weiterführende Lernziele... 
 
-2.10. Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern. (LZ-ID 0202)
+2\.8  Dateitypen benennen, erläutern und analysieren. (LZ-ID 0255, 0256, 0258)
+
+2\.9  Arten von Datenformaten benennen. (LZ-ID 0233)
+
+2\.10  Kategorien von Datenformaten benennen. (LZ-ID 0234)
+
+2\.11  Anwendungsbereiche von Datenformaten analysieren. (LZ-ID 0238)
+
+2\.3  Datentypen erläutern. (LZM-ID: 02\_002\_0209)  
+
+2\.3  Datentypen analysieren. (LZM-ID: 02\_002\_0211) 
+
+2\.4  Dateiformate erläutern. (LZM-ID: 02\_005\_0277) 
+
+
+## Für Einheit 2 werden vorausgesetzt...todo
+
+* Unterschiede zwischen den Begriffen Datentypen, Datenformate, Dateitypen und Dateiformate benennen. (LZ-ID 0200)
+* Grundlagen von Datenqualität benennen. (LZ-ID 0439)
+
 
 ## Methoden
 
