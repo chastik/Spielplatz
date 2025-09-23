@@ -12,9 +12,9 @@ comment:  WissKi SODA OERs
 
 -->
 
-# Willkommen zu SODa OERs 
+# SODa BeratungsCamp Modul 1  
 
-*Modul 1 – Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
+*Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
 
 **Beschreibung**
 
