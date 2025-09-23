@@ -15,6 +15,7 @@ comment:  WissKi SODA OERs
 # SODa BeratungsCamp Modul 1  
 
 *Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
+
 *Einheit 1 - Kennenlernen*
 
 ## Einheit 1 behandelt Themen...
@@ -26,18 +27,18 @@ comment:  WissKi SODA OERs
 
 ## Einheit 1 adressiert Lernziele...
 
-1.1. Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+1.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
 
-1.4. Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+1.4 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
 
-1.5. Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
+1.5 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
 
 
->
+
 >Original Lernziele LZM-FDM (v3, 2025)
 >
 >aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“, "Personen und Rollen im Forschungsdatenmanagement (FDM)", "Forschungsdatenlebenszyklus." und Cluster 6 "Metakompetenzen".
->
+
 
 
 ## Einheit 1 hat vertiefende weiterführende Lernziele... 
