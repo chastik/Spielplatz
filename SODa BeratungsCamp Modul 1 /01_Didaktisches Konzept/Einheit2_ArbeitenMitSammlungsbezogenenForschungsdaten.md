@@ -21,12 +21,10 @@ comment:  SODA OERs
 
 ## Einheit 2 behandelt Themen...
 
-* Datentypen
-* Datenformate
-* Dateitypen.
+* Grundlagen und Unterschiede von Datenarten, -typen und -formaten.
 
 
-## Einheit 2 adressiert Lernziele der LZM [1]
+## Einheit 2 adressiert Lernziele der LZM 
 
 2\.1  Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
 
@@ -72,7 +70,6 @@ erläutern. (LZM-ID: 02\_005\_0277)
 
 * Unterschiede zwischen den Begriffen Datentypen, Datenformate, Dateitypen und Dateiformate benennen. (LZ-ID 0200)
 * Grundlagen von Datenqualität benennen. (LZ-ID 0439)
-
 
 ## Methoden
 
