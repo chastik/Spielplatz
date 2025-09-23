@@ -27,11 +27,9 @@ comment:  WissKi SODA OERs
 
 ## Einheit 1 adressiert Lernziele...
 
-1.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
-
-1.4 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
-
-1.5 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
+1\.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+1\.2 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+1\.3 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
 
 
 
@@ -44,11 +42,11 @@ comment:  WissKi SODA OERs
 
 ## Einheit 1 hat vertiefende weiterführende Lernziele... 
 
-2.1 Personen im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0032)
-2.2 Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0032 adaptiert)
-2.3 Handlungsfelder im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_001\_0010)
-2.4 Handlungsfelder im Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_001\_0010)
-2.5 Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZM-ID: 01\_003\_0033 adaptiert)
+1\.4 Personen im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0032)
+1\.5 Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_003\_0032 adaptiert)
+1\.6 Handlungsfelder im Forschungsdatenmanagement (FDM) benennen. (LZM-ID: 01\_001\_0010)
+1\.7 Handlungsfelder im Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_001\_0010)
+1\.8 Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZM-ID: 01\_003\_0033 adaptiert)
 
 ## Für Einheit 1 werden vorausgesetzt...
 
