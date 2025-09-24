@@ -63,9 +63,21 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 * Mangelnde **Versionierung** / Änderungsverfolgung
 
 **Problemfelder in der KuR**
+
 * Unzureichende **Kurationsdokumentation**
 * Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
 * Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
 * Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
 
 ### Beispiele für sammlungsspezifische Forschugsdaten
+
+„Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
+
+Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, die im Rahmen einer wissenschaftlichen Tätigkeit entstehen. Sie können sowohl Ausgangspunkt als auch Ergebnis eines Forschungsprozesses sein [2].
+
+Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten [3].
+
+Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
+
+>siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
+>
