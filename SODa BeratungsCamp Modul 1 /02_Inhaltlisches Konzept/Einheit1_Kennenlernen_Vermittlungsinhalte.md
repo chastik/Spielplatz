@@ -89,9 +89,26 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 ## Wer trägt Verantwortung im FDM?
 
-### Rollen und Zuständigkeiten klären
+Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. Verantwortung bedeutet hier nicht „eine Person macht alles“, sondern Rollen übernehmen, Zuständigkeiten abgrenzen und Zusammenarbeit organisieren.
 
-Verantwortlichkeiten im FDM erläutern (01_003_0038)
+* Typische Rollen im FDM (Beispiele):
+* Forschende / Projektleitende – tragen die Hauptverantwortung für den Umgang mit den eigenen Daten, von der Erhebung bis zur Publikation.
+* Data Stewards / FDM-Beauftragte – beraten, unterstützen bei Planung, Standards, Dokumentation.
+* IT & Infrastruktur – stellen Speicher, Backup, Zugriffsrechte und technische Dienste bereit.
+* Bibliotheken / Archive – sichern Daten, vergeben Persistente Identifier, garantieren Nachnutzung und Auffindbarkeit.
+* Förderinstitutionen – setzen Rahmenbedingungen durch Policies und Anforderungen an Datenmanagementpläne.
+
+👉 Wichtig: Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus.
+
+### Beispiel-Rollen und -Zuständigkeiten
+
+>**FDM-Mini-Speed-Dating**
+>
+>Die Teilnehmenden drehen sich zur Person neben.
+>Jede:r beantwortet in 30 Sekunden die Frage: 
+>*Welche Rolle trage ich selbst im Umgang mit Forschungsdaten?*
+>Nach 1 Minute tauschen die Paare kurz.
+>
 
 ## Was geschieht im Datenlebenszyklus?
 ### Maßnahmen und Schritte verstehen
