@@ -12,9 +12,11 @@ comment:  WissKi SODA OERs
 
 -->
 
-# SODa BeratungsCamp Modul 1
+# SODa BeratungsCamp Modul 1  
 
-### Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation
+*Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
+
+*Einheit 1 - Kennenlernen*
 
 von 
 
@@ -32,85 +34,37 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 
 Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
-## Allgemeine Beschreibung
 
-- Modultitel (mit Autorenangaben)
-- Zielsetzung
-- Einheiten und Lernziele
-- Format, Gestaltungsprinzip, Dauer
-- Lizenz
-- Zuständigkeit
+## Warum ist Forschungsdatenmanagement unverzichtbar 
 
-
-### Zielsetzung
-
-...
-
-**In dieser Einheit lernen Teilnehmende…**
-
-* ...
-
-**Diese Einheit behandelt Themen…**
-
-* ...
-
-**Für diese Einheit werden vorausgesetzt…**
-
-aus Cluster „xxx“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie
-
-* ...
-
-
-### Einheiten und Lernziele
-
-**Diese Einheit adressiert Lernziele**
-
-aus Cluster „Dokumentation und Metadaten“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu Taxonomie und Vokabulare
-
-1.1. Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0038)
-
-1.2. Personen im projektspezifischen Forschungsdatenmanagement (FDM) benennen. (LZ-ID 0032a)
-
-1.3. Funktionen und Verantwortlichkeiten von projektspezifischen FDM-Personen erläutern. (LZ-ID 0033a)
-
-
-zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
-
-1.4. Handlungsfelder im Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 0010)
-
-
-zum Thema „Forschungsdatenlebenszyklus“ 
-
-1.5. Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 0082)
-
-1.6. Eigene Forschungstätigkeit (Aktivität basierend auf TaDiRAH) benennen. (neu)
-
-
-aus Cluster 6 Querschnittsthemen zum Thema „Beratung“
-
-1.7. Beratungsbedarfe analysieren. (LZ-ID 1117)
-
-### Format, Gestaltungsprinzip und Dauer
-
-### Lizenz
-
-### Zuständigkeit
-
-
-## Inhalts-Bricks
-
-Jeder Brick entspricht einem Lernziel:
-
-__Beispiele__
-
-- Eigene Verantwortlichkeiten - eine Blitzvorstellung
-- Das eigene projektspezifische FDM - eine Standortbestimmung
-- Funktionen und Verantwortlichkeiten ein Steckbrief
-- Handlungsfelder wählen
-- Maßnahmen entlang des Forschungsdatenlebenszyklus priorisieren
-- Eigene Forschungsaktivität bestimmen
-- Beratungsbedarfe - eine Erwartungsabfrage
+### Beispiel Forum Wissen 
 
 
 
-## Vertiefung
+Das Walskelett, das über dem Museumscafé im Forum Wissen schwebt, zählt zu den eindrucksvollsten Objekten des Hauses. Mit seiner Größe und Präsenz ist es zugleich Publikumsmagnet und Prestigeobjekt. Doch das fragile Knochengerüst ist nicht nur mehrfach umgezogen, sondern auch dauerhaft wechselnden Umgebungsbedingungen ausgesetzt – von Luftfeuchte und Staub über Temperaturschwankungen bis hin zu Vibrationen durch Besucher*innenbewegungen. Eine kontinuierliche Konservierung und sorgfältige Pflege sind daher unverzichtbar.
+
+Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlungen unter einem Dach und macht bereits mehr als 70.000 digitalisierte Objekte online zugänglich. Es verbindet Forschung, Lehre, Sammlung und Vermittlung. Doch in der Praxis zeigen sich auch die Schattenseiten: verlorene Informationen, unklare Zuständigkeiten, schwer auffindbare oder gar unzugängliche Daten, die weder nachvollziehbar noch nutzbar sind. Solche Beispiele machen deutlich, dass es im Sammlungsalltag zahlreiche „Scary Tales“ gibt – viele davon wären und sind mit konsequentem Forschungsdatenmanagement vermeidbar.
+
+### Problemhorizont Sammlungsbestände
+
+**Generische Problemfelder (fachübergreifend relevant)**
+- Unklare oder fehlende **Provenienzdaten**
+- Fragmentarische **Dokumentation**
+- **Datenverlust** / Aktenvernichtung
+- Inkonsistente **Metadaten** / uneinheitliche Terminologie
+- Fehlende **Verknüpfungen** zwischen Daten/Objekten
+- **Datenschutz** & Umgang mit sensiblen Daten
+- Unstandardisierte **Digitalisierung**
+- Fehlende **Nachnutzungsperspektive**
+- Verlust von **Kontextinformationen**
+- Inkonsistente **Formate & Dateiformate**
+- **Probleme bei Langzeitarchivierung** & Migration
+- Mangelnde **Versionierung** / Änderungsverfolgung
+
+**Problemfelder in der KuR**
+- Unzureichende **Kurationsdokumentation**
+- Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
+- Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
+- Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
+
+### Beispiele für sammlungsspezifische Forschugsdaten
