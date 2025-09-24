@@ -48,23 +48,24 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 ### Problemhorizont Sammlungsbestände
 
 **Generische Problemfelder (fachübergreifend relevant)**
-- Unklare oder fehlende **Provenienzdaten**
-- Fragmentarische **Dokumentation**
-- **Datenverlust** / Aktenvernichtung
-- Inkonsistente **Metadaten** / uneinheitliche Terminologie
-- Fehlende **Verknüpfungen** zwischen Daten/Objekten
-- **Datenschutz** & Umgang mit sensiblen Daten
-- Unstandardisierte **Digitalisierung**
-- Fehlende **Nachnutzungsperspektive**
-- Verlust von **Kontextinformationen**
-- Inkonsistente **Formate & Dateiformate**
-- **Probleme bei Langzeitarchivierung** & Migration
-- Mangelnde **Versionierung** / Änderungsverfolgung
+
+* Unklare oder fehlende **Provenienzdaten**
+* Fragmentarische **Dokumentation**
+* **Datenverlust** / Aktenvernichtung
+* Inkonsistente **Metadaten** / uneinheitliche Terminologie
+* Fehlende **Verknüpfungen** zwischen Daten/Objekten
+* **Datenschutz** & Umgang mit sensiblen Daten
+* Unstandardisierte **Digitalisierung**
+* Fehlende **Nachnutzungsperspektive**
+* Verlust von **Kontextinformationen**
+* Inkonsistente **Formate & Dateiformate**
+* **Probleme bei Langzeitarchivierung** & Migration
+* Mangelnde **Versionierung** / Änderungsverfolgung
 
 **Problemfelder in der KuR**
-- Unzureichende **Kurationsdokumentation**
-- Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
-- Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
-- Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
+* Unzureichende **Kurationsdokumentation**
+* Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
+* Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
+* Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
 
 ### Beispiele für sammlungsspezifische Forschugsdaten
