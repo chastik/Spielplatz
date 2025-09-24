@@ -35,9 +35,9 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 
-## Warum ist Forschungsdatenmanagement unverzichtbar?
+## Warum ist FDM unverzichtbar?
 
-### Beispiel Forum Wissen 
+### Beispiel Forum Wissen
 
 !?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
@@ -45,7 +45,7 @@ Das Walskelett, das über dem Museumscafé im Forum Wissen schwebt, zählt zu de
 
 Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlungen unter einem Dach und macht bereits mehr als 70.000 digitalisierte Objekte online zugänglich. Es verbindet Forschung, Lehre, Sammlung und Vermittlung. Doch in der Praxis zeigen sich auch die Schattenseiten: verlorene Informationen, unklare Zuständigkeiten, schwer auffindbare oder gar unzugängliche Daten, die weder nachvollziehbar noch nutzbar sind. Solche Beispiele machen deutlich, dass es im Sammlungsalltag zahlreiche „Scary Tales“ gibt – viele davon wären und sind mit konsequentem Forschungsdatenmanagement vermeidbar.
 
-### Problemhorizont Sammlungsbestände
+### Welche Problemfelder begegnen uns?
 
 * Unklare oder fehlende **Provenienzdaten**
 * Fragmentarische **Dokumentation**
@@ -71,31 +71,38 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 
 ## Was sind Forschungsdaten?
 
-### Beispiele für sammlungsspezifische Forschungsdaten
-
 „Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
 
 Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, die im Rahmen einer wissenschaftlichen Tätigkeit entstehen. Sie können sowohl Ausgangspunkt als auch Ergebnis eines Forschungsprozesses sein [2].
 
 Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten [3].
 
+### Beispiele für sammlungsspezifische Forschungsdaten
+
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
 
+>Die Foschungsdaten-Schatzkiste
+>Notiert 3 Beispiele für Forschungsdaten (analog, digital, Metadatum) aus dem eigenen Arbeitskontext auf Moderationskarten und pinnt diese an das Flipchart.
+
+## Wer trägt Verantwortung im FDM?
+
+### Rollen und Zuständigkeiten klären
+
+Verantwortlichkeiten im FDM erläutern (01_003_0038)
+
+## Was geschieht im Datenlebenszyklus?
+### Maßnahmen und Schritte verstehen
+Maßnahmen im FD-Lebenszyklus benennen (01_005_0082)
+
+
+## Welche Bedarfe haben wir?
+### Eigene Rolle und Kompetenzen reflektieren
+
+
+
+
+## Quellen
 
 
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
 >
-
-
-
-## Wer sind wir?
-
-### Verantwortlichkeiten im FDM erläutern (01_003_0038)
-
-## Was tun wir? 
-
-### Maßnahmen im FD-Lebenszyklus benennen (01_005_0082)
-
-## Welche Bedarfe haben wir?
-
-### Eigene Rolle im FDM reflektieren (neu, vereinfachend statt „Beratungsbedarfe analysieren“)
