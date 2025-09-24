@@ -14,9 +14,9 @@ comment:  WissKi SODA OERs
 
 # SODa BeratungsCamp Modul 1  
 
-*Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept*
+**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept**
 
-*Einheit 1 - Kennenlernen*
+**Einheit 1 - Kennenlernen**
 
 von 
 
@@ -35,7 +35,7 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 
-## Warum ist Forschungsdatenmanagement unverzichtbar 
+## Warum ist Forschungsdatenmanagement unverzichtbar?
 
 ### Beispiel Forum Wissen 
 
@@ -71,7 +71,9 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 * Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
 * ...
 
-### Beispiele für sammlungsspezifische Forschugsdaten
+## Was sind Forschungsdaten?
+
+### Beispiele für sammlungsspezifische Forschungsdaten
 
 „Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
 
@@ -88,8 +90,14 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 
 
-## Verantwortlichkeiten im FDM erläutern (01_003_0038)
+## Wer sind wir?
 
-## Maßnahmen im FD-Lebenszyklus benennen (01_005_0082)
+### Verantwortlichkeiten im FDM erläutern (01_003_0038)
 
-## Eigene Rolle im FDM reflektieren (neu, vereinfachend statt „Beratungsbedarfe analysieren“)
+## Was tun wir? 
+
+### Maßnahmen im FD-Lebenszyklus benennen (01_005_0082)
+
+## Welche Bedarfe haben wir?
+
+### Eigene Rolle im FDM reflektieren (neu, vereinfachend statt „Beratungsbedarfe analysieren“)
