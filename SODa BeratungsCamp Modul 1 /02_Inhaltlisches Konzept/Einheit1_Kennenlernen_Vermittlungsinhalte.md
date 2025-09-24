@@ -81,7 +81,8 @@ Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informatione
 
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
 
->Die Foschungsdaten-Schatzkiste
+>**Die Foschungsdaten-Schatzkiste**
+>
 >Notiert 3 Beispiele für Forschungsdaten (analog, digital, Metadatum) aus dem eigenen Arbeitskontext auf Moderationskarten und pinnt diese an das Flipchart.
 
 ## Wer trägt Verantwortung im FDM?
