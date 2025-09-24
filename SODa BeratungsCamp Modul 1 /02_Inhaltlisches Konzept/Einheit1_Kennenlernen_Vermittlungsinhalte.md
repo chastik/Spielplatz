@@ -61,6 +61,7 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 * Inkonsistente **Formate & Dateiformate**
 * **Probleme bei Langzeitarchivierung** & Migration
 * Mangelnde **Versionierung** / Änderungsverfolgung
+* ...
 
 **Problemfelder in der KuR**
 
@@ -68,6 +69,7 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 * Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
 * Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
 * Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
+* ...
 
 ### Beispiele für sammlungsspezifische Forschugsdaten
 
@@ -79,5 +81,15 @@ Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informatione
 
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten.
 
+
+
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
 >
+
+
+
+## Verantwortlichkeiten im FDM erläutern (01_003_0038)
+
+## Maßnahmen im FD-Lebenszyklus benennen (01_005_0082)
+
+## Eigene Rolle im FDM reflektieren (neu, vereinfachend statt „Beratungsbedarfe analysieren“)
