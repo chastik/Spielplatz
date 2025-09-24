@@ -116,15 +116,44 @@ Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:inne
 >Nach 1 Minute tauschen die Paare kurz.
 
 
-## Was geschieht im Datenlebenszyklus?
-### Maßnahmen und Schritte verstehen
-Maßnahmen im FD-Lebenszyklus benennen (01_005_0082)
+## Welche Phasen hat Datenlebenszyklus von Sammlungs- und Objektdaten in SODa?
+
+* Konzeption & Planung von Erschließungs- und Digitalisierungsvorhaben (Management & Tools)
+* Strukturiertes Erzeugen von Objekt- und Sammlungsdaten
+* Datenqualität & Kompatibilität (Standards; Persistent Identifiers; Linked Data; Graphen)
+* Inhaltliche Aufbereitung & Anreicherung von Daten
+* Rechtliche & ethische Aspekte
+* Langzeitverfügbarkeit (nach FAIR-Prinzipien)
+
+### Beispiel-Maßnahmen verstehen
+
+>**Card-Sorting**
+>
+>Moderationskarten mit Maßnahmen dem SODa Datenlebenszyklus zuordnen.
+>
+>SODa Datenlebenszyklus prüfen. Was fehlt?
 
 
 ## Welche Bedarfe haben wir?
+
+Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus konkreten Situationen:
+
+* Objekte sichern: Dokumentation von Zustand, Behandlungen, Montagen.
+* Transparenz schaffen: Klare Verantwortlichkeiten und Rollen.
+* Nachnutzbarkeit sichern: Datenformate, Standards, Metadaten.
+* Nachhaltigkeit gewährleisten: Langzeitarchivierung, Versionierung, Migration.
+
 ### Eigene Rolle und Kompetenzen reflektieren
 
-
+>**Think-Pair-Share**
+>
+>Wo sehe ich meinen größten Unterstützungsbedarf?
+>
+>Think: 2–3 Min. individuelle Notizen
+>
+>Pair: 3–4 Min. Austausch in Kleingruppen (2–3 Personen)
+>
+>Share (optional): 1–2 Stimmen im Plenum für zentrale Beobachtungen
 
 
 ## Quellen
