@@ -47,29 +47,21 @@ Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlu
 
 ### Problemhorizont Sammlungsbestände
 
-**Generische Problemfelder (fachübergreifend relevant)**
-
-* Unklare oder fehlende **Provenienzdaten**
-* Fragmentarische **Dokumentation**
-* **Datenverlust** / Aktenvernichtung
-* Inkonsistente **Metadaten** / uneinheitliche Terminologie
-* Fehlende **Verknüpfungen** zwischen Daten/Objekten
-* **Datenschutz** & Umgang mit sensiblen Daten
-* Unstandardisierte **Digitalisierung**
-* Fehlende **Nachnutzungsperspektive**
-* Verlust von **Kontextinformationen**
-* Inkonsistente **Formate & Dateiformate**
-* **Probleme bei Langzeitarchivierung** & Migration
-* Mangelnde **Versionierung** / Änderungsverfolgung
-* ...
-
-**Problemfelder in der KuR**
-
-* Unzureichende **Kurationsdokumentation**
-* Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten**
-* Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** während Auslagerung (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen)
-* Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten)
-* ...
+| **Generische Problemfelder (fachübergreifend relevant)** | **Problemfelder in der KuR** |
+|----------------------------------------------------------|-------------------------------|
+| Unklare oder fehlende **Provenienzdaten** | Unzureichende **Kurationsdokumentation** |
+| Fragmentarische **Dokumentation** | Unvollständige Dokumentation von **Behandlungen / Reinigungsschritten** |
+| **Datenverlust** / Aktenvernichtung | Unsachgemäße **Lagerung** oder unzureichende **Umgebungsbedingungen** (z. B. Luftfeuchte, Temperaturschwankungen, Vibrationen) |
+| Inkonsistente **Metadaten** / uneinheitliche Terminologie | Fehlende Dokumentation der **Montagestruktur / Konstruktion** (z. B. bei Skeletten, Objekten) |
+| Fehlende **Verknüpfungen** zwischen Daten/Objekten | … |
+| **Datenschutz** & Umgang mit sensiblen Daten |   |
+| Unstandardisierte **Digitalisierung** |   |
+| Fehlende **Nachnutzungsperspektive** |   |
+| Verlust von **Kontextinformationen** |   |
+| Inkonsistente **Formate & Dateiformate** |   |
+| **Probleme bei Langzeitarchivierung** & Migration |   |
+| Mangelnde **Versionierung** / Änderungsverfolgung |   |
+| … 
 
 ## Was sind Forschungsdaten?
 
