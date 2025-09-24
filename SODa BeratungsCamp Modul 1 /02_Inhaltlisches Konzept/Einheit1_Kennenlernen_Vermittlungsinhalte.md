@@ -83,7 +83,9 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 >**Die Foschungsdaten-Schatzkiste**
 >
->Notiert 3 Beispiele für Forschungsdaten (analog, digital, Metadatum) aus dem eigenen Arbeitskontext auf Moderationskarten und pinnt diese an das Flipchart.
+>Benennt 3 Beispiele für Forschungsdaten (analog, digital, Metadatum) aus dem eigenen Arbeitskontext.
+>Notiert diese auf Moderationskarten. 
+>Pinnt diese Moderationskarten an das Flipchart.
 
 ## Wer trägt Verantwortung im FDM?
 
