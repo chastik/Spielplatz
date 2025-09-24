@@ -39,7 +39,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ### Beispiel Forum Wissen 
 
-
+!?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
 Das Walskelett, das über dem Museumscafé im Forum Wissen schwebt, zählt zu den eindrucksvollsten Objekten des Hauses. Mit seiner Größe und Präsenz ist es zugleich Publikumsmagnet und Prestigeobjekt. Doch das fragile Knochengerüst ist nicht nur mehrfach umgezogen, sondern auch dauerhaft wechselnden Umgebungsbedingungen ausgesetzt – von Luftfeuchte und Staub über Temperaturschwankungen bis hin zu Vibrationen durch Besucher*innenbewegungen. Eine kontinuierliche Konservierung und sorgfältige Pflege sind daher unverzichtbar.
 
