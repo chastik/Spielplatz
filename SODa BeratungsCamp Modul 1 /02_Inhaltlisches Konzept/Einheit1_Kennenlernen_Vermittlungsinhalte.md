@@ -84,7 +84,9 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 >**Die Foschungsdaten-Schatzkiste**
 >
 >Benennt 3 Beispiele für Forschungsdaten (analog, digital, Metadatum) aus dem eigenen Arbeitskontext.
+>
 >Notiert diese auf Moderationskarten. 
+>
 >Pinnt diese Moderationskarten an das Flipchart.
 
 ## Wer trägt Verantwortung im FDM?
@@ -98,15 +100,18 @@ Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:inne
 * Bibliotheken / Archive – sichern Daten, vergeben Persistente Identifier, garantieren Nachnutzung und Auffindbarkeit.
 * Förderinstitutionen – setzen Rahmenbedingungen durch Policies und Anforderungen an Datenmanagementpläne.
 
-👉 Wichtig: Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus.
+**Wichtig: Verantwortung ist geteilte Verantwortung, und sie verändert sich entlang des Datenlebenszyklus.**
 
 ### Beispiel-Rollen und -Zuständigkeiten
 
 >**FDM-Mini-Speed-Dating**
 >
 >Die Teilnehmenden drehen sich zur Person neben.
+>
 >Jede:r beantwortet in 30 Sekunden die Frage: 
+>
 >*Welche Rolle trage ich selbst im Umgang mit Forschungsdaten?*
+>
 >Nach 1 Minute tauschen die Paare kurz.
 >
 
