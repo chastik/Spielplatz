@@ -34,6 +34,17 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 
 Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
+---
+
+## Themen und Lernziele
+
+**Themen:**
+- ..
+
+**Adressierte Lernziele der LZM (Auswahl):**
+- ...
+
+---
 
 ## Was sind Forschungsdaten?
 
