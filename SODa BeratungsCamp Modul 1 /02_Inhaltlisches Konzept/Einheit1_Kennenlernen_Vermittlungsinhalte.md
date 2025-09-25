@@ -42,7 +42,9 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 - ..
 
 **Adressierte Lernziele der LZM (Auswahl):**
-- ...
+- 1\.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+- 1\.2 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+- 1\.3 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
 
 ---
 
