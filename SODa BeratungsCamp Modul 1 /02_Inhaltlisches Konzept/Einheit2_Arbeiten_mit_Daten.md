@@ -2,7 +2,7 @@
 
 author: Gudrun Schwenk und Canan Hastik  
 email:    
-version:  v1
+version:  v1.2
 language: DE
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
@@ -18,11 +18,11 @@ comment:  SODA OERs
 
 **Einheit 2 – Arbeiten mit sammlungsbezogenen Forschungsdaten**  
 
-von  Canan Hastik
+von  
 
 Fachexpertise Analyse strukturierter Daten und Graphen  
 
-und  Gudrun Schwenk
+und  
 
 Fachexpertise Restaurierung und Konservierung  
 
@@ -31,94 +31,71 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ---
 
-## Welche Datenarten begegnen uns?
+## Themen und Lernziele
 
-Forschungsdaten in der Konservierung und Restaurierung sind vielfältig. Sie lassen sich nach Struktur, Typ und Format unterscheiden:  
+**Themen:**
+- Unterschiede von Datenarten, -typen und -formaten.  
+- Bedeutung von offenen vs. proprietären Formaten.  
+- Relevanz für Archivierung und Nachnutzung.  
 
-- **Struktur**: strukturierte, semi-strukturierte und unstrukturierte Daten  
-- **Typ**: Text, Bild, Audio, Video, Messwerte, 3D-Modelle, Metadaten  
-- **Format**: spezifische Dateiendungen wie `.csv`, `.tiff`, `.wav`, `.pdf`  
-
-> **Mini-Übung – Zuruf:**  
-> Jede:r nennt spontan ein Beispiel aus dem eigenen Arbeitskontext.  
-> Moderation sammelt die Beispiele sichtbar an der Tafel.  
-
----
-
-## Datentypen verstehen
-
-Datentypen sind grundlegende Kategorien zur Klassifizierung von Daten, etwa:  
-
-- **Numerisch** (Ganzzahlen, Fließkommazahlen)  
-- **Textuell** (Zeichenketten, kontrollierte Vokabulare)  
-- **Zeitlich** (Datum, Zeitangaben)  
-- **Boolesch** (ja/nein, wahr/falsch)  
-
-Diese Grundtypen finden sich auch in Formaten für Sammlungs- und Objektdaten wieder, z. B. in **Datenbanken**, **Tabellen**, **XML** oder **JSON**.  
-
-> **Partner-Reflexion:**  
-> Welche Datentypen nutze ich in meiner Arbeit am häufigsten?  
+**Adressierte Lernziele der LZM (Auswahl):**
+- 2.2 Beispiele für Forschungsdaten benennen (01_001_0008).  
+- 2.3 Datentypen benennen (02_002_0208).  
+- 2.4 Dateiformate benennen (02_005_0276).  
+- 2.5 Archivierungs- und Nachnutzungsformate benennen (02_005_0287).  
+- 2.6 Unterschied zwischen proprietären und offenen Formaten (neu).  
+- 2.7 Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern (02_001_0204).  
 
 ---
 
-## Dateitypen und Dateiformate unterscheiden
+## Inhalte
 
-**Dateitypen** bezeichnen die Art einer Datei (z. B. Textdatei, Bilddatei, Audiofile).  
-**Dateiformate** spezifizieren die konkrete technische Umsetzung (z. B. `.txt`, `.docx`, `.tiff`, `.mp3`).  
+### Datenarten in der KuR
+- **Strukturiert:** Tabellen, Datenbanken (z. B. CSV).  
+- **Semi-strukturiert:** XML, JSON, Metadatenfelder.  
+- **Unstrukturiert:** Scans, Freitext, Fotos.  
 
-* Unterschiedliche Formate können denselben Typ bedienen.  
-* Manche Formate sind **proprietär** (z. B. `.docx`), andere **offen** (z. B. `.odt`).  
-
-> **Zuruf-Übung:**  
-> Nenne ein typisches Dateiformat, mit dem du arbeitest.  
-
----
-
-## Formate für Archivierung und Nachnutzung
-
-Für die Langzeitarchivierung und Nachnutzung sind offene, dokumentierte und standardisierte Formate zu bevorzugen.  
-
-**Beispiele:**  
-- Text: `.txt`, `.xml`, `.odt`  
-- Bilder: `.tiff`, `.png` (statt `.jpg`)  
-- Tabellen: `.csv` (statt `.xls`)  
-- Audio: `.wav` (statt `.mp3`)  
-
-> **Mini-Übung:**  
-> Ordne ein Format aus deinem Arbeitsalltag einer der Kategorien „gut für Archivierung“ oder „problematisch für Nachnutzung“ zu.  
+> **Zuruf-Übung (3 Min.):**  
+> Jede:r nennt ein Beispiel für Forschungsdaten aus dem eigenen Arbeitskontext.  
 
 ---
 
-## Strukturierte, unstrukturierte, semi-strukturierte Daten
+### Datentypen und Formate
+- **Datentypen:** numerisch, textuell, zeitlich, boolesch.  
+- **Dateiformate:** `.csv`, `.tiff`, `.wav`, `.odt`, …  
+- **Offene Formate:** dokumentiert, standardisiert, langfristig nutzbar.  
+- **Proprietäre Formate:** eingeschränkt nutzbar, an Software gebunden.  
 
-- **Strukturiert:** klare Tabellen- oder Datenbankschemata (z. B. Inventarlisten, CSV-Dateien).  
-- **Unstrukturiert:** Daten ohne feste Ordnung (z. B. freie Textfelder, Scans).  
-- **Semi-strukturiert:** Mischformen (z. B. XML, JSON, Metadatenfelder in Dokumenten).  
-
-Diese Unterscheidung ist zentral für die **Analysefähigkeit**, die **Verknüpfung** und die **Nachnutzung** von Sammlungsdaten.  
-
-> **Think-Pair-Share:**  
-> Wo habe ich im Alltag mit semi-strukturierten Daten zu tun?  
-> (z. B. Metadaten in Fotos, Archivdatenbanken, XML-Exporten)  
+> **Mini-Übung (6 Min.):**  
+> Ordne ein Format aus deinem Arbeitsalltag der Kategorie „gut für Archivierung“ oder „problematisch für Nachnutzung“ zu.  
 
 ---
 
-## Transfer: Warum ist diese Unterscheidung wichtig?
+### Transfer
+Warum ist die Unterscheidung wichtig?  
+- Archivierung: richtige Formate sichern Langzeitverfügbarkeit.  
+- Interoperabilität: offene Standards erleichtern Austausch.  
+- Analyse: strukturierte Daten sind maschinenlesbar.  
 
-- Für **Dokumentation** und **Archivierung**: richtige Formate sichern Langzeitverfügbarkeit.  
-- Für **Interoperabilität**: offene Standards erleichtern Datenaustausch.  
-- Für **Analyse und Visualisierung**: strukturierte Daten sind besser maschinenlesbar.  
-- Für **Sammlungsforschung**: nur so lassen sich Objekte kontextualisieren und rekonstruieren.  
+> **Kurz-Austausch (4 Min.):**  
+> Think-Pair-Share: Wo nutze ich proprietäre Formate? Welche Risiken sehe ich?  
 
 ---
 
-## Methodenübersicht (Einheit 2)
+## Ablauf (20 Minuten)
 
-- **Beispiele für Forschungsdaten**: Zuruf  
-- **Datentypen**: Kurzvortrag + Partner-Reflexion  
-- **Dateitypen**: Kurzvortrag + Zuruf  
-- **Dateiformate (inkl. Archivierung/Nachnutzung)**: Kurzvortrag + Mini-Übung  
-- **Strukturierte/unstrukturierte/semi-strukturierte Daten**: Kurzvortrag + Think-Pair-Share  
+- 2 Min. Einführung & Zielsetzung  
+- 6 Min. Input: Datenarten & Formate  
+- 8 Min. Übung: Zuruf + Mini-Übung  
+- 4 Min. Austausch & Abschluss  
+
+---
+
+## Methodenübersicht
+
+- **Zuruf**: Beispiele für Forschungsdaten sammeln.  
+- **Mini-Übung**: Archivierungsformate vs. problematische Formate.  
+- **Think-Pair-Share**: Reflexion zu offenen vs. proprietären Formaten.  
 
 ---
 
