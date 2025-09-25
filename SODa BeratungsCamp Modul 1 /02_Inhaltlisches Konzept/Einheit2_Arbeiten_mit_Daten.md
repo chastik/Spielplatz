@@ -48,56 +48,48 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ---
 
-## Inhalte
+## Datenarten in der KuR
 
-### Datenarten in der KuR
 - **Strukturiert:** Tabellen, Datenbanken (z. B. CSV).  
 - **Semi-strukturiert:** XML, JSON, Metadatenfelder.  
 - **Unstrukturiert:** Scans, Freitext, Fotos.  
 
-> **Zuruf-Übung (3 Min.):**  
+### Beispiel..
+
+> **Zuruf** 
+> 
 > Jede:r nennt ein Beispiel für Forschungsdaten aus dem eigenen Arbeitskontext.  
 
 ---
 
-### Datentypen und Formate
+## Datentypen und Formate
+
 - **Datentypen:** numerisch, textuell, zeitlich, boolesch.  
 - **Dateiformate:** `.csv`, `.tiff`, `.wav`, `.odt`, …  
 - **Offene Formate:** dokumentiert, standardisiert, langfristig nutzbar.  
 - **Proprietäre Formate:** eingeschränkt nutzbar, an Software gebunden.  
 
-> **Mini-Übung (6 Min.):**  
+### Beispiel-Sammlungsformate
+
+> **Stichwortsalat:**  
+>
 > Ordne ein Format aus deinem Arbeitsalltag der Kategorie „gut für Archivierung“ oder „problematisch für Nachnutzung“ zu.  
 
 ---
 
-### Transfer
+## Transfer
+
 Warum ist die Unterscheidung wichtig?  
 - Archivierung: richtige Formate sichern Langzeitverfügbarkeit.  
 - Interoperabilität: offene Standards erleichtern Austausch.  
 - Analyse: strukturierte Daten sind maschinenlesbar.  
 
-> **Kurz-Austausch (4 Min.):**  
-> Think-Pair-Share: Wo nutze ich proprietäre Formate? Welche Risiken sehe ich?  
+### Beispiel Risiko Tandem
 
----
+> **Think-Pair-Share:**  
+>
+> Wo nutze ich proprietäre Formate? Welche Risiken sehe ich?  
 
-## Ablauf (20 Minuten)
-
-- 2 Min. Einführung & Zielsetzung  
-- 6 Min. Input: Datenarten & Formate  
-- 8 Min. Übung: Zuruf + Mini-Übung  
-- 4 Min. Austausch & Abschluss  
-
----
-
-## Methodenübersicht
-
-- **Zuruf**: Beispiele für Forschungsdaten sammeln.  
-- **Mini-Übung**: Archivierungsformate vs. problematische Formate.  
-- **Think-Pair-Share**: Reflexion zu offenen vs. proprietären Formaten.  
-
----
 
 ## Quellen
 
