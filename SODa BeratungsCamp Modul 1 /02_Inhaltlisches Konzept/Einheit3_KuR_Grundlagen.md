@@ -52,65 +52,92 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ---
 
-## Grundlagen und Rollen
+## Dokumentation und Forschungsdatenmanagement: Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
 
-Konservator*innen und Restaurator*innen übernehmen im Forschungsdatenmanagement (FDM) wichtige Rollen:  
-- Verantwortung für die sachgerechte Durchführung von Maßnahmen.  
-- Dokumentation von Zuständen, Materialien und Methoden.  
-- Beitrag zu Standards, Nachvollziehbarkeit und Nachnutzung.  
+**Tipp**
+Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservator*innen und Restaurator*innen finden sich auf der Homepage des Verbandes der Restauratoren unter: (https://www.restauratoren.de/beruf/grundsatzpapiere/)
 
-### Beispiel-Methode: Dokumentations-Impulse  
+### Die grundlegende Rolle von Konservator*innen und Restaurator*innen 
+in den Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), abrufbar unter: 
 
-> **Dokumentations-Impulse**  
+"die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
+
+### Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen 
+
+Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
+
+### Die Verantwortungsbereiche von Konservator*innen und Restaurator*innen
+in den Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), abrufbar unter: 
+
+- Ausführung von strategischer Planungen und diagnostischer Untersuchungen
+- Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
+- präventive Konservierung
+- Konservierung-Restaurierung
+- Dokumentation
+- Beobachtung jeglicher Eingriffe
+
+> **Zuruf**
 >
-> Welche Grundsatzpapiere prägen die Rolle der KuR-Fachpersonen im Umgang mit Dokumentation und FDM?  
+> Welche Verantwortungsbereiche erfordern eine präzise Dokumentation
 
----
+## Konservierungs- und Restaurierungsdokumentation
 
-## Inhalte einer KuR-Dokumentation
+### Der Prozess der Konservierung-Restaurierung
+Quelle: Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.)
+(Seite 19-22), detaillierte Version abrufbar unter: 
 
-- Beschreibung des Objekts.  
-- Zustandsbeschreibung.  
-- Dokumentation der Maßnahmen (präventiv, konservatorisch, restauratorisch).  
-- Genutzte Materialien, Methoden, Geräte.  
-- Verantwortlichkeiten und Zeitpunkte.  
+**Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen:**
+**Phase 1:** Untersuchung und Diagnose (führt zu)
+**Phase 2:** Feststellen des Bedarfs (ermöglicht)
+**Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)
+**Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)
+**Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)
+**Phase 6:** Resultaten (gefolgt von)
+**Phase 7:** abschließende Empfehlungen
 
-### Beispiel-Methode: Dokumentations-Schnappschuss  
+**Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen. FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
 
-> **Dokumentations-Schnappschuss**  
+> **Abfrage**
 >
-> Welche Inhalte gehören in eine KuR-Dokumentation? Welche fehlen oft in der Praxis?  
+> Gibt es in Ihrem Tätigkeitsbereich Workflows für Konservierungs- und Restaurierungsprozesse und für eine strukturierte Dokumentation?
 
----
+### Inhalte einer Konservierungs- und Restaurierungsdokumentation
+in Berufsrichtlinien I der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), Seite 2, abrufbar unter: 
 
-## Arten von Maßnahmen
+"Die Dokumentation besteht aus genauen bildlichen und schriftlichen Aufzeichnungen aller ausgeführten Maßnahmen sowie deren Begründung. (...) Weitere Anforderungen an die Lagerung, Pflege, Ausstellung oder den Zugang zum kulturellen Eigentum sollen in diesem Dokument präzisiert werden."
 
-- **Präventive Konservierung:** Schutz durch Rahmenbedingungen, z. B. Klima, Licht, Verpackung.  
-- **Konservatorische Maßnahmen:** Substanzerhaltung, z. B. Reinigung, Stabilisierung.  
-- **Restauratorische Maßnahmen:** Wiederherstellung, z. B. Ergänzungen, Retuschen.  
+### Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen
+- Diagnostische Untersuchung
+- präventive Konservierung
+- Konservierung
+- Restaurierung
 
-### Beispiel-Methode: Maßnahmenpäckchen  
-
-> **Maßnahmenpäckchen**  
+> **Maßnahmenpäckchen | Drehen und Wenden**
 >
-> Ordnet typische Beispiele den drei Kategorien (präventiv, konservatorisch, restauratorisch) zu.  
+> Welche Definitionen passen zu welcher Maßnahme?
 
----
+### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress)
 
-## Transfer in die eigene Praxis
+Die Temporary Working Group (NFDI4Objects) Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes erarbeitet 2025 einen Minimaldatensatz zur **Erfassung von Konservierungs- und Restaurierungsmaßnahmen**, um Konservierungs- und Restaurierungsdaten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung für Forschung, Lehre und Sammlungspraxis sicherzustellen.
+Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus. 
 
-Die Dokumentation ist nicht nur Pflicht, sondern Voraussetzung für:  
-- Nachvollziehbarkeit von Maßnahmen.  
-- Qualitätssicherung und wissenschaftliche Anschlussfähigkeit.  
-- Sicherung von Erfahrungswissen.  
+Die Metadaten umfassen die Bereiche: 
 
-### Beispiel-Methode: Sammlungs-Check  
+- Objektkennzeichnung
+- Objektbeschreibung
+- Zustandserfassung
+- Untersuchung
+- Probeentnahme
+- Konservierungskonzept
+- Sicherheit & Arbeitsschutz
+- Präventive Konservierung
+- Administrative Metadaten
+- Verwendete Literatur
 
 > **Sammlungs-Check**  
 >
-> Nennt eine Maßnahme aus der eigenen Sammlung und ordnet sie einer Maßnahme-Kategorie zu.  
+> Nennt eine Maßnahme aus der eigenen Sammlung und ordnet sie einer Metadaten-Bereich zu.
 
----
 
 ## Quellen
 
@@ -118,3 +145,4 @@ Die Dokumentation ist nicht nur Pflicht, sondern Voraussetzung für:
 - ICOM-CC: Principles of Conservation-Restoration.  
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025).  
 - Forschungsdaten.info (https://www.forschungsdaten.info).  
+
