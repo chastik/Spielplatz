@@ -94,14 +94,15 @@ Grundsatzpapier:
 
 {{3-4}}
 ***********
-**Die Verantwortungsbereiche von Konservatorinnen und Restauratorinnen**
-<br>
-- Ausführung von strategischer Planungen und diagnostischer Untersuchungen<br>
-- Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen<br>
-- präventive Konservierung<br>
-- Konservierung-Restaurierung<br>
-- Dokumentation<br>
-- Beobachtung jeglicher Eingriffe
+> **Die Verantwortungsbereiche von Konservatorinnen und Restauratorinnen**
+> <br><br>
+> - Ausführung von strategischer Planungen und diagnostischer Untersuchungen<br>
+> - Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen<br>
+> - präventive Konservierung<br>
+> - Konservierung-Restaurierung<br>
+> - Dokumentation<br>
+> - Beobachtung jeglicher Eingriffe
+
 ---
 Grundsatzpapier:
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
@@ -258,6 +259,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
