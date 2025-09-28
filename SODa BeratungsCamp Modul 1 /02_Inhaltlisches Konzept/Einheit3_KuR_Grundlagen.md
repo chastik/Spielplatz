@@ -64,7 +64,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ---
 <br><br>
-***********
+**********
 
 {{1-4}}
 ***********
@@ -80,7 +80,7 @@ Grundsatzpapier:
 
 ---
 <br><br>
-***********
+**********
 
 {{2-4}}
 ***********
@@ -90,17 +90,17 @@ Grundsatzpapier:
 
 ---
 <br><br>
-***********
+**********
 
 {{3-4}}
 ***********
-**Die Verantwortungsbereiche von Konservator*innen und Restaurator*innen**
+**Die Verantwortungsbereiche von Konservatorinnen und Restauratorinnen**
 <br>
-- Ausführung von strategischer Planungen und diagnostischer Untersuchungen
-- Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
-- präventive Konservierung
-- Konservierung-Restaurierung
-- Dokumentation
+- Ausführung von strategischer Planungen und diagnostischer Untersuchungen<br>
+- Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen<br>
+- präventive Konservierung<br>
+- Konservierung-Restaurierung<br>
+- Dokumentation<br>
 - Beobachtung jeglicher Eingriffe
 ---
 Grundsatzpapier:
@@ -109,7 +109,7 @@ Grundsatzpapier:
   
 ---
 <br><br>
-***********
+**********
 
 {{4-4}}
 ***********
@@ -258,6 +258,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
