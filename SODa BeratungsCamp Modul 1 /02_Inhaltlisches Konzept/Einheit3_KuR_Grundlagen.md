@@ -156,7 +156,7 @@ Grundsatzpapier:<br>
 {{2-4}}
 ***********
 <br><br>
-> **Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist Forschungsdatenmanagement eine Kernkompetenz für Konservatorinnen und Restauratorinnen.<br>** 
+> **Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist Forschungsdatenmanagement eine Kernkompetenz für Konservatorinnen und Restauratorinnen.** <br>
 > **Forschungsdatenmanagement erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
 
 ---
@@ -289,6 +289,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
