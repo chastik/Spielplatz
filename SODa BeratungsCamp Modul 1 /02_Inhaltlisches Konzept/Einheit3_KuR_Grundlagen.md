@@ -69,8 +69,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 {{1-4}}
 ***********
 **Die grundlegende Rolle von Konservatorinnen und Restauratorinnen**
-
-> <br>
+> <br><br>
 > "die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
 > <br><br>
 ---
@@ -258,6 +257,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
