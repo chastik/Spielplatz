@@ -63,7 +63,6 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
      {{1}}
 
 **Die grundlegende Rolle von Konservator*innen und Restaurator*innen**
-
  > "die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
 
  Grundsatzpapier:
@@ -162,6 +161,7 @@ Die Metadaten umfassen die Bereiche:
 - ICOM-CC: Principles of Conservation-Restoration.  
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025).  
 - Forschungsdaten.info (https://www.forschungsdaten.info).  
+
 
 
 
