@@ -161,6 +161,77 @@ Die Metadaten umfassen die Bereiche:
 - Forschungsdaten.info (https://www.forschungsdaten.info).  
 
 
+## Dokumentation und Forschungsdatenmanagement: Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
+
+> **Tipp**  
+> Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservator*innen und Restaurator*innen finden sich auf der Homepage des Verbandes der Restauratoren unter dem Reiter "Karriere":  
+> https://www.restauratoren.de/beruf/grundsatzpapiere/
+
+{{1}}
+
+---
+
+**Die grundlegende Rolle von Konservator*innen und Restaurator*innen**
+
+> "die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
+
+Grundsatzpapier:  
+- *Berufsrichtlinien I* der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2  
+- Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+
+{{2}}
+
+---
+
+**Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
+
+> Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
+
+{{3}}
+
+---
+
+**Die Verantwortungsbereiche von Konservator*innen und Restaurator*innen**
+
+- Ausführung von strategischen Planungen und diagnostischen Untersuchungen  
+- Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen  
+- Präventive Konservierung  
+- Konservierung-Restaurierung  
+- Dokumentation  
+- Beobachtung jeglicher Eingriffe  
+
+Grundsatzpapier:  
+- *Berufsrichtlinien I* der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2  
+- Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+
+{{4}}
+
+> **Zuruf**  
+> Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
+
+---
+
+## Konservierungs- und Restaurierungsdokumentation
+
+### Der Prozess der Konservierung-Restaurierung
+
+Quelle: *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* der "Europäischen Vereinigung der Restauratorenverbände" | "European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.) (Seite 19–22).  
+Detaillierte Version abrufbar unter: [Link einfügen]
+
+**Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen:**
+
+- **Phase 1:** Untersuchung und Diagnose (führt zu)  
+- **Phase 2:** Feststellen des Bedarfs (ermöglicht)  
+- **Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)  
+- **Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)  
+- **Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)  
+- **Phase 6:** Resultaten (gefolgt von)  
+- **Phase 7:** abschließende Empfehlungen  
+
+**Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
+Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
+FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
