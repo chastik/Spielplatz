@@ -155,7 +155,8 @@ Grundsatzpapier:<br>
 
 {{2-4}}
 ***********
-> <br><br>
+> <br>
+> ⚠️
 > **Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist Forschungsdatenmanagement eine Kernkompetenz für Konservatorinnen und Restauratorinnen.** <br>
 > **Forschungsdatenmanagement erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
 
@@ -174,136 +175,86 @@ Grundsatzpapier:<br>
 ***********
 
 #### Inhalte einer Konservierungs- und Restaurierungsdokumentation
-in Berufsrichtlinien I der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), Seite 2, abrufbar unter: 
 
-"Die Dokumentation besteht aus genauen bildlichen und schriftlichen Aufzeichnungen aller ausgeführten Maßnahmen sowie deren Begründung. (...) Weitere Anforderungen an die Lagerung, Pflege, Ausstellung oder den Zugang zum kulturellen Eigentum sollen in diesem Dokument präzisiert werden."
+{{0-3}}
+********
+> "Die Dokumentation besteht aus genauen bildlichen und schriftlichen Aufzeichnungen aller ausgeführten Maßnahmen sowie deren Begründung.<br>
+> (...) Weitere Anforderungen an die Lagerung, Pflege, Ausstellung oder den Zugang zum kulturellen Eigentum sollen in diesem Dokument präzisiert werden."
 
-### Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen
-- Diagnostische Untersuchung
-- präventive Konservierung
-- Konservierung
-- Restaurierung
+---
+Grundsatzpapier:<br> 
+- Berufsrichtlinien I der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), Seite 2<br>
+- Abrufbar unter:
 
+---
+<br><br>
+**********
+
+{{1-3}}
+********
+> **Kern der Dokumentation: Die diagnostische Untersuchung und die Konservierungs- und Restaurierungsmaßnahmen**
+> > <br><br>
+> - Diagnostische Untersuchung<br>
+> - präventive Konservierung<br>
+> - Konservierung<br>
+> - Restaurierung
+
+{{2-3}}
+***********
 > **Maßnahmenpäckchen | Drehen und Wenden**
 >
-> Welche Definitionen passen zu welcher Maßnahme?
+> *Welche Definitionen passen zu welcher Maßnahme?*
 
-### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress)
+---
+<br><br>
+***********
 
-Die Temporary Working Group (NFDI4Objects) Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes erarbeitet 2025 einen Minimaldatensatz zur **Erfassung von Konservierungs- und Restaurierungsmaßnahmen**, um Konservierungs- und Restaurierungsdaten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung für Forschung, Lehre und Sammlungspraxis sicherzustellen.
+#### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress)
+
+{{0-3}}
+********
+Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* erarbeitet 2025 einen Minimaldatensatz zur **Erfassung von Konservierungs- und Restaurierungsmaßnahmen**, um Konservierungs- und Restaurierungsdaten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung für Forschung, Lehre und Sammlungspraxis sicherzustellen.<br>
 Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus. 
 
-Die Metadaten umfassen die Bereiche: 
+---
+<br><br>
+***********
 
-- Objektkennzeichnung
-- Objektbeschreibung
-- Zustandserfassung
-- Untersuchung
-- Probeentnahme
-- Konservierungskonzept
-- Sicherheit & Arbeitsschutz
-- Präventive Konservierung
-- Administrative Metadaten
+{{1-3}}
+********
+**Die Metadaten umfassen die Bereiche:** 
+<br><br>
+- Objektkennzeichnung<br>
+- Objektbeschreibung<br>
+- Zustandserfassung<br>
+- Untersuchung<br>
+- Probeentnahme<br>
+- Konservierungskonzept<br>
+- Sicherheit & Arbeitsschutz<br>
+- Präventive Konservierung<br>
+- Administrative Metadaten<br>
 - Verwendete Literatur
 
+---
+<br><br>
+***********
+
+{{2-3}}
+********
 > **Sammlungs-Check**  
 >
-> Nennt eine Maßnahme aus der eigenen Sammlung und ordnet sie einer Metadaten-Bereich zu.
+> Nennen Sie eine Maßnahme aus der eigenen Sammlung und ordnet Sie diese einem Metadaten-Bereich zu.
 
+---
+<br><br>
+*************
 
-## Quellen
+#### Quellen
 
 - E.C.C.O. Professional Guidelines (European Confederation of Conservator-Restorers' Organisations).  
 - ICOM-CC: Principles of Conservation-Restoration.  
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025).  
 - Forschungsdaten.info (https://www.forschungsdaten.info).  
-
-
-## Dokumentation und Forschungsdatenmanagement: Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
-
-> **Tipp**  
-> Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservator*innen und Restaurator*innen finden sich auf der Homepage des Verbandes der Restauratoren unter dem Reiter "Karriere":  
-> https://www.restauratoren.de/beruf/grundsatzpapiere/
-
-{{1}}
-
----
-
-**Die grundlegende Rolle von Konservator*innen und Restaurator*innen**
-
-> "die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
-
-Grundsatzpapier:  
-- *Berufsrichtlinien I* der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2  
-- Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
-
-{{2}}
-
----
-
-**Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
-
-> Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
-
-{{3}}
-
----
-
-**Die Verantwortungsbereiche von Konservator*innen und Restaurator*innen**
-
-- Ausführung von strategischen Planungen und diagnostischen Untersuchungen  
-- Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen  
-- Präventive Konservierung  
-- Konservierung-Restaurierung  
-- Dokumentation  
-- Beobachtung jeglicher Eingriffe  
-
-Grundsatzpapier:  
-- *Berufsrichtlinien I* der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2  
-- Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
-
-{{4}}
-
-> **Zuruf**  
-> Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?
-
----
-
-## Konservierungs- und Restaurierungsdokumentation
-
-### Der Prozess der Konservierung-Restaurierung
-
-Quelle: *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* der "Europäischen Vereinigung der Restauratorenverbände" | "European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.) (Seite 19–22).  
-Detaillierte Version abrufbar unter: [Link einfügen]
-
-**Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen:**
-
-- **Phase 1:** Untersuchung und Diagnose (führt zu)  
-- **Phase 2:** Feststellen des Bedarfs (ermöglicht)  
-- **Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)  
-- **Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)  
-- **Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)  
-- **Phase 6:** Resultaten (gefolgt von)  
-- **Phase 7:** abschließende Empfehlungen  
-
-**Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
-Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
-FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
