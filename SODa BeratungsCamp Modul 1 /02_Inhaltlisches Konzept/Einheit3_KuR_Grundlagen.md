@@ -34,20 +34,20 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 ## Themen und Lernziele
 
 **Themen:**
-- FDM-Grundlagen in der Konservierung und Restaurierung (KuR) in wissenschaftlichen Sammlungen.  
-- Datendokumentation in der Konservierung und Restaurierung.  
-- Konservierungs- und Restaurierungsmaßnahmen (KuR-Maßnahmen).  
-- Dokumentationsbedarf und -praxis in KuR.  
+- FDM-Grundlagen in der Konservierung und Restaurierung (KuR) in wissenschaftlichen Sammlungen.<br>  
+- Datendokumentation in der Konservierung und Restaurierung.<br>  
+- Konservierungs- und Restaurierungsmaßnahmen (KuR-Maßnahmen).<br>  
+- Dokumentationsbedarf und -praxis in KuR.<br>  
 
 **Adressierte Lernziele der LZM (Auswahl):**
-- Grundsatzpapiere für den Beruf der Konservator*in-Restaurator*in mit Relevanz für FDM benennen.  
-- Funktionen und Verantwortlichkeiten von Konservator*innen und Restaurator*innen erläutern.  
-- Relevanz der Dokumentation von KuR-Prozessen in wissenschaftlichen Sammlungen benennen und erläutern.  
-- Allgemeine Inhalte einer KuR-bezogenen Dokumentation benennen und erläutern.  
-- Unterschiedliche Arten von KuR-Maßnahmen benennen und erläutern („Maßnahmenpäckchen“).  
-- Maßnahmen in der eigenen Sammlung anhand der Arten von KuR-Maßnahmen illustrieren.  
-- Prozess der Konservierung-Restaurierung benennen.  
-- Dokumentationsbedarf beim Prozess der KuR erläutern.  
+- Grundsatzpapiere für den Beruf der Konservator*in-Restaurator*in mit Relevanz für FDM benennen.<br>  
+- Funktionen und Verantwortlichkeiten von Konservator*innen und Restaurator*innen erläutern.<br>  
+- Relevanz der Dokumentation von KuR-Prozessen in wissenschaftlichen Sammlungen benennen und erläutern.<br>  
+- Allgemeine Inhalte einer KuR-bezogenen Dokumentation benennen und erläutern.<br>  
+- Unterschiedliche Arten von KuR-Maßnahmen benennen und erläutern („Maßnahmenpäckchen“).<br>  
+- Maßnahmen in der eigenen Sammlung anhand der Arten von KuR-Maßnahmen illustrieren.<br>  
+- Prozess der Konservierung-Restaurierung benennen.<br>  
+- Dokumentationsbedarf beim Prozess der KuR erläutern.<br>  
 - Eigene (Daten-)Dokumentation im Hinblick auf KuR-Daten analysieren.  
 
 ---
@@ -66,7 +66,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 <br><br>
 **********
 
-{{1-4}}
+{{1-5}}
 ***********
 > **Die grundlegende Rolle von Konservatorinnen und Restauratorinnen**
 > <br><br>
@@ -74,7 +74,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 > <br><br>
 
 ---
-Grundsatzpapier:
+Grundsatzpapier:<br>
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
 
@@ -82,7 +82,7 @@ Grundsatzpapier:
 <br><br>
 **********
 
-{{2-4}}
+{{2-5}}
 ***********
 > **Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
 > <br><br>
@@ -92,7 +92,7 @@ Grundsatzpapier:
 <br><br>
 **********
 
-{{3-4}}
+{{3-5}}
 ***********
 > **Die Verantwortungsbereiche von Konservatorinnen und Restauratorinnen**
 > <br><br>
@@ -104,15 +104,15 @@ Grundsatzpapier:
 > - Beobachtung jeglicher Eingriffe
 
 ---
-Grundsatzpapier:
+Grundsatzpapier:<br>
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
-  
+
 ---
 <br><br>
 **********
 
-{{4-4}}
+{{4-5}}
 ***********
 > **Zuruf**
 >
@@ -126,25 +126,26 @@ Grundsatzpapier:
 
 {{0-2}}
 ********
+<br><br>
 **Der Prozess der Konservierung-Restaurierung**
 
 ---
 **********
 
-{{1-3}}
+{{1-4}}
 ***********
-**Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen:**
-<br><br>
-**- Phase 1:** Untersuchung und Diagnose (führt zu)<br>
-**- Phase 2:** Feststellen des Bedarfs (ermöglicht)<br>
-**- Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)<br>
-**- Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)<br>
-**- Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)<br>
-**- Phase 6:** Resultaten (gefolgt von)<br>
-**- Phase 7:** abschließende Empfehlungen
+> **Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen:**
+> <br><br>
+> **- Phase 1:** Untersuchung und Diagnose (führt zu)<br>
+> **- Phase 2:** Feststellen des Bedarfs (ermöglicht)<br>
+> **- Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)<br>
+> **- Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)<br>
+> **- Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)<br>
+> **- Phase 6:** Resultaten (gefolgt von)<br>
+> **- Phase 7:** abschließende Empfehlungen
 
 ---
-Grundsatzpapier: 
+Grundsatzpapier:<br> 
 - Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), S 19-22<br>
 - detaillierte Version abrufbar unter: 
 
@@ -152,15 +153,17 @@ Grundsatzpapier:
 <br><br>
 ***********
 
-{{2-3}}
+{{2-4}}
 ***********
-**Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen. FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
+<br><br>
+> **Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist Forschungsdatenmanagement eine Kernkompetenz für Konservatorinnen und Restauratorinnen.<br> 
+> Forschungsdatenmanagement erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
 
 ---
 <br><br>
 ***********
 
-{{3-3}}
+{{3-4}}
 ***********
 > **Abfrage**
 >
@@ -286,6 +289,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
