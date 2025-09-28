@@ -60,7 +60,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 >
 > https://www.restauratoren.de/beruf/grundsatzpapiere/
 
-{{1}}
+                    {{1}}
 
 **Die grundlegende Rolle von Konservator*innen und Restaurator*innen**
 
@@ -70,13 +70,13 @@ Grundsatzpapier:
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
 
-{{2}}
+                    {{2}}
 
 **Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
 
 > Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
 
-{{3}}
+                    {{3}}
 
 **Die Verantwortungsbereiche von Konservator*innen und Restaurator*innen**
 
@@ -91,7 +91,7 @@ Grundsatzpapier:
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
 
-{{4}}
+                  {{4}}
 
 > **Zuruf**
 >
@@ -162,5 +162,6 @@ Die Metadaten umfassen die Bereiche:
 - ICOM-CC: Principles of Conservation-Restoration.  
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025).  
 - Forschungsdaten.info (https://www.forschungsdaten.info).  
+
 
 
