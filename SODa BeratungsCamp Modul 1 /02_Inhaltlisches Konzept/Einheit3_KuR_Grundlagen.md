@@ -155,7 +155,6 @@ Grundsatzpapier:<br>
 
 {{2-4}}
 ***********
-> <br>
 > ⚠️
 > **Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist Forschungsdatenmanagement eine Kernkompetenz für Konservatorinnen und Restauratorinnen.** <br>
 > **Forschungsdatenmanagement erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
@@ -198,6 +197,10 @@ Grundsatzpapier:<br>
 > - präventive Konservierung<br>
 > - Konservierung<br>
 > - Restaurierung
+
+---
+<br><br>
+**********
 
 {{2-3}}
 ***********
@@ -255,6 +258,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - ICOM-CC: Principles of Conservation-Restoration.  
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025).  
 - Forschungsdaten.info (https://www.forschungsdaten.info).  
+
 
 
 
