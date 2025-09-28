@@ -52,31 +52,49 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ---
 
-## Dokumentation und Forschungsdatenmanagement: Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
+### Dokumentation und Forschungsdatenmanagement: Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
 
-> **Tipp**
->
-> Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservator*innen und Restaurator*innen finden sich auf der Homepage des Verbandes der Restauratoren unter dem Reiter "Karriere" 
->
-> https://www.restauratoren.de/beruf/grundsatzpapiere/
+{{0-1}}
+********
+> **⚠️ Tipp**
+> <br><br>
+> *Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservatorinnen und Restauratorinnen finden sich auf der Homepage des Verbandes der Restauratoren unter dem Reiter "Karriere"*
+> <br><br>
+> Abrufbar unter: https://www.restauratoren.de/beruf/grundsatzpapiere/ (Stand: 28.09.2025)
 
-     {{1}}
-**Die grundlegende Rolle von Konservator*innen und Restaurator*innen**
+---
+<br><br>
+***********
+
+{{1-4}}
+***********
+**Die grundlegende Rolle von Konservatorinnen und Restauratorinnen**
+<br><br>
 > "die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
+<br><br>
+
 Grundsatzpapier:
- - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
- - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+- Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
+- Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
 
-                    {{2}}
+---
+<br><br>
+***********
 
+{{2-4}}
+***********
 **Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
-
+<br><br>
 > Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
 
-                    {{3}}
+---
+<br><br>
+***********
 
+{{3-4}}
+***********
 **Die Verantwortungsbereiche von Konservator*innen und Restaurator*innen**
-
+<br><br>
 - Ausführung von strategischer Planungen und diagnostischer Untersuchungen
 - Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen
 - präventive Konservierung
@@ -88,11 +106,19 @@ Grundsatzpapier:
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
 
-                  {{4}}
+---
+<br><br>
+***********
 
+{{4-4}}
+***********
 > **Zuruf**
 >
 > Welche Verantwortungsbereiche erfordern eine präzise Dokumentation
+
+---
+<br><br>
+***********
 
 ## Konservierungs- und Restaurierungsdokumentation
 
@@ -231,6 +257,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
