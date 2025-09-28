@@ -75,7 +75,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ---
 Grundsatzpapier:
-- Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
+- Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
 
 ---
@@ -105,7 +105,7 @@ Grundsatzpapier:
 
 ---
 Grundsatzpapier:
-- Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
+- Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
   
 ---
@@ -122,28 +122,55 @@ Grundsatzpapier:
 <br><br>
 ***********
 
-## Konservierungs- und Restaurierungsdokumentation
+#### Konservierungs- und Restaurierungsdokumentation
 
-### Der Prozess der Konservierung-Restaurierung
-Quelle: Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.)
-(Seite 19-22), detaillierte Version abrufbar unter: 
+{{0-2}}
+********
+**Der Prozess der Konservierung-Restaurierung**
 
+---
+**********
+
+{{1-3}}
+***********
 **Der Prozess der Konservierung-Restaurierung erfordert folgende Phasen:**
-**- Phase 1:** Untersuchung und Diagnose (führt zu)
-**- Phase 2:** Feststellen des Bedarfs (ermöglicht)
-**- Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)
-**- Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)
-**- Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)
-**- Phase 6:** Resultaten (gefolgt von)
+<br><br>
+**- Phase 1:** Untersuchung und Diagnose (führt zu)<br>
+**- Phase 2:** Feststellen des Bedarfs (ermöglicht)<br>
+**- Phase 3:** Abwägung der KuR-Maßnahmen (erfordert das)<br>
+**- Phase 4:** Planen und Organisieren von Maßnahmen (zur Ausführung und Implementierung von)<br>
+**- Phase 5:** Konservierungs- und Restaurierungs-Maßnahmen (zum Erreichen von)<br>
+**- Phase 6:** Resultaten (gefolgt von)<br>
 **- Phase 7:** abschließende Empfehlungen
 
+---
+Grundsatzpapier: 
+- Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), S 19-22<br>
+- detaillierte Version abrufbar unter: 
+
+---
+<br><br>
+***********
+
+{{2-3}}
+***********
 **Jede Phase der Konservierung-Restaurierung erfordet Dokumentation und Forschung. Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen. FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.**
 
+---
+<br><br>
+***********
+
+{{3-3}}
+***********
 > **Abfrage**
 >
-> Gibt es in Ihrem Tätigkeitsbereich Workflows für Konservierungs- und Restaurierungsprozesse und für eine strukturierte Dokumentation?
+> *Gibt es in Ihrem Tätigkeitsbereich Workflows für Konservierungs- und Restaurierungsprozesse und für eine strukturierte Dokumentation?*
 
-### Inhalte einer Konservierungs- und Restaurierungsdokumentation
+---
+<br><br>
+***********
+
+#### Inhalte einer Konservierungs- und Restaurierungsdokumentation
 in Berufsrichtlinien I der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), Seite 2, abrufbar unter: 
 
 "Die Dokumentation besteht aus genauen bildlichen und schriftlichen Aufzeichnungen aller ausgeführten Maßnahmen sowie deren Begründung. (...) Weitere Anforderungen an die Lagerung, Pflege, Ausstellung oder den Zugang zum kulturellen Eigentum sollen in diesem Dokument präzisiert werden."
@@ -259,6 +286,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
