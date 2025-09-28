@@ -76,6 +76,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 Grundsatzpapier:
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+
 ---
 <br><br>
 ***********
@@ -85,6 +86,7 @@ Grundsatzpapier:
 **Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
 > <br>
 > Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
+
 ---
 <br><br>
 ***********
@@ -103,6 +105,7 @@ Grundsatzpapier:
 Grundsatzpapier:
 - Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2
 - Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+  
 ---
 <br><br>
 ***********
@@ -112,6 +115,7 @@ Grundsatzpapier:
 > **Zuruf**
 >
 > *Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?*
+
 ---
 <br><br>
 ***********
@@ -253,6 +257,7 @@ Detaillierte Version abrufbar unter: [Link einfügen]
 **Jede Phase der Konservierung-Restaurierung erfordert Dokumentation und Forschung.**  
 Daher ist FDM eine Kernkompetenz für Konservator*innen und Restaurator*innen.  
 FDM erleichtert und professionalisiert die Arbeitspraxis, macht Maßnahmen nachvollziehbar, sichert Erfahrungswissen und trägt zur Qualitätssicherung und zum Wissenschaftsfortschritt bei.
+
 
 
 
