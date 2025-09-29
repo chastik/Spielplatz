@@ -97,8 +97,9 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 {{3-4}}
 ***********
 **Bewahrung in wissenschaftlichen Sammlungen - ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung**
-> <br>
-> In wissenschaftlichen Sammlungen bedeutet Bewahrung immer einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Ausstellung, Forschung, Analyse und Lehre.<br> Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg. Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professionell zu steuern.
+> In wissenschaftlichen Sammlungen bedeutet Bewahrung immer einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Ausstellung, Forschung, Analyse und Lehre.<br>
+> Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg.
+> Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professionell zu steuern.
 <br><br>
 - Dokumentation liefert die Grundlage für konservatorische Entscheidungen<br>
 - Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis<br>
@@ -123,14 +124,20 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 Grundsatzpapier:<br>
 E.C.C.O. - Berufsrichtlinien I, S. 2<br>
 https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+
+---
 <br><br>
+***********
 
 {{1-4}}
 ***********
 > **Zuruf**
 >
 > *Welche Verantwortungsbereiche erfordern eine präzise Dokumentation?*
+
+---
 <br><br>
+***********
 
 {{2-4}}
 ***********
@@ -142,7 +149,10 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 - Konservierung-Restaurierung<br>
 - **Dokumentation**<br>
 - Beobachtung jeglicher Eingriffe
+
+---
 <br><br>
+***********
 
 {{3-4}}
 ********
@@ -152,6 +162,9 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 Grundsatzpapier:<br> 
 E.C.C.O. Berufsrichtlinien I, S. 2<br>
 https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+<br><br>
+
+---
 <br><br>
 ***********
 
@@ -173,7 +186,10 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 Grundsatzpapier:<br> 
 E.C.C.O. Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators, S 19-22<br>
 detaillierte Version des Prozesses der Konservierung-Restaurierung:https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf (Stand: 29.09.2025)
-´
+
+---
+<br><br>
+***********
 
 {{1-3}}
 ********
@@ -183,7 +199,10 @@ detaillierte Version des Prozesses der Konservierung-Restaurierung:https://www.r
 - präventive Konservierung<br>
 - Konservierung<br>
 - Restaurierung
+
+---
 <br><br>
+***********
 
 {{2-3}}
 ***********
@@ -191,13 +210,13 @@ detaillierte Version des Prozesses der Konservierung-Restaurierung:https://www.r
 >
 > *Welche Definitionen passen zu welcher Maßnahme?*
 
+---
 <br><br>
 ***********
 
 #### Dokumentation als Forschungsdatenmanagement (FDM)
-> Jede Phase konservatorischer Arbeit erzeugt wertvolle Daten - diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden. Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Konservatorinnen und Restauratorinnen.
-<br><br>
-***********
+> Jede Phase konservatorischer Arbeit erzeugt wertvolle Daten - diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.
+> Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Konservatorinnen und Restauratorinnen.
 
 #### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress)
 
@@ -241,6 +260,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
