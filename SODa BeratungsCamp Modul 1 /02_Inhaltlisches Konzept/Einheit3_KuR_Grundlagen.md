@@ -263,11 +263,21 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 <br><br>
 *************
 
-#### Quellen
+## SODa Forum: Minimaldatensatz für Konservierungs- und Restaurierungsmaßnahmen - Vorstellung & Feedbackrunde
+
+- Zeit: Do., 16. Oktober 2025, 10:00 - 11:30
+- Informationen und Zoom-Zugang unter: https://sammlungen.io/events/soda-forum-minimaldatensatz-fuer-konservierungs-und-restaurierungsmassnahmen-vorstellung
+
+---
+<br><br>
+*************
+
+## Quellen
 
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
