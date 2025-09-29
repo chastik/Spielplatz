@@ -33,13 +33,13 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ## Themen und Lernziele
 
-**Themen:**
+**Themen:** <br>
 - FDM-Grundlagen in der Konservierung und Restaurierung (KuR) in wissenschaftlichen Sammlungen.<br>  
 - Datendokumentation in der Konservierung und Restaurierung.<br>  
 - Konservierungs- und Restaurierungsmaßnahmen (KuR-Maßnahmen).<br>  
 - Dokumentationsbedarf und -praxis in KuR.<br>  
 
-**Adressierte Lernziele der LZM (Auswahl):**
+**Adressierte Lernziele der LZM (Auswahl):** <br>
 - Grundsatzpapiere für den Beruf der Konservator*in-Restaurator*in mit Relevanz für FDM benennen.<br>  
 - Funktionen und Verantwortlichkeiten von Konservator*innen und Restaurator*innen erläutern.<br>  
 - Relevanz der Dokumentation von KuR-Prozessen in wissenschaftlichen Sammlungen benennen und erläutern.<br>  
@@ -49,15 +49,6 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 - Prozess der Konservierung-Restaurierung benennen.<br>  
 - Dokumentationsbedarf beim Prozess der KuR erläutern.<br>  
 - Eigene (Daten-)Dokumentation im Hinblick auf KuR-Daten analysieren.  
-
----
-
-## Link zu Crypt-Pad der Einheit
-
-![CryptPad zu Einheit 3](SODa BeratungsCamp Modul 1 /assets/2025-09-29_QR-Code-Cryptpad_Einheit3_gs.png)
-
-Link: https://cryptpad.fr/code/#/3/code/edit/f577d4f9595a60def5dd8f661755093c/
-
 
 ---
 
@@ -77,25 +68,29 @@ Link: https://cryptpad.fr/code/#/3/code/edit/f577d4f9595a60def5dd8f661755093c/
 
 {{1-5}}
 ***********
-> **Die grundlegende Rolle von Konservatorinnen und Restauratorinnen**
-> <br><br>
-> "die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
+**Rolle und Verantwortung von Konservatorinnen und Restauratorinnen**
+> <br>
+> "Die grundlegende Rolle des Restaurators ist die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
 > <br><br>
 
----
 Grundsatzpapier:<br>
-- Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
-- Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
-
----
-<br><br>
-**********
+* Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
+* Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+***********
 
 {{2-5}}
 ***********
+**Was bedeutet "Bewahrung des kulturellen Erbes"?**
+<br>
+* Erhaltung der materiellen **Substanz**
+* Sicherung der immateriellen **Informationen** 
+* Gewährleistunf der **Zugänglichkeit** für Forschung und Öffentlichkeit
+
+
+
 > **Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
 > <br><br>
-> Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen bestmöglichem Schutz des kulturellen Erbes und optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung.
+> Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen **bestmöglichem Schutz** des kulturellen Erbes und **optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung**.
 
 ---
 <br><br>
@@ -131,7 +126,7 @@ Grundsatzpapier:<br>
 <br><br>
 ***********
 
-#### Konservierungs- und Restaurierungsdokumentation
+#### Inhalte der Konservierungs- und Restaurierungsdokumentation
 
 {{0-2}}
 ********
@@ -274,6 +269,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
