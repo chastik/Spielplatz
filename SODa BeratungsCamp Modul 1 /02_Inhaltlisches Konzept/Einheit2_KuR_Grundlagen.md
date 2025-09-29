@@ -96,14 +96,13 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 
 {{3-4}}
 ***********
-**Bewahrung in wissenschaftlichen Sammlungen - ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung**
-<br><br>
+**Bewahrung in wissenschaftlichen Sammlungen - ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung**<br>
 
 > In wissenschaftlichen Sammlungen bedeutet Bewahrung immer einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Ausstellung, Forschung, Analyse und Lehre.<br>
 > Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg.
 > Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professionell zu steuern.
+> <br><br>
 
-<br><br>
 - Dokumentation liefert die Grundlage für konservatorische Entscheidungen<br>
 - Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis<br>
 - Dokumentation ermöglicht interdisziplinäre Forschung an und mit kulturellem Erbe<br>
@@ -263,6 +262,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
