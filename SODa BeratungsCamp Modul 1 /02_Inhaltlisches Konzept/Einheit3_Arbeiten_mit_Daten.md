@@ -16,18 +16,7 @@ comment:  SODA OERs
 
 **Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept**  
 
-**Einheit 2 – Arbeiten mit sammlungsbezogenen Forschungsdaten**  
-
-von  
-
-Fachexpertise Analyse strukturierter Daten und Graphen  
-
-und  
-
-Fachexpertise Restaurierung und Konservierung  
-
-SODa, Sammlungen, Objekte, Datenkompetenzen  
-Interessensgemeinschaft für Semantische Datenverarbeitung e.V.  
+**Einheit 3 – Arbeiten mit sammlungsbezogenen Forschungsdaten**  
 
 ---
 
@@ -36,19 +25,86 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 **Themen:**
 
 * Metadaten
-* Bedeutung von offenen vs. proprietären Formaten.
-* Relevanz für Archivierung und Nachnutzung.  
+* Unterschied zwischen strukturierten, semi-strukturierten und unstrukturierten Daten  
+* Relevanz für Archivierung und Nachnutzung.
 
 **Adressierte Lernziele der LZM (Auswahl):**
 
-- 2.2 Beispiele für Forschungsdaten benennen (01_001_0008).  
-- 2.3 Datentypen benennen (02_002_0208).  
-- 2.4 Dateiformate benennen (02_005_0276).  
-- 2.5 Archivierungs- und Nachnutzungsformate benennen (02_005_0287).  
-- 2.6 Unterschied zwischen proprietären und offenen Formaten (neu).  
-- 2.7 Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern (02_001_0204).  
+* 2\.2 Beispiele für Forschungsdaten benennen (01_001_0008).  
+* 2\.3 Datentypen benennen (02_002_0208).  
+* 2\.4 Dateiformate benennen (02_005_0276).
+* 2\.5 Archivierungs- und Nachnutzungsformate benennen (02_005_0287).
+* 2\.7 Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern (02_001_0204).  
 
 ---
+
+## Was sind Metadaten?  
+
+Daten über Daten“ – sie beschreiben Inhalt, Struktur, Herkunft oder Nutzungskontext von Forschungsdaten.  
+Beispiele: Titel, Autor:in, Entstehungsdatum, Dateiformat, Provenienz, Schlagworte.  
+
+## Strukturierte, semi-strukturierte und unstrukturierte Daten  
+
+* **Strukturiert:** klar definierte Formate und Felder (z. B. Tabellen, Datenbanken, CSV).  
+* **Semi-strukturiert:** teilweise organisiert, flexibel erweiterbar (z. B. XML, JSON, Metadatenfelder).  
+* **Unstrukturiert:** keine vordefinierte Struktur (z. B. Scans, Freitexte, Bilder).  
+
+> **Mini-Gruppenübung:**  
+> Ordnet Beispieldaten aus eurer Praxis in die drei Kategorien ein.  
+
+## Daten in der KuR-Praxis  
+
+Typische Beispiele:  
+- Zustandsprotokolle (textuell/halb-strukturiert)  
+- Restaurierungsberichte (Text + Bild)  
+- Fotografien und Scans (unstrukturiert)  
+- Objektkataloge / Inventardatenbanken (strukturiert)  
+- Sensor- oder Messdaten (numerisch, strukturiert)  
+
+---
+
+## Warum Daten strukturieren?  
+
+- **Interoperabilität:** Austausch zwischen Systemen und Projekten.  
+- **Archivierung:** nachhaltige Sicherung durch standardisierte Formate.  
+- **Nachnutzung:** bessere Auffindbarkeit, Vergleichbarkeit und Weiterverarbeitung.  
+- **Analysefähigkeit:** maschinenlesbare Daten ermöglichen Auswertung und Visualisierung.  
+
+> **Think-Pair-Share:**  
+> Wo begegnen euch unstrukturierte Daten in eurer Arbeit?  
+> Welche Vorteile hätte es, sie zu strukturieren?  
+
+---
+
+## Offener Diskurs  
+
+„Wir haben zentrale Datenarten, Metadaten und Strukturierungsprinzipien kennengelernt.  
+👉 Nun wollen wir gemeinsam diskutieren: **Welche Daten begegnen euch in der eigenen Arbeitspraxis, und welche Herausforderungen entstehen beim Umgang mit ihnen?**“  
+
+---  
+
+## Quellen  
+
+- SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
+- Forschungsdaten.info (https://www.forschungsdaten.info)  
+- DFG: Leitlinien zum Umgang mit Forschungsdaten  
+
+Möchtest du, dass ich daraus gleich auch eine kompakte Folienstruktur (Thema + 1 Beispiel + 1 Übung) ableite, damit du es schneller präsentieren kannst?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Datenarten in der KuR
 
@@ -98,5 +154,6 @@ Warum ist die Unterscheidung wichtig?
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
 - Forschungsdaten.info (https://www.forschungsdaten.info)  
 - DFG: Leitlinien zum Umgang mit Forschungsdaten  
+
 
 
