@@ -68,29 +68,42 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 {{1-5}}
 ***********
-**Rolle und Verantwortung von Konservatorinnen und Restauratorinnen**
-> <br>
-> "Die grundlegende Rolle des Restaurators ist die Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
+**Rolle und Verantwortung von Konservatorinnen und Restauratorinnen**<br>
+
+> "[D]ie Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
 > <br><br>
 
 Grundsatzpapier:<br>
-* Berufsrichtlinien I der Europäischen Vereinigung der Restauratorenverbände | European Confederation of Conservator-Restorers' Organisations (E.C.C.O), Seite 2<br>
-* Abrufbar unter: https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+E.C.C.O. - Berufsrichtlinien I, S. 2<br>
+https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf (Stand: 28.09.2025)
+<br><br>
 ***********
 
 {{2-5}}
 ***********
-**Was bedeutet "Bewahrung des kulturellen Erbes"?**
+**"Bewahrung des kulturellen Erbes" bedeutet eine doppelte Verantwortung**
 <br>
-* Erhaltung der materiellen **Substanz**
-* Sicherung der immateriellen **Informationen** 
-* Gewährleistunf der **Zugänglichkeit** für Forschung und Öffentlichkeit
+- Erhaltung der **materiellen Substanz**
+- Sicherung der **immateriellen Informationen** 
+- Gewährleistung der **Zugänglichkeit** - des materiellen Erbes und der Informationen<br>
+- Dokumentation ist ein zentraler Teil dieser Verantwortung und damit der restauratorischen Praxis, weil sie die Informationen speichert und den Substanzerhalt unterstützt
+<br><br>
+***********
+
+{{3-5}}
+***********
+**Bewahrung in wissenschaftlichen Sammlungen - ein Balanceakt zwischen Substanzerhalt und Nutzbarmachung**
+<br>
+> In wissenschaftlichen Sammlungen bedeutet Bewahrung immer einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Ausstellung, Forschung, Analyse und Lehre.<br> Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg. Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professionell zu steuern.
+<br><br>
+- Dokumentation liefert Grundlage für konservatorische Entscheidungen
+- Dokumentation speichert Erfahrungswissen aus der restauratorischen Praxis
+- Dokumentation ermöglicht interdisziplinäre Forschung an und mit kulturellem Erbe
+- ...
+<br><br>
+***********
 
 
-
-> **Die Kunst der Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen**
-> <br><br>
-> Die Bewahrung kulturellen Erbes in wissenschaftlichen Sammlungen erfordert einen Balanceakt zwischen **bestmöglichem Schutz** des kulturellen Erbes und **optimaler Nachnutzbarkeit für Ausstellung, Lehre und Forschung**.
 
 ---
 <br><br>
@@ -269,6 +282,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
