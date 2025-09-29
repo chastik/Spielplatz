@@ -61,8 +61,6 @@ Typische Beispiele:
 - Objektkataloge / Inventardatenbanken (strukturiert)  
 - Sensor- oder Messdaten (numerisch, strukturiert)  
 
----
-
 ## Warum Daten strukturieren?  
 
 - **Interoperabilität:** Austausch zwischen Systemen und Projekten.  
@@ -74,86 +72,17 @@ Typische Beispiele:
 > Wo begegnen euch unstrukturierte Daten in eurer Arbeit?  
 > Welche Vorteile hätte es, sie zu strukturieren?  
 
----
 
-## Offener Diskurs  
+> **Offener Diskurs**  
+> Wo begegnen euch unstrukturierte Daten in eurer Arbeit?  
+> Welche Vorteile hätte es, sie zu strukturieren?
 
-„Wir haben zentrale Datenarten, Metadaten und Strukturierungsprinzipien kennengelernt.  
-👉 Nun wollen wir gemeinsam diskutieren: **Welche Daten begegnen euch in der eigenen Arbeitspraxis, und welche Herausforderungen entstehen beim Umgang mit ihnen?**“  
+**Welche Daten begegnen euch in der eigenen Arbeitspraxis, und welche Herausforderungen entstehen beim Umgang mit ihnen?**“  
 
----  
+
 
 ## Quellen  
 
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
 - Forschungsdaten.info (https://www.forschungsdaten.info)  
 - DFG: Leitlinien zum Umgang mit Forschungsdaten  
-
-Möchtest du, dass ich daraus gleich auch eine kompakte Folienstruktur (Thema + 1 Beispiel + 1 Übung) ableite, damit du es schneller präsentieren kannst?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Datenarten in der KuR
-
-- **Strukturiert:** Tabellen, Datenbanken (z. B. CSV).  
-- **Semi-strukturiert:** XML, JSON, Metadatenfelder.  
-- **Unstrukturiert:** Scans, Freitext, Fotos.  
-
-### Beispiel..
-
-> **Zuruf** 
-> 
-> Jede:r nennt ein Beispiel für Forschungsdaten aus dem eigenen Arbeitskontext.  
-
----
-
-## Datentypen und Formate
-
-- **Datentypen:** numerisch, textuell, zeitlich, boolesch.  
-- **Dateiformate:** `.csv`, `.tiff`, `.wav`, `.odt`, …  
-- **Offene Formate:** dokumentiert, standardisiert, langfristig nutzbar.  
-- **Proprietäre Formate:** eingeschränkt nutzbar, an Software gebunden.  
-
-### Beispiel-Sammlungsformate
-
-> **Stichwortsalat:**  
->
-> Ordne ein Format aus deinem Arbeitsalltag der Kategorie „gut für Archivierung“ oder „problematisch für Nachnutzung“ zu.  
-
----
-
-## Transfer
-
-Warum ist die Unterscheidung wichtig?  
-- Archivierung: richtige Formate sichern Langzeitverfügbarkeit.  
-- Interoperabilität: offene Standards erleichtern Austausch.  
-- Analyse: strukturierte Daten sind maschinenlesbar.  
-
-### Beispiel Risiko Tandem
-
-> **Think-Pair-Share:**  
->
-> Wo nutze ich proprietäre Formate? Welche Risiken sehe ich?  
-
-
-## Quellen
-
-- SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
-- Forschungsdaten.info (https://www.forschungsdaten.info)  
-- DFG: Leitlinien zum Umgang mit Forschungsdaten  
-
-
-
