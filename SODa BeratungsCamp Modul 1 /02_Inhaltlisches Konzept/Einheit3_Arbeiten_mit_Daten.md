@@ -34,11 +34,13 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 ## Themen und Lernziele
 
 **Themen:**
-- Unterschiede von Datenarten, -typen und -formaten.  
-- Bedeutung von offenen vs. proprietären Formaten.  
-- Relevanz für Archivierung und Nachnutzung.  
+
+* Metadaten
+* Bedeutung von offenen vs. proprietären Formaten.
+* Relevanz für Archivierung und Nachnutzung.  
 
 **Adressierte Lernziele der LZM (Auswahl):**
+
 - 2.2 Beispiele für Forschungsdaten benennen (01_001_0008).  
 - 2.3 Datentypen benennen (02_002_0208).  
 - 2.4 Dateiformate benennen (02_005_0276).  
@@ -96,4 +98,5 @@ Warum ist die Unterscheidung wichtig?
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
 - Forschungsdaten.info (https://www.forschungsdaten.info)  
 - DFG: Leitlinien zum Umgang mit Forschungsdaten  
+
 
