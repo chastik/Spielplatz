@@ -221,3 +221,4 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
 
 
+
