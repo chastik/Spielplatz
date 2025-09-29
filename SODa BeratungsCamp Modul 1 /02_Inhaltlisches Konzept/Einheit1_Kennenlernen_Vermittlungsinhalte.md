@@ -39,13 +39,17 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 ## Themen und Lernziele
 
 **Themen:**
+
 * Grundlagen, Herausforderungen und Rollen im Forschungsdatenmanagement
 * Umgang mit und Maßnahmen für Sammlungs- und Objektdaten
 * Bedarfe und Kompetenzen 
 
 **Adressierte Lernziele der LZM (Auswahl):**
+
 * 1\.1 Die eigenen Verantwortlichkeiten im Bereich Forschungsdatenmanagement (FDM) erläutern. (LZM-ID: 01\_003\_0038)
+  
 * 1\.2 Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen. (LZM-ID: 01\_005\_0082)
+  
 * 1\.3 Beratungsbedarfe analysieren. (LZM-ID: 06\_004\_1153)
 
 ---
@@ -215,4 +219,5 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 ## Quellen
 
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
+
 
