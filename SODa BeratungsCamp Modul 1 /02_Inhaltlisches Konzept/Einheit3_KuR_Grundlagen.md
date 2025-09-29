@@ -56,6 +56,8 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ![CryptPad zu Einheit 3](https://github.com/chastik/Spielplatz/blob/main/SODa%20BeratungsCamp%20Modul%201%20/assets/2025-09-29_QR-Code-Cryptpad_Einheit3_gs.png)
 
+Link: https://cryptpad.fr/code/#/3/code/edit/f577d4f9595a60def5dd8f661755093c/
+
 ---
 
 #### Dokumentation und Forschungsdatenmanagement:<br>Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
@@ -153,7 +155,7 @@ Grundsatzpapier:<br>
 ---
 Grundsatzpapier:<br> 
 - Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators der "Europäischen Vereinigung der Restauratorenverbände" |"European Confederation of Conservator-Restorers' Organisations" (E.C.C.O.), S 19-22<br>
-- detaillierte Version abrufbar unter: 
+- detaillierte Version des Prozesses der Konservierung-Restaurierung abrufbar unter:https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf (Stand: 29.09.2025)
 
 ---
 <br><br>
@@ -226,7 +228,7 @@ Grundsatzpapier:<br>
 Die Temporary Working Group (NFDI4Objects) *Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes* erarbeitet 2025 einen Minimaldatensatz zur **Erfassung von konservierungs- und restaurierungsbezogenen Daten**, um diese Daten als Teil der restauratorischen Arbeitspraxis effizient zu erzeugen und gleichzeitig ihre effektive Nachnutzung u. a. auch für die Sammlungspraxis, Forschung und Lehre sicherzustellen.<br>
 Der Minimaldatensatz kann auf einer Mock-up Page getestet und evaluiert werden: https://conservationdata.github.io/docu/#/
 
-Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus. 
+Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendung finden sich in einem verlinkten Metadaten-Thesaurus: https://conservationdata.github.io/terms/
 
 ---
 <br><br>
@@ -266,6 +268,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
