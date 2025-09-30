@@ -14,9 +14,9 @@ comment:  SODA OERs
 
 # SODa BeratungsCamp Modul 1  
 
-**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept**  
+**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Inhaltliches Konzept**  
 
-**Einheit 3 – Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen**  
+**Einheit 2 – Einführung in die Grundlagen der Dokumentation von Konservierungs- und Restaurierungsprozessen in wissenschaftlichen Sammlungen**  
 
 von  
 
@@ -34,10 +34,11 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 ## Themen und Lernziele
 
 **Themen:** <br>
-- FDM-Grundlagen in der Konservierung und Restaurierung (KuR) in wissenschaftlichen Sammlungen.<br>  
-- Datendokumentation in der Konservierung und Restaurierung.<br>  
+- Datendokumentation in der Konservierung und Restaurierung.<br>
+- Dokumentationsbedarf und -praxis in KuR.<br>
 - Konservierungs- und Restaurierungsmaßnahmen (KuR-Maßnahmen).<br>  
-- Dokumentationsbedarf und -praxis in KuR.<br>  
+- Dokumentationsbedarf und -praxis in KuR.<br>
+- FDM-Grundlagen in der Konservierung und Restaurierung (KuR) in wissenschaftlichen Sammlungen.
 
 **Adressierte Lernziele der LZM (Auswahl):** <br>
 - Grundsatzpapiere für den Beruf der Konservator*in-Restaurator*in mit Relevanz für FDM benennen.<br>  
@@ -48,7 +49,8 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 - Maßnahmen in der eigenen Sammlung anhand der Arten von KuR-Maßnahmen illustrieren.<br>  
 - Prozess der Konservierung-Restaurierung benennen.<br>  
 - Dokumentationsbedarf beim Prozess der KuR erläutern.<br>  
-- Eigene (Daten-)Dokumentation im Hinblick auf KuR-Daten analysieren.  
+- Eigene (Daten-)Dokumentation im Hinblick auf KuR-Daten analysieren.<br>
+- Metadatenstandards für KuR-Maßnahmen benennen
 
 ---
 
@@ -101,13 +103,6 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 > In wissenschaftlichen Sammlungen bedeutet Bewahrung immer einen Balanceakt zwischen **Substanzerhalt** und **Nutzbarmachung** für Ausstellung, Forschung, Analyse und Lehre.<br>
 > Dieser Balanceakt erfordert die kontinuierliche Erzeugung, Sammlung und den Austausch von Informationen über Institutionen und Fachdisziplinen hinweg.
 > Nur eine strukturierte Dokumentation ermöglicht es, diesen Balanceakt professionell zu steuern.
-> <br><br>
-
-- Dokumentation liefert die Grundlage für konservatorische Entscheidungen<br>
-- Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis<br>
-- Dokumentation ermöglicht interdisziplinäre Forschung an und mit kulturellem Erbe<br>
-- Dokumentation gewährleistet Transparenz, Nachvollziehbarkeit und Qualitätssicherung<br>
-- ...
 
 ---
 <br><br>
@@ -151,6 +146,14 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 - Konservierung-Restaurierung<br>
 - **Dokumentation**<br>
 - Beobachtung jeglicher Eingriffe
+<br><br>
+- Dokumentation liefert die Grundlage für konservatorische Entscheidungen<br>
+- Dokumentation sichert Erfahrungswissen aus der restauratorischen Praxis<br>
+- Dokumentation ermöglicht interdisziplinäre Forschung an und mit kulturellem Erbe<br>
+- Dokumentation gewährleistet Transparenz, Nachvollziehbarkeit und Qualitätssicherung<br>
+- ...
+
+> Dokumentation ist also kein Zusatz, sondern der Schlüssel, um Substanzerhalt und wissenschaftliche Nutzung miteinander zu verbinden
 
 ---
 <br><br>
@@ -262,6 +265,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
