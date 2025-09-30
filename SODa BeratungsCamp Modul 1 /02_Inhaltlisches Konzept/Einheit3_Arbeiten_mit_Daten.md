@@ -41,7 +41,10 @@ comment:  SODA OERs
 ## Was sind Metadaten?  
 
 Daten über Daten“ – sie beschreiben Inhalt, Struktur, Herkunft oder Nutzungskontext von Forschungsdaten.  
+
 Beispiele: Titel, Autor:in, Entstehungsdatum, Dateiformat, Provenienz, Schlagworte.  
+
+Beispiel: KuR Dokumentation: https://conservationdata.github.io/docu/#/
 
 ## Strukturierte, semi-strukturierte und unstrukturierte Daten  
 
@@ -55,11 +58,14 @@ Beispiele: Titel, Autor:in, Entstehungsdatum, Dateiformat, Provenienz, Schlagwor
 ## Daten in der KuR-Praxis  
 
 Typische Beispiele:  
-- Zustandsprotokolle (textuell/halb-strukturiert)  
-- Restaurierungsberichte (Text + Bild)  
-- Fotografien und Scans (unstrukturiert)  
-- Objektkataloge / Inventardatenbanken (strukturiert)  
-- Sensor- oder Messdaten (numerisch, strukturiert)  
+
+* Zustandsprotokolle (textuell/halb-strukturiert)  
+* Restaurierungsberichte (Text + Bild)  
+* Fotografien und Scans (unstrukturiert)  
+* Objektkataloge / Inventardatenbanken (strukturiert)  
+* Sensor- oder Messdaten (numerisch, strukturiert)
+
+Beipiel: Restaurieungsprotokoll: https://atelierstrebel.ch/_tmc_daten/File/Holzdeckelband%20vollrestaurierung.pdf
 
 ## Warum Daten strukturieren?  
 
@@ -86,3 +92,4 @@ Typische Beispiele:
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
 - Forschungsdaten.info (https://www.forschungsdaten.info)  
 - DFG: Leitlinien zum Umgang mit Forschungsdaten  
+
