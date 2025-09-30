@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa BeratungsCamp Modul 1  
 
-**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept**
+**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Inhaltliches Konzept**
 
 **Einheit 1 - Kennenlernen**
 
@@ -219,6 +219,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 ## Quellen
 
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
+
 
 
 
