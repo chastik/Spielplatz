@@ -105,12 +105,6 @@ Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate
 
 !?[Der Wal zieht um](https://www.youtube.com/watch?v=-ql1E7_VVT4&list=PLgoiCMgV-zrfnWn_J6mv4K-FeWoM9iVQU&index=63)
 
-Das Walskelett, das über dem Museumscafé im Forum Wissen schwebt, zählt zu den eindrucksvollsten Objekten des Hauses. Mit seiner Größe und Präsenz ist es zugleich Publikumsmagnet und Prestigeobjekt. Doch das fragile Knochengerüst ist nicht nur mehrfach umgezogen, sondern auch dauerhaft wechselnden Umgebungsbedingungen ausgesetzt – von Luftfeuchte und Staub über Temperaturschwankungen bis hin zu Vibrationen durch Besucher*innenbewegungen. Eine kontinuierliche Konservierung und sorgfältige Pflege sind daher unverzichtbar.
-
-Das Forum Wissen der Universität Göttingen vereint über 70 akademische Sammlungen unter einem Dach und macht bereits mehr als 70.000 digitalisierte Objekte online zugänglich. Es verbindet Forschung, Lehre, Sammlung und Vermittlung. 
-
-Doch in der Praxis zeigen sich auch die Schattenseiten: verlorene Informationen, unklare Zuständigkeiten, schwer auffindbare oder gar unzugängliche Daten, die weder nachvollziehbar noch nutzbar sind. Solche Beispiele machen deutlich, dass es im Sammlungsalltag zahlreiche „Scary Tales“ gibt – viele davon wären und sind mit konsequentem Forschungsdatenmanagement vermeidbar.
-
 ## Wer trägt Verantwortung im FDM?
 
 Forschungsdatenmanagement ist eine Querschnittsaufgabe, an der viele Akteur:innen beteiligt sind. 
@@ -219,6 +213,7 @@ Forschungsdatenmanagement (FDM) ist kein Selbstzweck – Bedarfe entstehen aus k
 ## Quellen
 
 >siehe SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)
+
 
 
 
