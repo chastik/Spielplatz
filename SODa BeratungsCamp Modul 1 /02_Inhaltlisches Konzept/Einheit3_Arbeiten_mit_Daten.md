@@ -14,7 +14,7 @@ comment:  SODA OERs
 
 # SODa BeratungsCamp Modul 1  
 
-**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Didaktisches Konzept**  
+**Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation – Inhaltliches Konzept**  
 
 **Einheit 3 – Arbeiten mit sammlungsbezogenen Forschungsdaten**  
 
@@ -92,4 +92,5 @@ Beipiel: Restaurieungsprotokoll: https://atelierstrebel.ch/_tmc_daten/File/Holzd
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
 - Forschungsdaten.info (https://www.forschungsdaten.info)  
 - DFG: Leitlinien zum Umgang mit Forschungsdaten  
+
 
