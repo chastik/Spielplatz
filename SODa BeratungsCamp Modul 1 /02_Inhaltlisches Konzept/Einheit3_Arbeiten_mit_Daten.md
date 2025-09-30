@@ -74,23 +74,18 @@ Beipiel: Restaurieungsprotokoll: https://atelierstrebel.ch/_tmc_daten/File/Holzd
 - **Nachnutzung:** bessere Auffindbarkeit, Vergleichbarkeit und Weiterverarbeitung.  
 - **Analysefähigkeit:** maschinenlesbare Daten ermöglichen Auswertung und Visualisierung.  
 
-> **Think-Pair-Share:**  
-> Wo begegnen euch unstrukturierte Daten in eurer Arbeit?  
-> Welche Vorteile hätte es, sie zu strukturieren?  
-
-
 > **Offener Diskurs**  
-> Wo begegnen euch unstrukturierte Daten in eurer Arbeit?  
+> Wo begegnen euch unstrukturierte Daten in eurer Arbeit?
+>
+> Welche Herausforderungen entstehen im Umgang mit unstrukturierten Daten?
+> 
 > Welche Vorteile hätte es, sie zu strukturieren?
-
-**Welche Daten begegnen euch in der eigenen Arbeitspraxis, und welche Herausforderungen entstehen beim Umgang mit ihnen?**“  
-
-
 
 ## Quellen  
 
 - SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen (https://zenodo.org/records/16761352, v1.1, 2025)  
 - Forschungsdaten.info (https://www.forschungsdaten.info)  
 - DFG: Leitlinien zum Umgang mit Forschungsdaten  
+
 
 
