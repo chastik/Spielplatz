@@ -23,15 +23,15 @@ comment:  SODA OERs
 ## Themen und Lernziele
 
 **Themen:** <br>
-- Datendokumentation in der Konservierung und Restaurierung.<br>
+- Datendokumentation in der Konservierung und Restaurierung (KuR).<br>
 - Dokumentationsbedarf und -praxis in KuR.<br>
 - Konservierungs- und Restaurierungsmaßnahmen (KuR-Maßnahmen).<br>  
 - Dokumentationsbedarf und -praxis in KuR.<br>
-- FDM-Grundlagen in der Konservierung und Restaurierung (KuR) in wissenschaftlichen Sammlungen.
+- FDM-Grundlagen in der KuR in wissenschaftlichen Sammlungen.
 
 **Adressierte Lernziele der LZM (Auswahl):** <br>
-- Grundsatzpapiere für den Beruf der Konservator*in-Restaurator*in mit Relevanz für FDM benennen.<br>  
-- Funktionen und Verantwortlichkeiten von Konservator*innen und Restaurator*innen erläutern.<br>  
+- Grundsatzpapiere für den Beruf der Konservator\*in-Restaurator*in mit Relevanz für FDM benennen.<br>  
+- Funktionen und Verantwortlichkeiten von Konservato\*innen und Restaurator*innen erläutern.<br>  
 - Relevanz der Dokumentation von KuR-Prozessen in wissenschaftlichen Sammlungen benennen und erläutern.<br>  
 - Allgemeine Inhalte einer KuR-bezogenen Dokumentation benennen und erläutern.<br>  
 - Unterschiedliche Arten von KuR-Maßnahmen benennen und erläutern („Maßnahmenpäckchen“).<br>  
@@ -43,13 +43,13 @@ comment:  SODA OERs
 
 ---
 
-#### Dokumentation und Forschungsdatenmanagement:<br>Die zentrale Verantwortung von Konservatorinnen und Restauratorinnen in wissenschaftlichen Sammlungen
+#### Dokumentation und Forschungsdatenmanagement:<br>Die zentrale Verantwortung von Konservator\*innen und Restaurator*innen in wissenschaftlichen Sammlungen
 
 {{0-1}}
 ********
 > **⚠️ Tipp**
 > <br><br>
-> *Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservatorinnen und Restauratorinnen finden sich auf der Homepage des Verbandes der Restauratoren unter dem Reiter "Karriere"*
+> *Grundlagentexte, internationale Chartas und Richtlinien zu Berufsbild und Tätigkeitsfeldern von Konservator\*innen und Restaurator*innen finden sich auf der Homepage des Verbandes der Restauratoren unter dem Reiter "Karriere"*
 > <br><br>
 > Abrufbar unter: https://www.restauratoren.de/beruf/grundsatzpapiere/ (Stand: 28.09.2025)
 
@@ -59,7 +59,7 @@ comment:  SODA OERs
 
 {{1-4}}
 ***********
-**Rolle und Verantwortung von Konservatorinnen und Restauratorinnen**<br>
+**Rolle und Verantwortung von Konservator\*innen und Restaurator*innen**<br>
 
 > "[D]ie Bewahrung des kulturellen Erbes zugunsten gegenwärtiger und künftiger Generationen."
 > <br><br>
@@ -97,7 +97,7 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 <br><br>
 ***********
 
-#### Die Verantwortungsbereiche von Konservatorinnen und Restauratorinnen
+#### Die Verantwortungsbereiche von Konservator\*innen und Restaurator*innen
 
 {{0-4}}
 ********
@@ -210,7 +210,7 @@ detaillierte Version des Prozesses der Konservierung-Restaurierung:https://www.r
 
 #### Dokumentation als Forschungsdatenmanagement (FDM)
 > Jede Phase konservatorischer Arbeit erzeugt wertvolle Daten - diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.<br>
-> Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Konservatorinnen und Restauratorinnen.
+> Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Konservator\*innen und Restaurator*innen.
 
 #### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress)
 
@@ -241,19 +241,13 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - Verwendete Literatur
 
 ---
-<br><br>
-***********
-
-## SODa Forum: Minimaldatensatz für Konservierungs- und Restaurierungsmaßnahmen - Vorstellung & Feedbackrunde
-
-- Zeit: Do., 16. Oktober 2025, 10:00 - 11:30
-- Informationen und Zoom-Zugang unter: https://sammlungen.io/events/soda-forum-minimaldatensatz-fuer-konservierungs-und-restaurierungsmassnahmen-vorstellung
 
 ## Quellen
 
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
