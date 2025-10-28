@@ -127,7 +127,7 @@ https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-D
 
 {{2-4}}
 ***********
-**Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Konservatorinnen und Restauratorinnen.**
+**Die Berufsrichtlinien der E.C.C.O. definieren Dokumentation als eigenständigen Verantwortungsbereich von Konservator\*innen und Restaurator*innen.**
 <br><br>
 - Ausführung von strategischer Planungen und diagnostischer Untersuchungen<br>
 - Erstellung von Konservierungskonzepten und Maßnahmenempfehlungen<br>
@@ -212,7 +212,7 @@ detaillierte Version des Prozesses der Konservierung-Restaurierung:https://www.r
 > Jede Phase konservatorischer Arbeit erzeugt wertvolle Daten - diese müssen strukturiert erfasst, gespeichert und zugänglich gemacht werden.<br>
 > Forschungsdatenmanagement (FDM) ist daher eine Kernkompetenz von Konservator\*innen und Restaurator*innen.
 
-#### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress)
+#### Minimalmetadatensatz für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Work in Progress [Stand: 28.10.2025)
 
 {{0-2}}
 ********
@@ -247,6 +247,7 @@ Die enthaltenen Begriffe, entsprechende Beschreibungen und Hinweise zur Anwendun
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2002/2004). *E.C.C.O. Berufsrichtlinien (I)*. Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/E.C.C.O.-Richtlinien-I-Der-Beruf.pdf  
 - E.C.C.O. European Confederation of Conservator-Restorers’ Organizations A.I.S.B.L. (2013). *Kompetenzen für den Zugang zum Beruf des Konservator-Restaurators* (2. Aufl). Abgerufen am 29. September 2025 von https://www.restauratoren.de/wp-content/uploads/2016/10/ECCO_Kompetenzen_EQF-deutsch-Stand-Juli-2012.pdf
 - Fella, K., Lefeldt, J., Mempel-Länger, L., Puhl, A., & Witt, N. (2024). Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes. https://doi.org/10.5281/zenodo.14135529
+
 
 
 
