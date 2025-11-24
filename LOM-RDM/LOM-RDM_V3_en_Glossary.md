@@ -1,5 +1,5 @@
 <!--
-title: "Glossar zur Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) V3"
+title: "Glossary for the Learning Objectives Matrix on the Topic of Research Data Management (RDM)"
 
 pdf-engine: pdflatex
 
@@ -283,4 +283,5 @@ Wikipedia. (n. d.-d). Objektorientierung. In Wikipedia.  last access 4. March 20
 Wikipedia. (n. d.-e). Zugriffskontrolle. In Wikipedia.  last access 3. March 2025, von https://de.wikipedia.org/wiki/Zugriffskontrolle 
 
 Zeng, M. L. (2008). Knowledge Organization Systems (KOS). Knowledge Organization, 35(2–3), 160–182. https://doi.org/10.5771/0943-7444-2008-2-3-160 
+
 
