@@ -124,7 +124,7 @@ In synchronen Lernformen, entweder online oder in Präsenz, werden die Lernbaust
 
 Durch die granulare Taktung nach Lernzielen entsteht eine einheitliche Struktur, die eine einheitliche Konzeption der Lernbausteine ermöglicht (Vgl. Lernmodell nach Klaus Döring (Döring, Klaus W. Handbuch Lehren und Trainieren in der Weiterbildung. Weinheim: Beltz, 2008. S. 57–58)). Jeder Lernbaustein beginnt mit einem kurzen Wissensimpuls in Form eines Vortrags, bei dem das Interesse der Lernenden geweckt und das individuelle Vorwissen aktiviert wird. In einer begleiteten Praxisübung wenden die Lernenden das neue Wissen an und festigen es im Austausch mit anderen Teilnehmenden. In der anschließenden Vertiefungsphase werden weitere Anwendungsbeispiele vorgestellt und besprochen, so dass Lernende das individulle Wissen Praxisbezogen erweitern können. Durch den Diskurs in der Gruppe wird das Gelernte weiter vertieft. In der abschließenden Phase erfolgt ein selbstständiger Wissenstransfer, bei dem die Lernenden das Gelernte weiterentwickeln oder anpassen. Dadurch wird ein iterativer Wissensaufbau sichergestellt.
 
-## Wie wird gelernt? Welche Lernmethoden werden eingesetzt?
+## Wie wird gelernt?
 
 *Lernmethoden*
 
@@ -243,7 +243,7 @@ Forschendes Lernen im Seminar - Ein Leitfaden für Lehrende. 2. überarbeitete A
 To see this document as an interactive LiaScript rendered version, click on the
 ollowing link/badge:
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/chastik/Spielplatz/main/Liascript_test.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/liascript-oers/refs/heads/main/OER4DHd25/00_Einleitung_Einheit_Erstellung_Korpus_mit_Trainingsbilddaten.md)
 
 ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
